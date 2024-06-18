@@ -1,0 +1,498 @@
+,TeamName,LogID,TeamColor,GameMode
+0,The Duddy Dudes,3661406,Red,PL
+1,The Duddy Dudes,3662777,Red,PL
+2,The Duddy Dudes,3662757,Red,PL
+3,The Duddy Dudes,3662694,Blue,PL
+4,The Duddy Dudes,3662628,Red,PL
+5,The Duddy Dudes,3662599,Blue,PL
+6,The Duddy Dudes,3658569,Blue,KOTH
+7,The Duddy Dudes,3658541,Blue,KOTH
+8,The Duddy Dudes,3658498,Blue,KOTH
+9,The Duddy Dudes,3658459,Blue,KOTH
+10,The Duddy Dudes,3658421,Blue,KOTH
+11,The Duddy Dudes,3657813,Blue,KOTH
+12,The Duddy Dudes,3657776,Blue,KOTH
+13,The Duddy Dudes,3657214,Blue,KOTH
+14,The Duddy Dudes,3657178,Blue,KOTH
+15,The Duddy Dudes,3645350,Red,KOTH
+16,The Duddy Dudes,3645316,Red,KOTH
+17,The Duddy Dudes,3645268,Blue,PL
+18,The Duddy Dudes,3645231,Blue,KOTH
+19,The Duddy Dudes,3661469,Blue,PL
+20,The Duddy Dudes,3661440,Red,PL
+21,The Duddy Dudes,3661394,Blue,PL
+22,The Duddy Dudes,3661370,Red,PL
+23,The Duddy Dudes,3658386,Blue,KOTH
+24,The Duddy Dudes,3654259,Blue,PL
+25,The Duddy Dudes,3654233,Blue,PL
+26,The Duddy Dudes,3654172,Red,PL
+27,The Duddy Dudes,3654130,Blue,PL
+28,The Duddy Dudes,3653559,Blue,PL
+29,The Duddy Dudes,3653518,Red,PL
+30,The Duddy Dudes,3653484,Blue,PL
+31,The Hardworking Hornets,3662748,Red,PL
+32,The Hardworking Hornets,3662705,Blue,PL
+33,The Hardworking Hornets,3662640,Red,PL
+34,The Hardworking Hornets,3662590,Blue,PL
+35,The Hardworking Hornets,3661469,Red,PL
+36,The Hardworking Hornets,3661440,Blue,PL
+37,The Hardworking Hornets,3661405,Blue,PL
+38,The Hardworking Hornets,3661391,Red,PL
+39,The Hardworking Hornets,3661366,Blue,PL
+40,The Hardworking Hornets,3657921,Red,KOTH
+41,The Hardworking Hornets,3657886,Red,KOTH
+42,The Hardworking Hornets,3657858,Red,KOTH
+43,The Hardworking Hornets,3654262,Red,PL
+44,The Hardworking Hornets,3654235,Red,PL
+45,The Hardworking Hornets,3654208,Red,PL
+46,The Hardworking Hornets,3654150,Blue,PL
+47,The Hardworking Hornets,3654086,Red,PL
+48,The Hardworking Hornets,3654046,Blue,PL
+49,The Hardworking Hornets,3653547,Red,PL
+50,The Hardworking Hornets,3653545,Red,PL
+51,The Hardworking Hornets,3653513,Blue,PL
+52,The Hardworking Hornets,3653461,Blue,PL
+53,The Hardworking Hornets,3653449,Blue,PL
+54,The Hardworking Hornets,3653400,Red,PL
+55,The Hardworking Hornets,3657214,Red,KOTH
+56,The Hardworking Hornets,3657178,Red,KOTH
+57,The Hardworking Hornets,3657171,Red,KOTH
+58,The Hardworking Hornets,3657147,Red,KOTH
+59,The Hardworking Hornets,3657111,Red,KOTH
+60,The Hardworking Hornets,3657098,Red,KOTH
+61,The Hardworking Hornets,3662161,Blue,PL
+62,The Hardworking Hornets,3662118,Red,PL
+63,The Hardworking Hornets,3662083,Blue,PL
+64,The Hardworking Hornets,3662080,Blue,PL
+65,The Hardworking Hornets,3662036,Red,PL
+66,somebody help,3662759,Red,PL
+67,somebody help,3662684,Blue,PL
+68,somebody help,3662623,Red,PL
+69,somebody help,3662587,Blue,PL
+70,somebody help,3658533,Red,KOTH
+71,somebody help,3658495,Red,KOTH
+72,somebody help,3658416,Red,KOTH
+73,somebody help,3658389,Red,KOTH
+74,somebody help,3654195,Red,PL
+75,somebody help,3654153,Blue,PL
+76,somebody help,3654110,Blue,PL
+77,somebody help,3654062,Red,PL
+78,somebody help,3654033,Blue,PL
+79,somebody help,3653548,Red,PL
+80,somebody help,3653519,Blue,PL
+81,somebody help,3653472,Red,PL
+82,somebody help,3653435,Red,PL
+83,somebody help,3653414,Blue,PL
+84,somebody help,3652812,Red,PL
+85,somebody help,3652775,Blue,PL
+86,somebody help,3652744,Red,PL
+87,somebody help,3652713,Blue,PL
+88,somebody help,3652703,Red,PL
+89,somebody help,3652690,Blue,PL
+90,somebody help,3662172,Red,PL
+91,somebody help,3662153,Red,PL
+92,somebody help,3662098,Blue,PL
+93,somebody help,3662060,Red,PL
+94,somebody help,3662020,Blue,PL
+95,somebody help,3657891,Red,KOTH
+96,somebody help,3657864,Red,KOTH
+97,somebody help,3657814,Red,KOTH
+98,somebody help,3657782,Red,KOTH
+99,somebody help,3641091,Blue,PL
+100,somebody help,3641044,Red,KOTH
+101,somebody help,3661471,Blue,PL
+102,somebody help,3661441,Red,PL
+103,somebody help,3661406,Blue,PL
+104,somebody help,3661394,Red,PL
+105,somebody help,3641712,Blue,PL
+106,somebody help,3641679,Blue,PL
+107,somebody help,3641636,Blue,PL
+108,somebody help,3641587,Red,KOTH
+109,Ohio Leif Village,3662745,Red,PL
+110,Ohio Leif Village,3662685,Blue,PL
+111,Ohio Leif Village,3662628,Blue,PL
+112,Ohio Leif Village,3662599,Red,PL
+113,Ohio Leif Village,3658586,Blue,KOTH
+114,Ohio Leif Village,3658521,Blue,KOTH
+115,Ohio Leif Village,3658489,Blue,KOTH
+116,Ohio Leif Village,3658459,Red,KOTH
+117,Ohio Leif Village,3658421,Red,KOTH
+118,Ohio Leif Village,3658386,Red,KOTH
+119,Ohio Leif Village,3657942,Red,KOTH
+120,Ohio Leif Village,3657900,Red,KOTH
+121,Ohio Leif Village,3657866,Red,KOTH
+122,Ohio Leif Village,3654259,Red,PL
+123,Ohio Leif Village,3654233,Red,PL
+124,Ohio Leif Village,3654172,Blue,PL
+125,Ohio Leif Village,3654130,Red,PL
+126,Ohio Leif Village,3654084,Blue,PL
+127,Ohio Leif Village,3654036,Red,PL
+128,Ohio Leif Village,3653567,Red,PL
+129,Ohio Leif Village,3653550,Red,PL
+130,Ohio Leif Village,3653522,Blue,PL
+131,Ohio Leif Village,3653502,Red,PL
+132,Ohio Leif Village,3653495,Blue,PL
+133,Ohio Leif Village,3653461,Red,PL
+134,Ohio Leif Village,3653449,Red,PL
+135,Ohio Leif Village,3653400,Blue,PL
+136,Ohio Leif Village,3649865,Red,PL
+137,Ohio Leif Village,3649798,Blue,KOTH
+138,Ohio Leif Village,3649223,Blue,KOTH
+139,Ohio Leif Village,3649200,Red,PL
+140,Ohio Leif Village,3649169,Blue,KOTH
+141,Ohio Leif Village,3649123,Red,KOTH
+142,Ohio Leif Village,3645816,Red,KOTH
+143,Ohio Leif Village,3645790,Blue,PL
+144,Ohio Leif Village,3657813,Red,KOTH
+145,Ohio Leif Village,3657776,Red,KOTH
+146,Ohio Leif Village,3657229,Blue,KOTH
+147,Ohio Leif Village,3657205,Blue,KOTH
+148,Ohio Leif Village,3657175,Blue,KOTH
+149,Ohio Leif Village,3657171,Blue,KOTH
+150,Ohio Leif Village,3657147,Blue,KOTH
+151,Ohio Leif Village,3657111,Blue,KOTH
+152,Ohio Leif Village,3657098,Blue,KOTH
+153,Ohio Leif Village,3652839,Blue,PL
+154,Ohio Leif Village,3652831,Blue,PL
+155,Ohio Leif Village,3652794,Red,PL
+156,Ohio Leif Village,3652765,Blue,PL
+157,Ohio Leif Village,3652743,Red,PL
+158,Ohio Leif Village,3652725,Blue,PL
+159,Ohio Leif Village,3652693,Red,PL
+160,Ohio Leif Village,3648532,Red,KOTH
+161,Ohio Leif Village,3648510,Blue,PL
+162,Ohio Leif Village,3648463,Blue,PL
+163,Ohio Leif Village,3648449,Red,PL
+164,Ohio Leif Village,3648422,Red,KOTH
+165,Ohio Leif Village,3662182,Blue,PL
+166,Ohio Leif Village,3662156,Blue,PL
+167,Ohio Leif Village,3662105,Red,PL
+168,Ohio Leif Village,3662049,Blue,PL
+169,Ohio Leif Village,3662018,Red,PL
+170,Ohio Leif Village,3645370,Red,PL
+171,Ohio Leif Village,3645320,Red,KOTH
+172,Ohio Leif Village,3661453,Red,PL
+173,Ohio Leif Village,3661446,Blue,PL
+174,Ohio Leif Village,3661405,Red,PL
+175,Ohio Leif Village,3661391,Blue,PL
+176,Ohio Leif Village,3661366,Red,PL
+177,Dreamybull's Kitchen,3661478,Red,PL
+178,Dreamybull's Kitchen,3661477,Red,PL
+179,Dreamybull's Kitchen,3661459,Blue,PL
+180,Dreamybull's Kitchen,3661424,Red,PL
+181,Dreamybull's Kitchen,3661421,Red,PL
+182,Dreamybull's Kitchen,3661389,Blue,PL
+183,Dreamybull's Kitchen,3658537,Blue,KOTH
+184,Dreamybull's Kitchen,3658491,Blue,KOTH
+185,Dreamybull's Kitchen,3658460,Blue,KOTH
+186,Dreamybull's Kitchen,3658428,Blue,KOTH
+187,Dreamybull's Kitchen,3658382,Blue,KOTH
+188,Dreamybull's Kitchen,3657220,Blue,KOTH
+189,Dreamybull's Kitchen,3657208,Blue,KOTH
+190,Dreamybull's Kitchen,3657180,Blue,KOTH
+191,Dreamybull's Kitchen,3657170,Red,KOTH
+192,Dreamybull's Kitchen,3657169,Red,KOTH
+193,Dreamybull's Kitchen,3657136,Red,KOTH
+194,Dreamybull's Kitchen,3653567,Blue,PL
+195,Dreamybull's Kitchen,3653550,Blue,PL
+196,Dreamybull's Kitchen,3653522,Red,PL
+197,Dreamybull's Kitchen,3653502,Blue,PL
+198,Dreamybull's Kitchen,3653495,Red,PL
+199,Dreamybull's Kitchen,3652832,Red,PL
+200,Dreamybull's Kitchen,3652819,Blue,PL
+201,Dreamybull's Kitchen,3652773,Red,PL
+202,Dreamybull's Kitchen,3652759,Red,PL
+203,Dreamybull's Kitchen,3652756,Red,PL
+204,Dreamybull's Kitchen,3652720,Blue,PL
+205,Dreamybull's Kitchen,3649780,Red,KOTH
+206,Dreamybull's Kitchen,3649763,Blue,PL
+207,Dreamybull's Kitchen,3649734,Red,PL
+208,Dreamybull's Kitchen,3648542,Blue,PL
+209,Dreamybull's Kitchen,3648501,Red,KOTH
+210,Dreamybull's Kitchen,3648471,Blue,PL
+211,Dreamybull's Kitchen,3648419,Red,KOTH
+212,Dreamybull's Kitchen,3645366,Blue,PL
+213,Dreamybull's Kitchen,3645325,Blue,KOTH
+214,Dreamybull's Kitchen,3645305,Red,PL
+215,Dreamybull's Kitchen,3645262,Red,KOTH
+216,Dreamybull's Kitchen,3657942,Blue,KOTH
+217,Dreamybull's Kitchen,3657900,Blue,KOTH
+218,Dreamybull's Kitchen,3657866,Blue,KOTH
+219,Dreamybull's Kitchen,3657831,Red,KOTH
+220,Dreamybull's Kitchen,3657830,Red,KOTH
+221,Dreamybull's Kitchen,3657816,Red,KOTH
+222,Dreamybull's Kitchen,3657792,Red,KOTH
+223,Dreamybull's Kitchen,3653453,Red,PL
+224,Dreamybull's Kitchen,3653426,Blue,PL
+225,Dreamybull's Kitchen,3653390,Red,PL
+226,Dreamybull's Kitchen,3649865,Blue,PL
+227,Dreamybull's Kitchen,3649798,Red,KOTH
+228,Dreamybull's Kitchen,3641678,Red,KOTH
+229,Dreamybull's Kitchen,3641615,Red,KOTH
+230,Dreamybull's Kitchen,3641583,Red,KOTH
+231,Dreamybull's Kitchen,3654347,Red,PL
+232,Dreamybull's Kitchen,3654295,Red,PL
+233,Dreamybull's Kitchen,3654278,Blue,PL
+234,Dreamybull's Kitchen,3654266,Blue,PL
+235,Dreamybull's Kitchen,3654203,Red,PL
+236,Dreamybull's Kitchen,3654142,Blue,PL
+237,Dreamybull's Kitchen,3654116,Red,PL
+238,Dreamybull's Kitchen,3654094,Blue,PL
+239,Dreamybull's Kitchen,3654045,Red,PL
+240,Dreamybull's Kitchen,3662759,Blue,PL
+241,Dreamybull's Kitchen,3662684,Red,PL
+242,Dreamybull's Kitchen,3662656,Blue,PL
+243,Dreamybull's Kitchen,3662650,Blue,PL
+244,Dreamybull's Kitchen,3662607,Red,PL
+245,Dreamybull's Kitchen,3662582,Blue,PL
+246,Dreamybull's Kitchen,3645912,Blue,PL
+247,Dreamybull's Kitchen,3645858,Blue,KOTH
+248,Dreamybull's Kitchen,3645816,Blue,KOTH
+249,Dreamybull's Kitchen,3645790,Red,PL
+250,Dreamybull's Kitchen,3644758,Red,KOTH
+251,Dreamybull's Kitchen,3644726,Blue,KOTH
+252,Dreamybull's Kitchen,3644702,Blue,PL
+253,Dreamybull's Kitchen,3644678,Red,KOTH
+254,Dreamybull's Kitchen,3649148,Blue,KOTH
+255,Dreamybull's Kitchen,3649124,Red,PL
+256,Dreamybull's Kitchen,3641147,Blue,KOTH
+257,Dreamybull's Kitchen,3641125,Blue,KOTH
+258,Dreamybull's Kitchen,3641086,Blue,KOTH
+259,Dreamybull's Kitchen,3641070,Blue,KOTH
+260,Dreamybull's Kitchen,3641061,Blue,KOTH
+261,Dreamybull's Kitchen,3641045,Red,PL
+262,@MST,3662782,Blue,PL
+263,@MST,3662721,Red,PL
+264,@MST,3662675,Blue,PL
+265,@MST,3662623,Blue,PL
+266,@MST,3662587,Red,PL
+267,@MST,3661478,Blue,PL
+268,@MST,3661477,Blue,PL
+269,@MST,3661459,Red,PL
+270,@MST,3658586,Red,KOTH
+271,@MST,3658521,Red,KOTH
+272,@MST,3658489,Red,KOTH
+273,@MST,3658416,Blue,KOTH
+274,@MST,3658389,Blue,KOTH
+275,@MST,3657938,Red,KOTH
+276,@MST,3657926,Red,KOTH
+277,@MST,3657871,Red,KOTH
+278,@MST,3657833,Red,KOTH
+279,@MST,3657807,Red,KOTH
+280,@MST,3657772,Red,KOTH
+281,@MST,3654235,Blue,PL
+282,@MST,3654208,Blue,PL
+283,@MST,3654150,Red,PL
+284,@MST,3654110,Red,PL
+285,@MST,3654062,Blue,PL
+286,@MST,3654033,Red,PL
+287,@MST,3653553,Red,PL
+288,@MST,3653534,Red,PL
+289,@MST,3653509,Blue,PL
+290,@MST,3653477,Red,PL
+291,@MST,3653444,Blue,PL
+292,@MST,3653391,Red,PL
+293,@MST,3641159,Blue,PL
+294,@MST,3641108,Blue,KOTH
+295,@MST,3641074,Blue,PL
+296,@MST,3641048,Blue,KOTH
+297,@MST,3648542,Red,PL
+298,@MST,3648501,Blue,KOTH
+299,@MST,3649174,Blue,KOTH
+300,@MST,3649159,Blue,KOTH
+301,@MST,3649133,Red,PL
+302,@MST,3652832,Blue,PL
+303,@MST,3652819,Red,PL
+304,@MST,3652773,Blue,PL
+305,@MST,3652737,Red,PL
+306,@MST,3652704,Blue,PL
+307,@MST,3640490,Red,PL
+308,@MST,3640458,Blue,KOTH
+309,@MST,3640425,Red,KOTH
+310,@MST,3640413,Blue,PL
+311,@MST,3662180,Blue,PL
+312,@MST,3662166,Blue,PL
+313,@MST,3662114,Red,PL
+314,@MST,3662068,Blue,PL
+315,@MST,3662028,Red,PL
+316,@MST,3649855,Blue,PL
+317,@MST,3649793,Red,KOTH
+318,@MST,3649762,Blue,PL
+319,@MST,3649720,Red,KOTH
+320,@MST,3645921,Blue,PL
+321,@MST,3645886,Red,PL
+322,@MST,3645839,Red,KOTH
+323,@MST,3645805,Blue,KOTH
+324,@MST,3645787,Blue,PL
+325,@MST,3645765,Red,PL
+326,@MST,3645366,Red,PL
+327,@MST,3645325,Red,KOTH
+328,@MST,3645281,Blue,KOTH
+329,@MST,3645263,Blue,KOTH
+330,@MST,3645230,Blue,KOTH
+331,@MST,3657220,Red,KOTH
+332,@MST,3657208,Red,KOTH
+333,@MST,3657180,Red,KOTH
+334,@MST,3657144,Red,KOTH
+335,@MST,3657101,Red,KOTH
+336,@MST,3644780,Red,PL
+337,@MST,3644746,Red,KOTH
+338,@MST,3644731,Red,KOTH
+339,@MST,3641712,Red,PL
+340,@MST,3641679,Red,PL
+341,@MST,3641636,Red,PL
+342,@MST,3641587,Blue,KOTH
+343,Run It Back,3662745,Blue,PL
+344,Run It Back,3662685,Red,PL
+345,Run It Back,3662656,Red,PL
+346,Run It Back,3662650,Red,PL
+347,Run It Back,3662607,Blue,PL
+348,Run It Back,3662582,Red,PL
+349,Run It Back,3661471,Red,PL
+350,Run It Back,3661441,Blue,PL
+351,Run It Back,3661416,Red,PL
+352,Run It Back,3661400,Red,PL
+353,Run It Back,3661371,Blue,PL
+354,Run It Back,3658569,Red,KOTH
+355,Run It Back,3658541,Red,KOTH
+356,Run It Back,3658498,Red,KOTH
+357,Run It Back,3658460,Red,KOTH
+358,Run It Back,3658428,Red,KOTH
+359,Run It Back,3658382,Red,KOTH
+360,Run It Back,3654347,Blue,PL
+361,Run It Back,3654250,Blue,PL
+362,Run It Back,3654247,Blue,PL
+363,Run It Back,3654196,Red,PL
+364,Run It Back,3654151,Blue,PL
+365,Run It Back,3654116,Blue,PL
+366,Run It Back,3654094,Red,PL
+367,Run It Back,3654045,Blue,PL
+368,Run It Back,3653484,Red,PL
+369,Run It Back,3653444,Red,PL
+370,Run It Back,3653391,Blue,PL
+371,Run It Back,3649736,Blue,KOTH
+372,Run It Back,3649721,Blue,KOTH
+373,Run It Back,3653559,Red,PL
+374,Run It Back,3653518,Blue,PL
+375,Run It Back,3662124,Blue,PL
+376,Run It Back,3662110,Red,PL
+377,Run It Back,3662068,Red,PL
+378,Run It Back,3662028,Blue,PL
+379,Run It Back,3657148,Red,KOTH
+380,Run It Back,3657107,Red,KOTH
+381,Run It Back,3652812,Blue,PL
+382,Run It Back,3652775,Red,PL
+383,Run It Back,3652755,Blue,PL
+384,Run It Back,3652723,Red,PL
+385,Run It Back,3652697,Blue,PL
+386,Run It Back,3657948,Red,KOTH
+387,Run It Back,3657903,Red,KOTH
+388,Run It Back,3657869,Red,KOTH
+389,Run It Back,3657833,Blue,KOTH
+390,Run It Back,3657807,Blue,KOTH
+391,Run It Back,3657772,Blue,KOTH
+392,FroggieLand,3657229,Red,KOTH
+393,FroggieLand,3657205,Red,KOTH
+394,FroggieLand,3657175,Red,KOTH
+395,FroggieLand,3657170,Blue,KOTH
+396,FroggieLand,3657169,Blue,KOTH
+397,FroggieLand,3657136,Blue,KOTH
+398,FroggieLand,3654262,Blue,PL
+399,FroggieLand,3654250,Red,PL
+400,FroggieLand,3654247,Red,PL
+401,FroggieLand,3654196,Blue,PL
+402,FroggieLand,3654151,Red,PL
+403,FroggieLand,3654086,Blue,PL
+404,FroggieLand,3654046,Red,PL
+405,FroggieLand,3648532,Blue,KOTH
+406,FroggieLand,3648510,Red,PL
+407,FroggieLand,3648464,Blue,KOTH
+408,FroggieLand,3648438,Red,PL
+409,FroggieLand,3649208,Blue,KOTH
+410,FroggieLand,3649187,Blue,PL
+411,FroggieLand,3662777,Blue,PL
+412,FroggieLand,3662757,Blue,PL
+413,FroggieLand,3662694,Red,PL
+414,FroggieLand,3662640,Blue,PL
+415,FroggieLand,3662590,Red,PL
+416,FroggieLand,3658436,Blue,KOTH
+417,FroggieLand,3658390,Blue,KOTH
+418,FroggieLand,3641153,Blue,PL
+419,FroggieLand,3641107,Blue,KOTH
+420,FroggieLand,3641083,Red,PL
+421,FroggieLand,3641043,Blue,KOTH
+422,FroggieLand,3662172,Blue,PL
+423,FroggieLand,3662153,Blue,PL
+424,FroggieLand,3662098,Red,PL
+425,FroggieLand,3662060,Blue,PL
+426,FroggieLand,3662020,Red,PL
+427,Worse Comp Format,3662782,Red,PL
+428,Worse Comp Format,3662721,Blue,PL
+429,Worse Comp Format,3662675,Red,PL
+430,Worse Comp Format,3654195,Blue,PL
+431,Worse Comp Format,3654153,Red,PL
+432,Worse Comp Format,3653564,Red,PL
+433,Worse Comp Format,3653526,Blue,PL
+434,Worse Comp Format,3653487,Red,PL
+435,Worse Comp Format,3653453,Blue,PL
+436,Worse Comp Format,3653426,Red,PL
+437,Worse Comp Format,3653390,Blue,PL
+438,Worse Comp Format,3662625,Blue,PL
+439,Worse Comp Format,3654084,Red,PL
+440,Worse Comp Format,3654036,Blue,PL
+441,Worse Comp Format,3658537,Red,KOTH
+442,Worse Comp Format,3658491,Red,KOTH
+443,Worse Comp Format,3658436,Red,KOTH
+444,Worse Comp Format,3658390,Red,KOTH
+445,Worse Comp Format,3657891,Blue,KOTH
+446,Worse Comp Format,3657864,Blue,KOTH
+447,Worse Comp Format,3657839,Red,KOTH
+448,Worse Comp Format,3657778,Red,KOTH
+449,Worse Comp Format,3645912,Red,PL
+450,Worse Comp Format,3645858,Red,KOTH
+451,Impostors,3658533,Blue,KOTH
+452,Impostors,3658495,Blue,KOTH
+453,Impostors,3658437,Blue,KOTH
+454,Impostors,3658384,Blue,KOTH
+455,Impostors,3657839,Blue,KOTH
+456,Impostors,3657778,Blue,KOTH
+457,Impostors,3654295,Blue,PL
+458,Impostors,3654278,Red,PL
+459,Impostors,3654266,Red,PL
+460,Impostors,3654203,Blue,PL
+461,Impostors,3654142,Red,PL
+462,Impostors,3654080,Red,PL
+463,Impostors,3654039,Blue,PL
+464,Impostors,3657921,Blue,KOTH
+465,Impostors,3657886,Blue,KOTH
+466,Impostors,3657858,Blue,KOTH
+467,Impostors,3649855,Red,PL
+468,Impostors,3649793,Blue,KOTH
+469,Impostors,3649740,Blue,KOTH
+470,Impostors,3649727,Blue,PL
+471,Impostors,3653548,Blue,PL
+472,Impostors,3653519,Red,PL
+473,Impostors,3653472,Blue,PL
+474,Impostors,3653433,Red,PL
+475,Impostors,3653392,Blue,PL
+476,Impostors,3645873,Blue,KOTH
+477,Impostors,3645843,Red,PL
+478,Impostors,3644732,Blue,KOTH
+479,Impostors,3644718,Red,PL
+480,Impostors,3644681,Blue,KOTH
+481,Impostors,3644667,Red,PL
+482,Impostors,3641153,Red,PL
+483,Impostors,3641107,Red,KOTH
+484,Impostors,3662748,Blue,PL
+485,Impostors,3662705,Red,PL
+486,Impostors,3662614,Red,PL
+487,Impostors,3662580,Blue,PL
+488,Impostors,3652821,Red,PL
+489,Impostors,3652783,Blue,PL
+490,Impostors,3652755,Red,PL
+491,Impostors,3652723,Blue,PL
+492,Impostors,3652697,Red,PL
+493,Impostors,3645337,Red,KOTH
+494,Impostors,3645310,Blue,PL
+495,Impostors,3645252,Red,KOTH
+496,Impostors,3645229,Red,PL
