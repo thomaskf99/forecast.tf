@@ -1,0 +1,1 @@
+This project is meant to host a website to predict TF2 HL Matches
