@@ -92,8 +92,12 @@ if __name__ == "__main__":
     # # My first app
     # Hello *world!*
     # """)
+
+    st.title("forecast.tf - developed by braun")
+    st.write('This website uses an xgboost model and invite player performance to predict their matches.')
+
     with st.form("Sample Game Submission"):
-        st.write("Inside the form")
+        st.write("Example Distribution")
         pred = st.number_input("Round Probability", min_value = 0.00, max_value = 1.00, value = 0.51, step = 0.01)
         rounds = st.number_input("Number of rounds", min_value=1, max_value=10, value=5, step=1)
         submitted = st.form_submit_button("Submit")
@@ -101,9 +105,6 @@ if __name__ == "__main__":
             dist, mean, median, predicted_scoreline, sd = get_distribution(pred, rounds)
             st.pyplot(create_bar_chart(dist))
 
-    st.write("Outside the form")
-    st.title('Dictionary to Bar Graph')
-    st.write('This app displays a bar graph based on the provided dictionary data.')
     
 
     # Display the bar chart in Streamlit
