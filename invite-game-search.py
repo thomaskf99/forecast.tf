@@ -81,7 +81,7 @@ if __name__ == "__main__":
                         else:
                             continue
                         
-                        logsCompiled = pd.concat([logsCompiled, pd.DataFrame({"TeamName" : team, "LogID" : log['id'], "TeamColor" : color, "GameMode" : map_type}, index = [0])], ignore_index=True)
+                        logsCompiled = pd.concat([logsCompiled, pd.DataFrame({"TeamName" : team, "LogID" : log['id'], "TeamColor" : color, "GameMode" : map_type, "Map" : log_info["info"]["map"]}, index = [0])], ignore_index=True)
                         print(logsCompiled.tail(1))                        
 
     # The logs are then saved to TeamGames.json
