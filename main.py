@@ -122,7 +122,7 @@ warnings.filterwarnings("ignore", category=UserWarning, message="X does not have
 
 if __name__ == "__main__":
     st.title("forecast.tf - developed by braun")
-    st.write('This website uses an xgboost model and invite player performance to predict their matches.')
+    st.write('This website uses an xgboost model and invite player performance to predict their KOTH matches.')
 
     selectbox_value = st.selectbox(
         'Select a team for Team 1:',
