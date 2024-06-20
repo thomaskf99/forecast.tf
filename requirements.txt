@@ -1,11 +1,7 @@
 streamlit
 pandas
 matplotlib
-math
-re
 joblib
 xgboost
 numpy
-warnings
-warnings
 requests
