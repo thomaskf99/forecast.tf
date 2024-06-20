@@ -121,7 +121,7 @@ def update_multiselect2_options():
 warnings.filterwarnings("ignore", category=UserWarning, message="X does not have valid feature names, but MinMaxScaler was fitted with feature names")
 
 if __name__ == "__main__":
-    st.title("forecast.tf - developed by the freak")
+    st.title("forecast.tf - developed by braun")
     st.write('This website uses an xgboost model and invite player performance to predict their matches.')
 
     selectbox_value = st.selectbox(
@@ -149,7 +149,7 @@ if __name__ == "__main__":
         options=st.session_state.multiselect2_options
     )
 
-    rounds = st.number_input("Number of rounds", min_value=1, max_value=10, value=5, step=1)
+    rounds = st.number_input("Number of rounds", min_value=1, max_value=8, value=4, step=1)
 
     # Now create the form for submission
     with st.form("Submit your selection"):
