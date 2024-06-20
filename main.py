@@ -2,6 +2,12 @@ import streamlit as st
 import pandas as pd
 import math
 import matplotlib.pyplot as plt
+import re
+from DataHandlerMethods import *
+import joblib
+import xgboost as xgb
+import numpy as np
+import warnings
 
 # Load data
 with open("invite-player-list.csv", encoding="utf8") as f:
@@ -11,6 +17,7 @@ with open("invite-player-list.csv", encoding="utf8") as f:
 with open("invite-games-paired.csv", encoding="utf8") as paired:
     games = pd.read_csv(paired, index_col=0)
 
+    
 # Define the function to get distribution (unchanged)
 def get_distribution(pred: float, max_rounds: int) -> tuple:
     dist = {}
@@ -24,7 +31,7 @@ def get_distribution(pred: float, max_rounds: int) -> tuple:
                                       (1 - pred) ** hypoth_blue_score)
         score_chance.append(chance_of_ocurrence)
         score_lines.append(f"{hypoth_blue_score}-{max_rounds}")
-        dist[f"{hypoth_blue_score}-{max_rounds}"] = chance_of_ocurrence
+        dist[f"{max_rounds}-{hypoth_blue_score}"] = chance_of_ocurrence
 
     for hypoth_red_score in reversed(range(max_rounds)):
         chance_of_ocurrence = math.factorial(hypoth_red_score + max_rounds - 1) / (
@@ -32,7 +39,8 @@ def get_distribution(pred: float, max_rounds: int) -> tuple:
                                       pred ** hypoth_red_score)
         score_chance.append(chance_of_ocurrence)
         score_lines.append(f"{max_rounds}-{hypoth_red_score}")
-        dist[f"{max_rounds}-{hypoth_red_score}"] = chance_of_ocurrence
+        dist[f"{hypoth_red_score}-{max_rounds}"] = chance_of_ocurrence
+
 
     ind = score_chance.index(max(score_chance))
     total = sum(score_chance)
@@ -72,13 +80,25 @@ def get_multiselect_options(matches, team_name, KOTH):
     return options
 
 # Define the function to create a bar chart (unchanged)
-def create_bar_chart(data):
+def create_bar_chart(data, team1, team2):
     fig, ax = plt.subplots()
     ax.bar(data.keys(), data.values())
-    ax.set_xlabel('Scorelines')
+    ax.set_xlabel(f'Scorelines - {team1} vs. {team2}')
     ax.set_ylabel('Likelihood')
     ax.set_title('Score Distribution')
     return fig
+
+def get_scaler(dir: str):
+    loaded_scaler = joblib.load(dir)
+    return loaded_scaler
+
+def get_model(dir: str):
+    loaded_model = xgb.Booster()
+    loaded_model.load_model(dir)
+    return loaded_model
+
+SCALER_DIR = "min_max_scaler.joblib"
+MODEL_DIR = "hl_tf2_koth_xgb_a1.model"
 
 # Initialize session state
 if 'selectbox_value' not in st.session_state:
@@ -98,6 +118,7 @@ def update_multiselect_options():
 def update_multiselect2_options():
     st.session_state.multiselect2_options = get_multiselect_options(games, st.session_state.selectbox2_value, "KOTH")
 
+warnings.filterwarnings("ignore", category=UserWarning, message="X does not have valid feature names, but MinMaxScaler was fitted with feature names")
 
 if __name__ == "__main__":
     st.title("forecast.tf - developed by the freak")
@@ -135,17 +156,78 @@ if __name__ == "__main__":
         submit_button = st.form_submit_button(label="Submit")
 
 
-    with st.form("Sample Game Submission"):
-        st.write("Example Distribution")
-        pred = st.number_input("Round Probability", min_value = 0.00, max_value = 1.00, value = 0.51, step = 0.01)
-        rounds = st.number_input("Number of rounds", min_value=1, max_value=10, value=5, step=1)
-        submitted = st.form_submit_button("Submit")
-        if submitted:
-            dist, mean, median, predicted_scoreline, sd = get_distribution(pred, rounds)
-            st.pyplot(create_bar_chart(dist))
+    # with st.form("Sample Game Submission"):
+      
 
     if submit_button:
-        st.write(f"Selected Team 1: {selectbox_value}")
-        st.write(f"Selected Games: {multiselect_values}")
-        st.write(f"Selected Team 2: {selectbox2_value}")
-        st.write(f"Selected Games: {multiselect2_values}")
+        # st.write(f"Selected Team 1: {selectbox_value}")
+        # st.write(f"Selected Games: {multiselect_values}")
+
+        pattern = r'\d+'
+
+        filtered_matches1 = games[((games['Red'] == st.session_state.selectbox_value) | (games['Blue'] == st.session_state.selectbox_value)) & (games["GameMode"] == "KOTH")].reset_index()
+        indicises1 = [int(re.search(pattern, x).group()) - 1 for x in multiselect_values]
+        games1 = filtered_matches1.loc[indicises1]
+
+        # st.write(games1)
+
+        team_1_log_info = []
+        for index, row in games1.iterrows():
+            if row["Blue"] == st.session_state.selectbox_value:
+                try:
+                    team_1_log_info.append(select_blue_stats(cleanse_data(make_api_request(f"https://logs.tf/json/{row['LogID']}"))))
+                except Exception as e:
+                    raise e
+            elif row["Red"] == st.session_state.selectbox_value:
+                try:
+                    team_1_log_info.append(select_red_stats(cleanse_data(make_api_request(f"https://logs.tf/json/{row['LogID']}"))))
+                except Exception as e:
+                    raise e
+        red_average = average_stats(team_1_log_info)
+        st.write(f"Calculated average stats for \'{st.session_state.selectbox_value}\'")
+
+        # st.write(f"Selected Team 2: {selectbox2_value}")
+        # st.write(f"Selected Games: {multiselect2_values}")
+
+        filtered_matches2 = games[((games['Red'] == st.session_state.selectbox2_value) | (games['Blue'] == st.session_state.selectbox2_value)) & (games["GameMode"] == "KOTH")].reset_index()
+        indicises2 = [int(re.search(pattern, x).group()) - 1 for x in multiselect2_values]
+        games2 = filtered_matches2.loc[indicises2]
+
+        # st.write(games2)
+        team_2_log_info = []
+        for index, row in games2.iterrows():
+            if row["Blue"] == st.session_state.selectbox2_value:
+                try:
+                    team_2_log_info.append(select_blue_stats(cleanse_data(make_api_request(f"https://logs.tf/json/{row['LogID']}"))))
+                except Exception as e:
+                    raise e
+            elif row["Red"] == st.session_state.selectbox2_value:
+                try:
+                    team_2_log_info.append(select_red_stats(cleanse_data(make_api_request(f"https://logs.tf/json/{row['LogID']}"))))
+                except Exception as e:
+                    raise e
+        blue_average = average_stats(team_2_log_info)
+        # st.write(blue_average)
+        st.write(f"Calculated average stats for \'{st.session_state.selectbox2_value}\'")
+
+        stats = combine_blue_and_red_aggregates(blue_average, red_average)
+        data = np.array([list(stats.values())])
+
+        scaler = get_scaler(SCALER_DIR)
+
+        scaled_data = scaler.transform(data)
+
+        dpred = xgb.DMatrix(scaled_data) 
+
+        model = get_model(MODEL_DIR)
+
+        prediction = model.predict(dpred)
+        pred = prediction[0]
+        st.write(pred)
+        pred = max(0.00000001, min(0.99999999, pred))
+        # pred = 1 - pred
+
+        dist, mean, median, predicted_scoreline, sd = get_distribution(pred, rounds)
+        st.pyplot(create_bar_chart(dist, selectbox_value, selectbox2_value))
+        # print(mean, median, predicted_scoreline)
+        # print(dist)
