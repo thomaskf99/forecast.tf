@@ -121,7 +121,7 @@ def update_multiselect2_options():
 warnings.filterwarnings("ignore", category=UserWarning, message="X does not have valid feature names, but MinMaxScaler was fitted with feature names")
 
 if __name__ == "__main__":
-    st.title("forecast.tf - developed by braun")
+    st.title("forecast.tf")
     st.write('This website uses an xgboost model and invite player performance to predict their KOTH matches.')
 
     selectbox_value = st.selectbox(
