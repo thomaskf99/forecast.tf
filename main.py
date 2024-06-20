@@ -163,71 +163,74 @@ if __name__ == "__main__":
         # st.write(f"Selected Team 1: {selectbox_value}")
         # st.write(f"Selected Games: {multiselect_values}")
 
-        pattern = r'\d+'
+        if len(multiselect_values) > 0 and len(multiselect2_values) > 0:
+            pattern = r'\d+'
 
-        filtered_matches1 = games[((games['Red'] == st.session_state.selectbox_value) | (games['Blue'] == st.session_state.selectbox_value)) & (games["GameMode"] == "KOTH")].reset_index()
-        indicises1 = [int(re.search(pattern, x).group()) - 1 for x in multiselect_values]
-        games1 = filtered_matches1.loc[indicises1]
+            filtered_matches1 = games[((games['Red'] == st.session_state.selectbox_value) | (games['Blue'] == st.session_state.selectbox_value)) & (games["GameMode"] == "KOTH")].reset_index()
+            indicises1 = [int(re.search(pattern, x).group()) - 1 for x in multiselect_values]
+            games1 = filtered_matches1.loc[indicises1]
 
-        # st.write(games1)
+            # st.write(games1)
 
-        team_1_log_info = []
-        for index, row in games1.iterrows():
-            if row["Blue"] == st.session_state.selectbox_value:
-                try:
-                    team_1_log_info.append(select_blue_stats(cleanse_data(make_api_request(f"https://logs.tf/json/{row['LogID']}"))))
-                except Exception as e:
-                    raise e
-            elif row["Red"] == st.session_state.selectbox_value:
-                try:
-                    team_1_log_info.append(select_red_stats(cleanse_data(make_api_request(f"https://logs.tf/json/{row['LogID']}"))))
-                except Exception as e:
-                    raise e
-        red_average = average_stats(team_1_log_info)
-        st.write(f"Calculated average stats for \'{st.session_state.selectbox_value}\'")
+            team_1_log_info = []
+            for index, row in games1.iterrows():
+                if row["Blue"] == st.session_state.selectbox_value:
+                    try:
+                        team_1_log_info.append(select_blue_stats(cleanse_data(make_api_request(f"https://logs.tf/json/{row['LogID']}"))))
+                    except Exception as e:
+                        raise e
+                elif row["Red"] == st.session_state.selectbox_value:
+                    try:
+                        team_1_log_info.append(select_red_stats(cleanse_data(make_api_request(f"https://logs.tf/json/{row['LogID']}"))))
+                    except Exception as e:
+                        raise e
+            red_average = average_stats(team_1_log_info)
+            st.write(f"Calculated average stats for \'{st.session_state.selectbox_value}\'")
 
-        # st.write(f"Selected Team 2: {selectbox2_value}")
-        # st.write(f"Selected Games: {multiselect2_values}")
+            # st.write(f"Selected Team 2: {selectbox2_value}")
+            # st.write(f"Selected Games: {multiselect2_values}")
 
-        filtered_matches2 = games[((games['Red'] == st.session_state.selectbox2_value) | (games['Blue'] == st.session_state.selectbox2_value)) & (games["GameMode"] == "KOTH")].reset_index()
-        indicises2 = [int(re.search(pattern, x).group()) - 1 for x in multiselect2_values]
-        games2 = filtered_matches2.loc[indicises2]
+            filtered_matches2 = games[((games['Red'] == st.session_state.selectbox2_value) | (games['Blue'] == st.session_state.selectbox2_value)) & (games["GameMode"] == "KOTH")].reset_index()
+            indicises2 = [int(re.search(pattern, x).group()) - 1 for x in multiselect2_values]
+            games2 = filtered_matches2.loc[indicises2]
 
-        # st.write(games2)
-        team_2_log_info = []
-        for index, row in games2.iterrows():
-            if row["Blue"] == st.session_state.selectbox2_value:
-                try:
-                    team_2_log_info.append(select_blue_stats(cleanse_data(make_api_request(f"https://logs.tf/json/{row['LogID']}"))))
-                except Exception as e:
-                    raise e
-            elif row["Red"] == st.session_state.selectbox2_value:
-                try:
-                    team_2_log_info.append(select_red_stats(cleanse_data(make_api_request(f"https://logs.tf/json/{row['LogID']}"))))
-                except Exception as e:
-                    raise e
-        blue_average = average_stats(team_2_log_info)
-        # st.write(blue_average)
-        st.write(f"Calculated average stats for \'{st.session_state.selectbox2_value}\'")
+            # st.write(games2)
+            team_2_log_info = []
+            for index, row in games2.iterrows():
+                if row["Blue"] == st.session_state.selectbox2_value:
+                    try:
+                        team_2_log_info.append(select_blue_stats(cleanse_data(make_api_request(f"https://logs.tf/json/{row['LogID']}"))))
+                    except Exception as e:
+                        raise e
+                elif row["Red"] == st.session_state.selectbox2_value:
+                    try:
+                        team_2_log_info.append(select_red_stats(cleanse_data(make_api_request(f"https://logs.tf/json/{row['LogID']}"))))
+                    except Exception as e:
+                        raise e
+            blue_average = average_stats(team_2_log_info)
+            # st.write(blue_average)
+            st.write(f"Calculated average stats for \'{st.session_state.selectbox2_value}\'")
 
-        stats = combine_blue_and_red_aggregates(blue_average, red_average)
-        data = np.array([list(stats.values())])
+            stats = combine_blue_and_red_aggregates(blue_average, red_average)
+            data = np.array([list(stats.values())])
 
-        scaler = get_scaler(SCALER_DIR)
+            scaler = get_scaler(SCALER_DIR)
 
-        scaled_data = scaler.transform(data)
+            scaled_data = scaler.transform(data)
 
-        dpred = xgb.DMatrix(scaled_data) 
+            dpred = xgb.DMatrix(scaled_data) 
 
-        model = get_model(MODEL_DIR)
+            model = get_model(MODEL_DIR)
 
-        prediction = model.predict(dpred)
-        pred = prediction[0]
-        st.write(pred)
-        pred = max(0.00000001, min(0.99999999, pred))
-        # pred = 1 - pred
+            prediction = model.predict(dpred)
+            pred = prediction[0]
+            st.write(pred)
+            pred = max(0.00000001, min(0.99999999, pred))
+            # pred = 1 - pred
 
-        dist, mean, median, predicted_scoreline, sd = get_distribution(pred, rounds)
-        st.pyplot(create_bar_chart(dist, selectbox_value, selectbox2_value))
-        # print(mean, median, predicted_scoreline)
-        # print(dist)
+            dist, mean, median, predicted_scoreline, sd = get_distribution(pred, rounds)
+            st.pyplot(create_bar_chart(dist, selectbox_value, selectbox2_value))
+            # print(mean, median, predicted_scoreline)
+            # print(dist)
+        else:
+            st.write("Please select at least one sample log for each team.")
