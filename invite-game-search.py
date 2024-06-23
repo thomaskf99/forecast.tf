@@ -19,7 +19,7 @@ if __name__ == "__main__":
 
         for team in team_ids["TeamName"].unique():
 
-            minimum_team_identifying_playercount = 7
+            minimum_team_identifying_playercount = 6 #if team == "The Hardworking Hornets" else 7
 
             players = team_ids.loc[team_ids["TeamName"] == team]["Steam64ID"].values.tolist()
             
