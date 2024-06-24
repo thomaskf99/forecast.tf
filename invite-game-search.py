@@ -34,7 +34,7 @@ if __name__ == "__main__":
                     requestString += str(player) + ','
                 requestString = requestString[:-1]
         
-                matches = make_api_request(f"http://logs.tf/api/v1/log?player={requestString}&limit=100")
+                matches = make_api_request(f"http://logs.tf/api/v1/log?player={requestString}&limit=1000")
 
                 for log in matches['logs']:
 
