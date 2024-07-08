@@ -2,6 +2,8 @@ from re import search
 from itertools import combinations
 from DataHandlerMethods import make_api_request
 import pandas as pd
+import pytz
+from datetime import datetime,timezone
 
 
 
@@ -39,17 +41,19 @@ if __name__ == "__main__":
                 for log in matches['logs']:
 
                     # Checks if the log is unique and sufficiently recent
+                    unix_time = log["date"]
+                    dt_utc_aware = datetime.fromtimestamp(unix_time, timezone.utc)
+                    dt_est_aware = dt_utc_aware.astimezone(pytz.timezone('US/Eastern')).strftime('%H:%M')
 
-                    if log['id'] not in logsCompiled.loc[logsCompiled["TeamName"] == team]["LogID"].unique() and log['date'] > 1715140800:
+                    if log['id'] not in logsCompiled.loc[logsCompiled["TeamName"] == team]["LogID"].unique() and log['date'] > 1715140800 and '20:15' <= dt_est_aware <= '23:45':
                         # print(log['id'])
                         # print(logsCompiled.loc[logsCompiled["TeamName"] == team]["LogID"].unique())
 
-                        log_info = make_api_request(f"http://logs.tf/api/v1/log/{log['id']}")
 
     
                         # If the map of the log has a plus (indicative of two logs being combined), it is not included
 
-                        if "+" in log_info["info"]["map"]:
+                        if "+" in log["map"]:
                             print("Failed naming convention")
 
                             continue
@@ -57,7 +61,7 @@ if __name__ == "__main__":
                         # Likewise if the log does not have a map name in typical map format (ie pl_vigil_rc9) then it is thrown out
                         
                         try:
-                            map_type = (search("^[^_]+(?=_)",log_info["info"]["map"])).group().upper()
+                            map_type = (search("^[^_]+(?=_)",log["map"])).group().upper()
                         except:
                             print("Failed naming convention")
                             continue
@@ -66,6 +70,9 @@ if __name__ == "__main__":
                         # on the same team color, then the log is thrown out as well
 
                         count = 0
+
+                        log_info = make_api_request(f"http://logs.tf/api/v1/log/{log['id']}")
+
 
                         for player in playerset:
                             # print(log['id'])
