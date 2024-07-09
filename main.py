@@ -186,7 +186,7 @@ if __name__ == "__main__":
                         raise e
             red_average = average_stats(team_1_log_info)
             st.write(f"Calculated average stats for \'{st.session_state.selectbox_value}\'")
-
+            st.write(red_average)
             # st.write(f"Selected Team 2: {selectbox2_value}")
             # st.write(f"Selected Games: {multiselect2_values}")
 
@@ -210,7 +210,7 @@ if __name__ == "__main__":
             blue_average = average_stats(team_2_log_info)
             # st.write(blue_average)
             st.write(f"Calculated average stats for \'{st.session_state.selectbox2_value}\'")
-
+            st.write(blue_average)
             stats = combine_blue_and_red_aggregates(blue_average, red_average)
             data = np.array([list(stats.values())])
 
