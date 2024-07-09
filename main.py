@@ -160,8 +160,7 @@ if __name__ == "__main__":
       
 
     if submit_button:
-        # st.write(f"Selected Team 1: {selectbox_value}")
-        # st.write(f"Selected Games: {multiselect_values}")
+
 
         if len(multiselect_values) > 0 and len(multiselect2_values) > 0:
             pattern = r'\d+'
@@ -187,8 +186,9 @@ if __name__ == "__main__":
             red_average = average_stats(team_1_log_info)
             st.write(f"Calculated average stats for \'{st.session_state.selectbox_value}\'")
             st.write(red_average)
-            # st.write(f"Selected Team 2: {selectbox2_value}")
-            # st.write(f"Selected Games: {multiselect2_values}")
+
+            # BBL's comment
+            # Mike's corner
 
             filtered_matches2 = games[((games['Red'] == st.session_state.selectbox2_value) | (games['Blue'] == st.session_state.selectbox2_value)) & (games["GameMode"] == "KOTH")].reset_index()
             indicises2 = [int(re.search(pattern, x).group()) - 1 for x in multiselect2_values]
