@@ -1,0 +1,13 @@
+20 second prediction using STV demo information
+
+Each player's/class's statistic following should be known:
+
+Alive Status
+Ubered Status
+Positioning
+HP
+Weapon/Ammo
+Historic Performance (DPM,
+Uber States
+
+Compared with the ownership of the point 20 seconds in the future.
