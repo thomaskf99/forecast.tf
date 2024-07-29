@@ -1,915 +1,1165 @@
 ,TeamName,LogID,TeamColor,GameMode,Map
 0,The Duddy Dudes,3661406,Red,PL,pl_swiftwater_final1
-1,The Duddy Dudes,3666890,Red,KOTH,koth_ashville_final
-2,The Duddy Dudes,3666874,Red,KOTH,koth_ashville_final
-3,The Duddy Dudes,3666845,Red,KOTH,koth_ashville_final
-4,The Duddy Dudes,3671142,Red,PL,pl_upward_f12
-5,The Duddy Dudes,3671072,Blue,PL,pl_upward_f12
-6,The Duddy Dudes,3671034,Red,PL,pl_upward_f12
-7,The Duddy Dudes,3670999,Blue,PL,pl_upward_f12
-8,The Duddy Dudes,3662777,Red,PL,pl_swiftwater_final1
-9,The Duddy Dudes,3662757,Red,PL,pl_swiftwater_final1
-10,The Duddy Dudes,3662694,Blue,PL,pl_swiftwater_final1
-11,The Duddy Dudes,3662628,Red,PL,pl_swiftwater_final1
-12,The Duddy Dudes,3662599,Blue,PL,pl_swiftwater_final1
-13,The Duddy Dudes,3658569,Blue,KOTH,koth_product_final
-14,The Duddy Dudes,3658541,Blue,KOTH,koth_product_final
-15,The Duddy Dudes,3658498,Blue,KOTH,koth_product_final
-16,The Duddy Dudes,3658459,Blue,KOTH,koth_product_final
-17,The Duddy Dudes,3658421,Blue,KOTH,koth_product_final
-18,The Duddy Dudes,3657813,Blue,KOTH,koth_product_final
-19,The Duddy Dudes,3657776,Blue,KOTH,koth_product_final
-20,The Duddy Dudes,3657214,Blue,KOTH,koth_product_final
-21,The Duddy Dudes,3657178,Blue,KOTH,koth_product_final
-22,The Duddy Dudes,3670469,Blue,PL,pl_upward_f11
-23,The Duddy Dudes,3670426,Red,PL,pl_upward_f11
-24,The Duddy Dudes,3670380,Blue,PL,pl_upward_f11
-25,The Duddy Dudes,3648463,Red,PL,pl_upward_f11
-26,The Duddy Dudes,3648449,Blue,PL,pl_upward_f11
-27,The Duddy Dudes,3648422,Blue,KOTH,koth_ashville_final
-28,The Duddy Dudes,3665563,Blue,KOTH,koth_ashville_final
-29,The Duddy Dudes,3665536,Blue,KOTH,koth_ashville_final
-30,The Duddy Dudes,3665492,Blue,KOTH,koth_ashville_final1
-31,The Duddy Dudes,3665467,Blue,KOTH,koth_ashville_final1
-32,The Duddy Dudes,3666794,Red,KOTH,koth_ashville_final
-33,The Duddy Dudes,3666756,Red,KOTH,koth_ashville_final
-34,The Duddy Dudes,3645350,Red,KOTH,koth_product_final
-35,The Duddy Dudes,3645316,Red,KOTH,koth_cascade_rc1a
-36,The Duddy Dudes,3645268,Blue,PL,pl_vigil_rc10
-37,The Duddy Dudes,3645231,Blue,KOTH,koth_lakeside_r2
-38,The Duddy Dudes,3661469,Blue,PL,pl_swiftwater_final1
-39,The Duddy Dudes,3661440,Red,PL,pl_swiftwater_final1
-40,The Duddy Dudes,3661394,Blue,PL,pl_swiftwater_final1
-41,The Duddy Dudes,3661370,Red,PL,pl_swiftwater_final1
-42,The Duddy Dudes,3658386,Blue,KOTH,koth_product_final
-43,The Duddy Dudes,3670348,Red,PL,pl_upward_f11
-44,The Duddy Dudes,3666222,Blue,KOTH,koth_ashville_final1
-45,The Duddy Dudes,3666178,Blue,KOTH,koth_ashville_final1
-46,The Duddy Dudes,3666147,Blue,KOTH,koth_ashville_final1
-47,The Duddy Dudes,3666114,Blue,KOTH,koth_ashville_final1
-48,The Duddy Dudes,3674438,Red,KOTH,koth_lakeside_r2
-49,The Duddy Dudes,3674405,Red,KOTH,koth_lakeside_r2
-50,The Duddy Dudes,3673779,Blue,KOTH,koth_lakeside_r2
-51,The Duddy Dudes,3673755,Blue,KOTH,koth_lakeside_r2
-52,The Duddy Dudes,3673734,Blue,KOTH,koth_lakeside_r2
-53,The Duddy Dudes,3673718,Blue,KOTH,koth_lakeside_r2
-54,The Duddy Dudes,3669842,Blue,PL,pl_upward_f11
-55,The Duddy Dudes,3669812,Red,PL,pl_upward_f11
-56,The Duddy Dudes,3665455,Blue,KOTH,koth_ashville_final1
-57,The Duddy Dudes,3674372,Blue,KOTH,koth_lakeside_r2
-58,The Duddy Dudes,3674335,Blue,KOTH,koth_lakeside_r2
-59,The Duddy Dudes,3654259,Blue,PL,pl_vigil_rc10
-60,The Duddy Dudes,3654233,Blue,PL,pl_vigil_rc10
-61,The Duddy Dudes,3654172,Red,PL,pl_vigil_rc10
-62,The Duddy Dudes,3654130,Blue,PL,pl_vigil_rc10
-63,The Duddy Dudes,3653559,Blue,PL,pl_vigil_rc10
-64,The Duddy Dudes,3653518,Red,PL,pl_vigil_rc10
-65,The Duddy Dudes,3653484,Blue,PL,pl_vigil_rc10
-66,The Duddy Dudes,3652823,Blue,PL,pl_vigil_rc10
-67,The Duddy Dudes,3652800,Blue,PL,pl_vigil_rc10
-68,The Duddy Dudes,3652768,Red,PL,pl_vigil_rc10
-69,The Duddy Dudes,3652744,Blue,PL,pl_vigil_rc10
-70,The Duddy Dudes,3652713,Red,PL,pl_vigil_rc10
-71,The Duddy Dudes,3652703,Blue,PL,pl_vigil_rc10
-72,The Duddy Dudes,3652690,Red,PL,pl_vigil_rc10
-73,The Duddy Dudes,3644697,Blue,PL,pl_swiftwater_final1
-74,The Duddy Dudes,3644666,Red,KOTH,koth_product_final
-75,The Hardworking Hornets,3671142,Blue,PL,pl_upward_f12
-76,The Hardworking Hornets,3671072,Red,PL,pl_upward_f12
-77,The Hardworking Hornets,3671000,Red,PL,pl_upward_f12
-78,The Hardworking Hornets,3670972,Blue,PL,pl_upward_f12
-79,The Hardworking Hornets,3666919,Red,KOTH,koth_ashville_final1
-80,The Hardworking Hornets,3666848,Red,KOTH,koth_ashville_final1
-81,The Hardworking Hornets,3666796,Red,KOTH,koth_ashville_final1
-82,The Hardworking Hornets,3666746,Red,KOTH,koth_ashville_final1
-83,The Hardworking Hornets,3662748,Red,PL,pl_swiftwater_final1
-84,The Hardworking Hornets,3662705,Blue,PL,pl_swiftwater_final1
-85,The Hardworking Hornets,3662640,Red,PL,pl_swiftwater_final1
-86,The Hardworking Hornets,3662590,Blue,PL,pl_swiftwater_final1
-87,The Hardworking Hornets,3661469,Red,PL,pl_swiftwater_final1
-88,The Hardworking Hornets,3661440,Blue,PL,pl_swiftwater_final1
-89,The Hardworking Hornets,3661405,Blue,PL,pl_swiftwater_final1
-90,The Hardworking Hornets,3661391,Red,PL,pl_swiftwater_final1
-91,The Hardworking Hornets,3661366,Blue,PL,pl_swiftwater_final1
-92,The Hardworking Hornets,3657921,Red,KOTH,koth_product_final
-93,The Hardworking Hornets,3657886,Red,KOTH,koth_product_final
-94,The Hardworking Hornets,3657858,Red,KOTH,koth_product_final
-95,The Hardworking Hornets,3654262,Red,PL,pl_vigil_rc10
-96,The Hardworking Hornets,3654235,Red,PL,pl_vigil_rc10
-97,The Hardworking Hornets,3654208,Red,PL,pl_vigil_rc10
-98,The Hardworking Hornets,3654150,Blue,PL,pl_vigil_rc10
-99,The Hardworking Hornets,3654086,Red,PL,pl_vigil_rc10
-100,The Hardworking Hornets,3654046,Blue,PL,pl_vigil_rc10
-101,The Hardworking Hornets,3653547,Red,PL,pl_vigil_rc10
-102,The Hardworking Hornets,3653545,Red,PL,pl_vigil_rc10
-103,The Hardworking Hornets,3653513,Blue,PL,pl_vigil_rc10
-104,The Hardworking Hornets,3653461,Blue,PL,pl_vigil_rc10
-105,The Hardworking Hornets,3653449,Blue,PL,pl_vigil_rc10
-106,The Hardworking Hornets,3653400,Red,PL,pl_vigil_rc10
-107,The Hardworking Hornets,3674498,Red,KOTH,koth_lakeside_r2
-108,The Hardworking Hornets,3674442,Red,KOTH,koth_lakeside_r2
-109,The Hardworking Hornets,3674408,Red,KOTH,koth_lakeside_r2
-110,The Hardworking Hornets,3674358,Red,KOTH,koth_lakeside_r2
-111,The Hardworking Hornets,3674330,Red,KOTH,koth_lakeside_r2
-112,The Hardworking Hornets,3671041,Blue,PL,pl_upward_f12
-113,The Hardworking Hornets,3670473,Red,PL,pl_upward_f12
-114,The Hardworking Hornets,3670451,Red,PL,pl_upward_f12
-115,The Hardworking Hornets,3670427,Blue,PL,pl_upward_f12
-116,The Hardworking Hornets,3670400,Blue,PL,pl_upward_f12
-117,The Hardworking Hornets,3670398,Blue,PL,pl_upward_f12
-118,The Hardworking Hornets,3670353,Blue,PL,pl_upward_f12
-119,The Hardworking Hornets,3666215,Blue,KOTH,koth_ashville_final1
-120,The Hardworking Hornets,3666188,Blue,KOTH,koth_ashville_final1
-121,The Hardworking Hornets,3657214,Red,KOTH,koth_product_final
-122,The Hardworking Hornets,3657178,Red,KOTH,koth_product_final
-123,The Hardworking Hornets,3657171,Red,KOTH,koth_product_final
-124,The Hardworking Hornets,3657147,Red,KOTH,koth_product_final
-125,The Hardworking Hornets,3657111,Red,KOTH,koth_product_final
-126,The Hardworking Hornets,3657098,Red,KOTH,koth_product_final
-127,The Hardworking Hornets,3666174,Blue,KOTH,koth_ashville_final1
-128,The Hardworking Hornets,3666160,Blue,KOTH,koth_ashville_final1
-129,The Hardworking Hornets,3666119,Blue,KOTH,koth_ashville_final1
-130,The Hardworking Hornets,3662161,Blue,PL,pl_swiftwater_final1
-131,The Hardworking Hornets,3662118,Red,PL,pl_swiftwater_final1
-132,The Hardworking Hornets,3662083,Blue,PL,pl_swiftwater_final1
-133,The Hardworking Hornets,3662080,Blue,PL,pl_swiftwater_final1
-134,The Hardworking Hornets,3662036,Red,PL,pl_swiftwater_final1
-135,The Hardworking Hornets,3652823,Red,PL,pl_vigil_rc10
-136,The Hardworking Hornets,3652800,Red,PL,pl_vigil_rc10
-137,The Hardworking Hornets,3652768,Blue,PL,pl_vigil_rc10
-138,The Hardworking Hornets,3652743,Blue,PL,pl_vigil_rc10
-139,The Hardworking Hornets,3652725,Red,PL,pl_vigil_rc10
-140,The Hardworking Hornets,3652693,Blue,PL,pl_vigil_rc10
-141,The Hardworking Hornets,3665563,Red,KOTH,koth_ashville_final
-142,The Hardworking Hornets,3665536,Red,KOTH,koth_ashville_final
-143,The Hardworking Hornets,3665515,Red,KOTH,koth_ashville_final1
-144,The Hardworking Hornets,3665486,Red,KOTH,koth_ashville_final1
-145,The Hardworking Hornets,3665461,Red,KOTH,koth_ashville_final1
-146,The Hardworking Hornets,3673779,Red,KOTH,koth_lakeside_r2
-147,The Hardworking Hornets,3673775,Blue,KOTH,koth_lakeside_r2
-148,The Hardworking Hornets,3673740,Blue,KOTH,koth_lakeside_r2
-149,The Hardworking Hornets,3673715,Blue,KOTH,koth_lakeside_r2
-150,The Hardworking Hornets,3645370,Blue,PL,pl_vigil_rc10
-151,The Hardworking Hornets,3645320,Blue,KOTH,koth_product_final
-152,somebody help,3674469,Red,KOTH,koth_lakeside_r2
-153,somebody help,3674444,Red,KOTH,koth_lakeside_r2
-154,somebody help,3674407,Red,KOTH,koth_lakeside_r2
-155,somebody help,3674377,Red,KOTH,koth_lakeside_r2
-156,somebody help,3671156,Red,PL,pl_upward_f12
-157,somebody help,3671147,Red,PL,pl_upward_f12
-158,somebody help,3671081,Blue,PL,pl_upward_f12
-159,somebody help,3670996,Red,PL,pl_upward_f12
-160,somebody help,3670963,Blue,PL,pl_upward_f12
-161,somebody help,3670497,Red,PL,pl_upward_f11
-162,somebody help,3670456,Blue,PL,pl_upward_f11
-163,somebody help,3670428,Red,PL,pl_upward_f11
-164,somebody help,3670411,Red,PL,pl_upward_f11
-165,somebody help,3670384,Red,PL,pl_upward_f10
-166,somebody help,3670352,Blue,PL,pl_upward_f10
-167,somebody help,3666897,Blue,KOTH,koth_ashville_final1
-168,somebody help,3666855,Blue,KOTH,koth_ashville_final1
-169,somebody help,3662759,Red,PL,pl_swiftwater_final1
-170,somebody help,3662684,Blue,PL,pl_swiftwater_final1
-171,somebody help,3662623,Red,PL,pl_swiftwater_final1
-172,somebody help,3662587,Blue,PL,pl_swiftwater_final1
-173,somebody help,3658533,Red,KOTH,koth_product_final
-174,somebody help,3658495,Red,KOTH,koth_product_final
-175,somebody help,3658416,Red,KOTH,koth_product_final
-176,somebody help,3658389,Red,KOTH,koth_product_final
-177,somebody help,3654195,Red,PL,pl_vigil_rc10
-178,somebody help,3654153,Blue,PL,pl_vigil_rc10
-179,somebody help,3654110,Blue,PL,pl_vigil_rc10
-180,somebody help,3654062,Red,PL,pl_vigil_rc10
-181,somebody help,3654033,Blue,PL,pl_vigil_rc10
-182,somebody help,3653548,Red,PL,pl_vigil_rc10
-183,somebody help,3653519,Blue,PL,pl_vigil_rc10
-184,somebody help,3653472,Red,PL,pl_vigil_rc10
-185,somebody help,3653435,Red,PL,pl_vigil_rc10
-186,somebody help,3653414,Blue,PL,pl_vigil_rc10
-187,somebody help,3652812,Red,PL,pl_vigil_rc10
-188,somebody help,3652775,Blue,PL,pl_vigil_rc10
-189,somebody help,3652744,Red,PL,pl_vigil_rc10
-190,somebody help,3652713,Blue,PL,pl_vigil_rc10
-191,somebody help,3652703,Red,PL,pl_vigil_rc10
-192,somebody help,3652690,Blue,PL,pl_vigil_rc10
-193,somebody help,3662172,Red,PL,pl_swiftwater_final1
-194,somebody help,3662153,Red,PL,pl_swiftwater_final1
-195,somebody help,3662098,Blue,PL,pl_swiftwater_final1
-196,somebody help,3662060,Red,PL,pl_swiftwater_final1
-197,somebody help,3662020,Blue,PL,pl_swiftwater_final1
-198,somebody help,3657891,Red,KOTH,koth_product_final
-199,somebody help,3657864,Red,KOTH,koth_product_final
-200,somebody help,3657814,Red,KOTH,koth_product_final
-201,somebody help,3657782,Red,KOTH,koth_product_final
-202,somebody help,3674347,Red,KOTH,koth_lakeside_r2
-203,somebody help,3666268,Red,KOTH,koth_ashville_final1
-204,somebody help,3666230,Red,KOTH,koth_ashville_final1
-205,somebody help,3666179,Red,KOTH,koth_ashville_final1
-206,somebody help,3666163,Red,KOTH,koth_ashville_final1
-207,somebody help,3666118,Red,KOTH,koth_ashville_final1
-208,somebody help,3641091,Blue,PL,pl_vigil_rc10
-209,somebody help,3641044,Red,KOTH,koth_product_final
-210,somebody help,3673812,Red,KOTH,koth_lakeside_r2
-211,somebody help,3673782,Red,KOTH,koth_lakeside_r2
-212,somebody help,3673755,Red,KOTH,koth_lakeside_r2
-213,somebody help,3673734,Red,KOTH,koth_lakeside_r2
-214,somebody help,3665561,Red,KOTH,koth_ashville_final1
-215,somebody help,3665537,Red,KOTH,koth_ashville_final1
-216,somebody help,3665492,Red,KOTH,koth_ashville_final1
-217,somebody help,3661471,Blue,PL,pl_swiftwater_final1
-218,somebody help,3661441,Red,PL,pl_swiftwater_final1
-219,somebody help,3661406,Blue,PL,pl_swiftwater_final1
-220,somebody help,3661394,Red,PL,pl_swiftwater_final1
-221,somebody help,3673718,Red,KOTH,koth_lakeside_r2
-222,somebody help,3665467,Red,KOTH,koth_ashville_final1
-223,somebody help,3665455,Red,KOTH,koth_ashville_final1
-224,somebody help,3661370,Blue,PL,pl_swiftwater_final1
-225,somebody help,3641712,Blue,PL,pl_vigil_rc10
-226,somebody help,3641679,Blue,PL,pl_vigil_rc10
-227,somebody help,3641636,Blue,PL,pl_upward_f10
-228,somebody help,3641587,Red,KOTH,koth_product_final
-229,somebody help,3669884,Red,PL,pl_upward_f10
-230,somebody help,3669879,Red,PL,pl_upward_f10
-231,somebody help,3669855,Red,PL,pl_upward_f10
-232,somebody help,3669829,Blue,PL,pl_upward_f10
-233,Ohio Leif Village,3674496,Blue,KOTH,koth_lakeside_r2
-234,Ohio Leif Village,3674474,Blue,KOTH,koth_lakeside_r2
-235,Ohio Leif Village,3674414,Blue,KOTH,koth_lakeside_r2
-236,Ohio Leif Village,3674372,Red,KOTH,koth_lakeside_r2
-237,Ohio Leif Village,3674335,Red,KOTH,koth_lakeside_r2
-238,Ohio Leif Village,3671140,Red,PL,pl_upward_f12
-239,Ohio Leif Village,3671088,Blue,PL,pl_upward_f12
-240,Ohio Leif Village,3671034,Blue,PL,pl_upward_f12
-241,Ohio Leif Village,3670497,Blue,PL,pl_upward_f11
-242,Ohio Leif Village,3670456,Red,PL,pl_upward_f11
-243,Ohio Leif Village,3670428,Blue,PL,pl_upward_f11
-244,Ohio Leif Village,3670411,Blue,PL,pl_upward_f11
-245,Ohio Leif Village,3670380,Red,PL,pl_upward_f11
-246,Ohio Leif Village,3670348,Blue,PL,pl_upward_f11
-247,Ohio Leif Village,3669867,Blue,PL,pl_upward_f10
-248,Ohio Leif Village,3669856,Blue,PL,pl_upward_f10
-249,Ohio Leif Village,3669818,Red,PL,pl_upward_f10
-250,Ohio Leif Village,3669805,Blue,PL,pl_upward_f12
-251,Ohio Leif Village,3669765,Blue,PL,pl_upward_f12
-252,Ohio Leif Village,3666931,Red,KOTH,koth_ashville_final1
-253,Ohio Leif Village,3666908,Red,KOTH,koth_ashville_final1
-254,Ohio Leif Village,3666860,Red,KOTH,koth_ashville_final1
-255,Ohio Leif Village,3666794,Blue,KOTH,koth_ashville_final
-256,Ohio Leif Village,3666756,Blue,KOTH,koth_ashville_final
-257,Ohio Leif Village,3666264,Blue,KOTH,koth_ashville_final1
-258,Ohio Leif Village,3666257,Blue,KOTH,koth_ashville_final1
-259,Ohio Leif Village,3666223,Blue,KOTH,koth_ashville_final1
-260,Ohio Leif Village,3666180,Blue,KOTH,koth_ashville_final1
-261,Ohio Leif Village,3666147,Red,KOTH,koth_ashville_final1
-262,Ohio Leif Village,3666114,Red,KOTH,koth_ashville_final1
-263,Ohio Leif Village,3662745,Red,PL,pl_swiftwater_final1
-264,Ohio Leif Village,3662685,Blue,PL,pl_swiftwater_final1
-265,Ohio Leif Village,3662628,Blue,PL,pl_swiftwater_final1
-266,Ohio Leif Village,3662599,Red,PL,pl_swiftwater_final1
-267,Ohio Leif Village,3658586,Blue,KOTH,koth_product_final
-268,Ohio Leif Village,3658521,Blue,KOTH,koth_product_final
-269,Ohio Leif Village,3658489,Blue,KOTH,koth_product_final
-270,Ohio Leif Village,3658459,Red,KOTH,koth_product_final
-271,Ohio Leif Village,3658421,Red,KOTH,koth_product_final
-272,Ohio Leif Village,3658386,Red,KOTH,koth_product_final
-273,Ohio Leif Village,3670999,Red,PL,pl_upward_f12
-274,Ohio Leif Village,3657942,Red,KOTH,koth_product_final
-275,Ohio Leif Village,3657900,Red,KOTH,koth_product_final
-276,Ohio Leif Village,3657866,Red,KOTH,koth_product_final
-277,Ohio Leif Village,3654259,Red,PL,pl_vigil_rc10
-278,Ohio Leif Village,3654233,Red,PL,pl_vigil_rc10
-279,Ohio Leif Village,3654172,Blue,PL,pl_vigil_rc10
-280,Ohio Leif Village,3654130,Red,PL,pl_vigil_rc10
-281,Ohio Leif Village,3654084,Blue,PL,pl_vigil_rc10
-282,Ohio Leif Village,3654036,Red,PL,pl_vigil_rc10
-283,Ohio Leif Village,3653567,Red,PL,pl_vigil_rc10
-284,Ohio Leif Village,3653550,Red,PL,pl_vigil_rc10
-285,Ohio Leif Village,3653522,Blue,PL,pl_vigil_rc10
-286,Ohio Leif Village,3653502,Red,PL,pl_vigil_rc10
-287,Ohio Leif Village,3653495,Blue,PL,pl_vigil_rc10
-288,Ohio Leif Village,3653461,Red,PL,pl_vigil_rc10
-289,Ohio Leif Village,3653449,Red,PL,pl_vigil_rc10
-290,Ohio Leif Village,3653400,Blue,PL,pl_vigil_rc10
-291,Ohio Leif Village,3649865,Red,PL,pl_upward_f10
-292,Ohio Leif Village,3649798,Blue,KOTH,koth_ashville_final1
-293,Ohio Leif Village,3649223,Blue,KOTH,koth_product_final
-294,Ohio Leif Village,3649200,Red,PL,pl_upward_f12
-295,Ohio Leif Village,3649169,Blue,KOTH,koth_cascade_rc1a
-296,Ohio Leif Village,3649123,Red,KOTH,koth_lakeside_r2
-297,Ohio Leif Village,3645816,Red,KOTH,koth_lakeside_final
-298,Ohio Leif Village,3645790,Blue,PL,pl_upward_f10
-299,Ohio Leif Village,3657813,Red,KOTH,koth_product_final
-300,Ohio Leif Village,3657776,Red,KOTH,koth_product_final
-301,Ohio Leif Village,3673820,Red,KOTH,koth_lakeside_r2
-302,Ohio Leif Village,3673806,Red,KOTH,koth_lakeside_r2
-303,Ohio Leif Village,3665515,Blue,KOTH,koth_ashville_final1
-304,Ohio Leif Village,3665486,Blue,KOTH,koth_ashville_final1
-305,Ohio Leif Village,3665461,Blue,KOTH,koth_ashville_final1
-306,Ohio Leif Village,3673780,Red,KOTH,koth_lakeside_r2
-307,Ohio Leif Village,3657229,Blue,KOTH,koth_product_final
-308,Ohio Leif Village,3657205,Blue,KOTH,koth_product_final
-309,Ohio Leif Village,3657175,Blue,KOTH,koth_product_final
-310,Ohio Leif Village,3657171,Blue,KOTH,koth_product_final
-311,Ohio Leif Village,3657147,Blue,KOTH,koth_product_final
-312,Ohio Leif Village,3657111,Blue,KOTH,koth_product_final
-313,Ohio Leif Village,3657098,Blue,KOTH,koth_product_final
-314,Ohio Leif Village,3652839,Blue,PL,pl_vigil_rc10
-315,Ohio Leif Village,3652831,Blue,PL,pl_vigil_rc10
-316,Ohio Leif Village,3652794,Red,PL,pl_vigil_rc10
-317,Ohio Leif Village,3652765,Blue,PL,pl_vigil_rc10
-318,Ohio Leif Village,3652743,Red,PL,pl_vigil_rc10
-319,Ohio Leif Village,3652725,Blue,PL,pl_vigil_rc10
-320,Ohio Leif Village,3652693,Red,PL,pl_vigil_rc10
-321,Ohio Leif Village,3648532,Red,KOTH,koth_ashville_final1
-322,Ohio Leif Village,3648510,Blue,PL,pl_swiftwater_final1
-323,Ohio Leif Village,3648463,Blue,PL,pl_upward_f11
-324,Ohio Leif Village,3648449,Red,PL,pl_upward_f11
-325,Ohio Leif Village,3648422,Red,KOTH,koth_ashville_final
-326,Ohio Leif Village,3662182,Blue,PL,pl_swiftwater_final1
-327,Ohio Leif Village,3662156,Blue,PL,pl_swiftwater_final1
-328,Ohio Leif Village,3662105,Red,PL,pl_swiftwater_final1
-329,Ohio Leif Village,3662049,Blue,PL,pl_swiftwater_final1
-330,Ohio Leif Village,3662018,Red,PL,pl_swiftwater_final1
-331,Ohio Leif Village,3645370,Red,PL,pl_vigil_rc10
-332,Ohio Leif Village,3645320,Red,KOTH,koth_product_final
-333,Ohio Leif Village,3661453,Red,PL,pl_swiftwater_final1
-334,Ohio Leif Village,3661446,Blue,PL,pl_swiftwater_final1
-335,Ohio Leif Village,3661405,Red,PL,pl_swiftwater_final1
-336,Ohio Leif Village,3661391,Blue,PL,pl_swiftwater_final1
-337,Ohio Leif Village,3661366,Red,PL,pl_swiftwater_final1
-338,Ohio Leif Village,3645305,Blue,PL,pl_upward_f11
-339,Ohio Leif Village,3645262,Blue,KOTH,koth_ashville_final1
-340,Ohio Leif Village,3641147,Red,KOTH,koth_product_final
-341,Ohio Leif Village,3641125,Red,KOTH,koth_ashville_final
-342,Dreamybull's Kitchen,3674498,Blue,KOTH,koth_lakeside_r2
-343,Dreamybull's Kitchen,3674496,Red,KOTH,koth_lakeside_r2
-344,Dreamybull's Kitchen,3674474,Red,KOTH,koth_lakeside_r2
-345,Dreamybull's Kitchen,3674414,Red,KOTH,koth_lakeside_r2
-346,Dreamybull's Kitchen,3674358,Blue,KOTH,koth_lakeside_r2
-347,Dreamybull's Kitchen,3674330,Blue,KOTH,koth_lakeside_r2
-348,Dreamybull's Kitchen,3666890,Blue,KOTH,koth_ashville_final
-349,Dreamybull's Kitchen,3666874,Blue,KOTH,koth_ashville_final
-350,Dreamybull's Kitchen,3666845,Blue,KOTH,koth_ashville_final
-351,Dreamybull's Kitchen,3666823,Red,KOTH,koth_ashville_final1
-352,Dreamybull's Kitchen,3666810,Red,KOTH,koth_ashville_final1
-353,Dreamybull's Kitchen,3666744,Red,KOTH,koth_ashville_final1
-354,Dreamybull's Kitchen,3666264,Red,KOTH,koth_ashville_final1
-355,Dreamybull's Kitchen,3666257,Red,KOTH,koth_ashville_final1
-356,Dreamybull's Kitchen,3666223,Red,KOTH,koth_ashville_final1
-357,Dreamybull's Kitchen,3666180,Red,KOTH,koth_ashville_final1
-358,Dreamybull's Kitchen,3666174,Red,KOTH,koth_ashville_final1
-359,Dreamybull's Kitchen,3666160,Red,KOTH,koth_ashville_final1
-360,Dreamybull's Kitchen,3666119,Red,KOTH,koth_ashville_final1
-361,Dreamybull's Kitchen,3665578,Blue,KOTH,koth_ashville_final1
-362,Dreamybull's Kitchen,3665570,Blue,KOTH,koth_ashville_final1
-363,Dreamybull's Kitchen,3665543,Blue,KOTH,koth_ashville_final1
-364,Dreamybull's Kitchen,3665525,Red,KOTH,koth_ashville_final1
-365,Dreamybull's Kitchen,3665521,Red,KOTH,koth_ashville_final1
-366,Dreamybull's Kitchen,3665499,Red,KOTH,koth_ashville_final1
-367,Dreamybull's Kitchen,3661478,Red,PL,pl_swiftwater_final1
-368,Dreamybull's Kitchen,3661477,Red,PL,pl_swiftwater_final1
-369,Dreamybull's Kitchen,3661459,Blue,PL,pl_swiftwater_final1
-370,Dreamybull's Kitchen,3661424,Red,PL,pl_swiftwater_final1
-371,Dreamybull's Kitchen,3661421,Red,PL,pl_swiftwater_final1
-372,Dreamybull's Kitchen,3661389,Blue,PL,pl_swiftwater_final1
-373,Dreamybull's Kitchen,3658537,Blue,KOTH,koth_product_final
-374,Dreamybull's Kitchen,3658491,Blue,KOTH,koth_product_final
-375,Dreamybull's Kitchen,3658460,Blue,KOTH,koth_product_final
-376,Dreamybull's Kitchen,3658428,Blue,KOTH,koth_product_final
-377,Dreamybull's Kitchen,3658382,Blue,KOTH,koth_product_final
-378,Dreamybull's Kitchen,3657220,Blue,KOTH,koth_product_final
-379,Dreamybull's Kitchen,3657208,Blue,KOTH,koth_product_final
-380,Dreamybull's Kitchen,3657180,Blue,KOTH,koth_product_final
-381,Dreamybull's Kitchen,3657170,Red,KOTH,koth_product_final
-382,Dreamybull's Kitchen,3657169,Red,KOTH,koth_product_final
-383,Dreamybull's Kitchen,3657136,Red,KOTH,koth_product_final
-384,Dreamybull's Kitchen,3653567,Blue,PL,pl_vigil_rc10
-385,Dreamybull's Kitchen,3653550,Blue,PL,pl_vigil_rc10
-386,Dreamybull's Kitchen,3653522,Red,PL,pl_vigil_rc10
-387,Dreamybull's Kitchen,3653502,Blue,PL,pl_vigil_rc10
-388,Dreamybull's Kitchen,3653495,Red,PL,pl_vigil_rc10
-389,Dreamybull's Kitchen,3652832,Red,PL,pl_vigil_rc10
-390,Dreamybull's Kitchen,3652819,Blue,PL,pl_vigil_rc10
-391,Dreamybull's Kitchen,3652773,Red,PL,pl_vigil_rc10
-392,Dreamybull's Kitchen,3652759,Red,PL,pl_vigil_rc10
-393,Dreamybull's Kitchen,3652756,Red,PL,pl_vigil_rc10
-394,Dreamybull's Kitchen,3652720,Blue,PL,pl_vigil_rc10
-395,Dreamybull's Kitchen,3649780,Red,KOTH,koth_product_final
-396,Dreamybull's Kitchen,3649763,Blue,PL,pl_vigil_rc10
-397,Dreamybull's Kitchen,3649734,Red,PL,pl_vigil_rc10
-398,Dreamybull's Kitchen,3648542,Blue,PL,pl_vigil_rc9
-399,Dreamybull's Kitchen,3648501,Red,KOTH,koth_product_final
-400,Dreamybull's Kitchen,3648471,Blue,PL,pl_vigil_rc10
-401,Dreamybull's Kitchen,3648419,Red,KOTH,koth_ashville_final
-402,Dreamybull's Kitchen,3645366,Blue,PL,pl_vigil_rc10
-403,Dreamybull's Kitchen,3645325,Blue,KOTH,koth_ashville_final
-404,Dreamybull's Kitchen,3645305,Red,PL,pl_upward_f11
-405,Dreamybull's Kitchen,3645262,Red,KOTH,koth_ashville_final1
-406,Dreamybull's Kitchen,3657942,Blue,KOTH,koth_product_final
-407,Dreamybull's Kitchen,3657900,Blue,KOTH,koth_product_final
-408,Dreamybull's Kitchen,3657866,Blue,KOTH,koth_product_final
-409,Dreamybull's Kitchen,3657831,Red,KOTH,koth_product_final
-410,Dreamybull's Kitchen,3657830,Red,KOTH,koth_product_final
-411,Dreamybull's Kitchen,3657816,Red,KOTH,koth_product_final
-412,Dreamybull's Kitchen,3657792,Red,KOTH,koth_product_final
-413,Dreamybull's Kitchen,3653453,Red,PL,pl_vigil_rc10
-414,Dreamybull's Kitchen,3653426,Blue,PL,pl_vigil_rc10
-415,Dreamybull's Kitchen,3653390,Red,PL,pl_vigil_rc10
-416,Dreamybull's Kitchen,3649865,Blue,PL,pl_upward_f10
-417,Dreamybull's Kitchen,3649798,Red,KOTH,koth_ashville_final1
-418,Dreamybull's Kitchen,3641678,Red,KOTH,koth_product_final
-419,Dreamybull's Kitchen,3641615,Red,KOTH,koth_ashville_final1
-420,Dreamybull's Kitchen,3641583,Red,KOTH,koth_product_final
-421,Dreamybull's Kitchen,3654295,Red,PL,pl_vigil_rc10
-422,Dreamybull's Kitchen,3654278,Blue,PL,pl_vigil_rc10
-423,Dreamybull's Kitchen,3654266,Blue,PL,pl_vigil_rc10
-424,Dreamybull's Kitchen,3654203,Red,PL,pl_vigil_rc10
-425,Dreamybull's Kitchen,3654142,Blue,PL,pl_vigil_rc10
-426,Dreamybull's Kitchen,3654116,Red,PL,pl_vigil_rc10
-427,Dreamybull's Kitchen,3654094,Blue,PL,pl_vigil_rc10
-428,Dreamybull's Kitchen,3654045,Red,PL,pl_vigil_rc10
-429,Dreamybull's Kitchen,3662759,Blue,PL,pl_swiftwater_final1
-430,Dreamybull's Kitchen,3662684,Red,PL,pl_swiftwater_final1
-431,Dreamybull's Kitchen,3662656,Blue,PL,pl_swiftwater_final1
-432,Dreamybull's Kitchen,3662650,Blue,PL,pl_swiftwater_final1
-433,Dreamybull's Kitchen,3662607,Red,PL,pl_swiftwater_final1
-434,Dreamybull's Kitchen,3662582,Blue,PL,pl_swiftwater_final1
-435,Dreamybull's Kitchen,3645912,Blue,PL,pl_vigil_rc10
-436,Dreamybull's Kitchen,3645858,Blue,KOTH,koth_product_final
-437,Dreamybull's Kitchen,3645816,Blue,KOTH,koth_lakeside_final
-438,Dreamybull's Kitchen,3645790,Red,PL,pl_upward_f10
-439,Dreamybull's Kitchen,3644758,Red,KOTH,koth_lakeside_r2
-440,Dreamybull's Kitchen,3644726,Blue,KOTH,koth_ashville_final1
-441,Dreamybull's Kitchen,3644702,Blue,PL,pl_vigil_rc10
-442,Dreamybull's Kitchen,3644678,Red,KOTH,koth_product_final
-443,Dreamybull's Kitchen,3649148,Blue,KOTH,koth_product_final
-444,Dreamybull's Kitchen,3649124,Red,PL,pl_vigil_rc10
-445,Dreamybull's Kitchen,3649175,Blue,KOTH,koth_product_final
-446,Dreamybull's Kitchen,3673812,Blue,KOTH,koth_lakeside_r2
-447,Dreamybull's Kitchen,3673782,Blue,KOTH,koth_lakeside_r2
-448,Dreamybull's Kitchen,3673775,Red,KOTH,koth_lakeside_r2
-449,Dreamybull's Kitchen,3673740,Red,KOTH,koth_lakeside_r2
-450,Dreamybull's Kitchen,3673715,Red,KOTH,koth_lakeside_r2
-451,Dreamybull's Kitchen,3641147,Blue,KOTH,koth_product_final
-452,Dreamybull's Kitchen,3641125,Blue,KOTH,koth_ashville_final
-453,Dreamybull's Kitchen,3641086,Blue,KOTH,koth_product_final
-454,Dreamybull's Kitchen,3641070,Blue,KOTH,koth_product_final
-455,Dreamybull's Kitchen,3641061,Blue,KOTH,koth_product_final
-456,Dreamybull's Kitchen,3641045,Red,PL,pl_upward
-457,Dreamybull's Kitchen,3671153,Blue,PL,pl_upward_f12
-458,Dreamybull's Kitchen,3671111,Blue,PL,pl_upward_f12
-459,Dreamybull's Kitchen,3671056,Red,PL,pl_upward_f12
-460,Dreamybull's Kitchen,3671016,Red,PL,pl_upward_f12
-461,Dreamybull's Kitchen,3670990,Blue,PL,pl_upward_f12
-462,Dreamybull's Kitchen,3670961,Red,PL,pl_upward_f12
-463,Dreamybull's Kitchen,3670400,Red,PL,pl_upward_f12
-464,Dreamybull's Kitchen,3670398,Red,PL,pl_upward_f12
-465,Dreamybull's Kitchen,3670353,Red,PL,pl_upward_f12
-466,Dreamybull's Kitchen,3662182,Red,PL,pl_swiftwater_final1
-467,Dreamybull's Kitchen,3662156,Red,PL,pl_swiftwater_final1
-468,Dreamybull's Kitchen,3662105,Blue,PL,pl_swiftwater_final1
-469,Dreamybull's Kitchen,3662083,Red,PL,pl_swiftwater_final1
-470,Dreamybull's Kitchen,3662080,Red,PL,pl_swiftwater_final1
-471,Dreamybull's Kitchen,3662036,Blue,PL,pl_swiftwater_final1
-472,Dreamybull's Kitchen,3669867,Red,PL,pl_upward_f10
-473,Dreamybull's Kitchen,3669856,Red,PL,pl_upward_f10
-474,Dreamybull's Kitchen,3669818,Blue,PL,pl_upward_f10
-475,Dreamybull's Kitchen,3669804,Blue,PL,pl_upward_f12
-476,Dreamybull's Kitchen,3669792,Blue,PL,pl_upward_f12
-477,Dreamybull's Kitchen,3669770,Red,PL,pl_upward_f12
-478,Dreamybull's Kitchen,3669741,Blue,PL,pl_upward_f12
-479,@MST,3671153,Red,PL,pl_upward_f12
-480,@MST,3671111,Red,PL,pl_upward_f12
-481,@MST,3671056,Blue,PL,pl_upward_f12
-482,@MST,3670996,Blue,PL,pl_upward_f12
-483,@MST,3670963,Red,PL,pl_upward_f12
-484,@MST,3670484,Blue,PL,pl_upward_f12
-485,@MST,3670464,Blue,PL,pl_upward_f12
-486,@MST,3670429,Red,PL,pl_upward_f12
-487,@MST,3670392,Blue,PL,pl_upward_f12
-488,@MST,3670354,Red,PL,pl_upward_f12
-489,@MST,3670335,Blue,PL,pl_upward_f12
-490,@MST,3669842,Red,PL,pl_upward_f11
-491,@MST,3669812,Blue,PL,pl_upward_f11
-492,@MST,3669791,Blue,PL,pl_upward_f12
-493,@MST,3669758,Red,PL,pl_upward_f12
-494,@MST,3662782,Blue,PL,pl_swiftwater_final1
-495,@MST,3662721,Red,PL,pl_swiftwater_final1
-496,@MST,3662675,Blue,PL,pl_swiftwater_final1
-497,@MST,3662623,Blue,PL,pl_swiftwater_final1
-498,@MST,3662587,Red,PL,pl_swiftwater_final1
-499,@MST,3661478,Blue,PL,pl_swiftwater_final1
-500,@MST,3661477,Blue,PL,pl_swiftwater_final1
-501,@MST,3661459,Red,PL,pl_swiftwater_final1
-502,@MST,3658586,Red,KOTH,koth_product_final
-503,@MST,3658521,Red,KOTH,koth_product_final
-504,@MST,3658489,Red,KOTH,koth_product_final
-505,@MST,3658416,Blue,KOTH,koth_product_final
-506,@MST,3658389,Blue,KOTH,koth_product_final
-507,@MST,3657938,Red,KOTH,koth_product_final
-508,@MST,3657926,Red,KOTH,koth_product_final
-509,@MST,3657871,Red,KOTH,koth_product_final
-510,@MST,3657833,Red,KOTH,koth_product_final
-511,@MST,3657807,Red,KOTH,koth_product_final
-512,@MST,3657772,Red,KOTH,koth_product_final
-513,@MST,3654235,Blue,PL,pl_vigil_rc10
-514,@MST,3654208,Blue,PL,pl_vigil_rc10
-515,@MST,3654150,Red,PL,pl_vigil_rc10
-516,@MST,3654110,Red,PL,pl_vigil_rc10
-517,@MST,3654062,Blue,PL,pl_vigil_rc10
-518,@MST,3654033,Red,PL,pl_vigil_rc10
-519,@MST,3653553,Red,PL,pl_vigil_rc10
-520,@MST,3653534,Red,PL,pl_vigil_rc10
-521,@MST,3653509,Blue,PL,pl_vigil_rc10
-522,@MST,3653477,Red,PL,pl_vigil_rc10
-523,@MST,3653444,Blue,PL,pl_vigil_rc10
-524,@MST,3653391,Red,PL,pl_vigil_rc10
-525,@MST,3649174,Blue,KOTH,koth_ashville_final
-526,@MST,3649159,Blue,KOTH,koth_ashville_final
-527,@MST,3649133,Red,PL,pl_vigil_rc10
-528,@MST,3648542,Red,PL,pl_vigil_rc9
-529,@MST,3648501,Blue,KOTH,koth_product_final
-530,@MST,3641159,Blue,PL,pl_vigil_rc10
-531,@MST,3641108,Blue,KOTH,koth_ashville_final
-532,@MST,3641074,Blue,PL,pl_vigil_rc10
-533,@MST,3641048,Blue,KOTH,koth_product_final
-534,@MST,3662180,Blue,PL,pl_swiftwater_final1
-535,@MST,3662166,Blue,PL,pl_swiftwater_final1
-536,@MST,3662114,Red,PL,pl_swiftwater_final1
-537,@MST,3662068,Blue,PL,pl_swiftwater_final1
-538,@MST,3662028,Red,PL,pl_swiftwater_final1
-539,@MST,3652832,Blue,PL,pl_vigil_rc10
-540,@MST,3652819,Red,PL,pl_vigil_rc10
-541,@MST,3652773,Blue,PL,pl_vigil_rc10
-542,@MST,3652737,Red,PL,pl_vigil_rc10
-543,@MST,3652704,Blue,PL,pl_vigil_rc10
-544,@MST,3640490,Red,PL,pl_upward_f11
-545,@MST,3640458,Blue,KOTH,koth_product_final
-546,@MST,3640425,Red,KOTH,koth_ashville_final
-547,@MST,3640413,Blue,PL,pl_vigil_rc10
-548,@MST,3649855,Blue,PL,pl_upward_f11
-549,@MST,3649793,Red,KOTH,koth_product_final
-550,@MST,3649762,Blue,PL,pl_vigil_rc10
-551,@MST,3649720,Red,KOTH,koth_product_final
-552,@MST,3674485,Red,KOTH,koth_lakeside_r2
-553,@MST,3674472,Red,KOTH,koth_lakeside_r2
-554,@MST,3674419,Red,KOTH,koth_lakeside_r2
-555,@MST,3666897,Red,KOTH,koth_ashville_final1
-556,@MST,3666855,Red,KOTH,koth_ashville_final1
-557,@MST,3666803,Red,KOTH,koth_ashville_final1
-558,@MST,3666745,Red,KOTH,koth_ashville_final1
-559,@MST,3666254,Blue,KOTH,koth_ashville_final1
-560,@MST,3666189,Blue,KOTH,koth_ashville_final1
-561,@MST,3666152,Blue,KOTH,koth_ashville_final1
-562,@MST,3666121,Blue,KOTH,koth_ashville_final1
-563,@MST,3657220,Red,KOTH,koth_product_final
-564,@MST,3657208,Red,KOTH,koth_product_final
-565,@MST,3657180,Red,KOTH,koth_product_final
-566,@MST,3657144,Red,KOTH,koth_product_final
-567,@MST,3657101,Red,KOTH,koth_product_final
-568,@MST,3645921,Blue,PL,pl_vigil_rc10
-569,@MST,3645886,Red,PL,pl_vigil_rc10
-570,@MST,3645839,Red,KOTH,koth_ashville_final
-571,@MST,3645805,Blue,KOTH,koth_ashville_final
-572,@MST,3645787,Blue,PL,pl_vigil_rc10
-573,@MST,3645765,Red,PL,pl_vigil_rc10
-574,@MST,3645366,Red,PL,pl_vigil_rc10
-575,@MST,3645325,Red,KOTH,koth_ashville_final
-576,@MST,3645281,Blue,KOTH,koth_ashville_final1
-577,@MST,3645263,Blue,KOTH,koth_lakeside_r2
-578,@MST,3645230,Blue,KOTH,koth_lakeside_r2
-579,@MST,3644780,Red,PL,pl_vigil_rc10
-580,@MST,3644746,Red,KOTH,koth_product_final
-581,@MST,3644731,Red,KOTH,koth_product_final
-582,@MST,3665520,Red,KOTH,koth_ashville_final1
-583,@MST,3665489,Red,KOTH,koth_ashville_final1
-584,@MST,3665465,Red,KOTH,koth_ashville_final1
-585,@MST,3665578,Red,KOTH,koth_ashville_final1
-586,@MST,3665570,Red,KOTH,koth_ashville_final1
-587,@MST,3665543,Red,KOTH,koth_ashville_final1
-588,@MST,3674354,Red,KOTH,koth_lakeside_r2
-589,@MST,3674336,Red,KOTH,koth_lakeside_r2
-590,@MST,3641712,Red,PL,pl_vigil_rc10
-591,@MST,3641679,Red,PL,pl_vigil_rc10
-592,@MST,3641636,Red,PL,pl_upward_f10
-593,@MST,3641587,Blue,KOTH,koth_product_final
-594,Run It Back,3662745,Blue,PL,pl_swiftwater_final1
-595,Run It Back,3662685,Red,PL,pl_swiftwater_final1
-596,Run It Back,3662656,Red,PL,pl_swiftwater_final1
-597,Run It Back,3662650,Red,PL,pl_swiftwater_final1
-598,Run It Back,3662607,Blue,PL,pl_swiftwater_final1
-599,Run It Back,3662582,Red,PL,pl_swiftwater_final1
-600,Run It Back,3661471,Red,PL,pl_swiftwater_final1
-601,Run It Back,3661441,Blue,PL,pl_swiftwater_final1
-602,Run It Back,3661416,Red,PL,pl_swiftwater_final1
-603,Run It Back,3661400,Red,PL,pl_swiftwater_final1
-604,Run It Back,3661371,Blue,PL,pl_swiftwater_final1
-605,Run It Back,3671101,Red,PL,pl_upward_f12
-606,Run It Back,3671084,Red,PL,pl_upward_f12
-607,Run It Back,3671059,Blue,PL,pl_upward_f12
-608,Run It Back,3671016,Blue,PL,pl_upward_f12
-609,Run It Back,3670990,Red,PL,pl_upward_f12
-610,Run It Back,3670961,Blue,PL,pl_upward_f12
-611,Run It Back,3670469,Red,PL,pl_upward_f11
-612,Run It Back,3670426,Blue,PL,pl_upward_f11
-613,Run It Back,3670392,Red,PL,pl_upward_f12
-614,Run It Back,3670354,Blue,PL,pl_upward_f12
-615,Run It Back,3670335,Red,PL,pl_upward_f12
-616,Run It Back,3658569,Red,KOTH,koth_product_final
-617,Run It Back,3658541,Red,KOTH,koth_product_final
-618,Run It Back,3658498,Red,KOTH,koth_product_final
-619,Run It Back,3658460,Red,KOTH,koth_product_final
-620,Run It Back,3658428,Red,KOTH,koth_product_final
-621,Run It Back,3658382,Red,KOTH,koth_product_final
-622,Run It Back,3654250,Blue,PL,pl_vigil_rc10
-623,Run It Back,3654247,Blue,PL,pl_vigil_rc10
-624,Run It Back,3654196,Red,PL,pl_vigil_rc10
-625,Run It Back,3654151,Blue,PL,pl_vigil_rc10
-626,Run It Back,3654116,Blue,PL,pl_vigil_rc10
-627,Run It Back,3654094,Red,PL,pl_vigil_rc10
-628,Run It Back,3654045,Blue,PL,pl_vigil_rc10
-629,Run It Back,3653484,Red,PL,pl_vigil_rc10
-630,Run It Back,3653444,Red,PL,pl_vigil_rc10
-631,Run It Back,3653391,Blue,PL,pl_vigil_rc10
-632,Run It Back,3649736,Blue,KOTH,koth_ashville_final
-633,Run It Back,3649721,Blue,KOTH,koth_ashville_final
-634,Run It Back,3653559,Red,PL,pl_vigil_rc10
-635,Run It Back,3653518,Blue,PL,pl_vigil_rc10
-636,Run It Back,3662124,Blue,PL,pl_swiftwater_final1
-637,Run It Back,3662110,Red,PL,pl_swiftwater_final1
-638,Run It Back,3662068,Red,PL,pl_swiftwater_final1
-639,Run It Back,3662028,Blue,PL,pl_swiftwater_final1
-640,Run It Back,3669884,Blue,PL,pl_upward_f10
-641,Run It Back,3669879,Blue,PL,pl_upward_f10
-642,Run It Back,3669855,Blue,PL,pl_upward_f10
-643,Run It Back,3669829,Red,PL,pl_upward_f10
-644,Run It Back,3674438,Blue,KOTH,koth_lakeside_r2
-645,Run It Back,3674405,Blue,KOTH,koth_lakeside_r2
-646,Run It Back,3657148,Red,KOTH,koth_product_final
-647,Run It Back,3657107,Red,KOTH,koth_product_final
-648,Run It Back,3652812,Blue,PL,pl_vigil_rc10
-649,Run It Back,3652775,Red,PL,pl_vigil_rc10
-650,Run It Back,3652755,Blue,PL,pl_vigil_rc10
-651,Run It Back,3652723,Red,PL,pl_vigil_rc10
-652,Run It Back,3652697,Blue,PL,pl_vigil_rc10
-653,Run It Back,3666919,Blue,KOTH,koth_ashville_final1
-654,Run It Back,3666848,Blue,KOTH,koth_ashville_final1
-655,Run It Back,3666823,Blue,KOTH,koth_ashville_final1
-656,Run It Back,3666810,Blue,KOTH,koth_ashville_final1
-657,Run It Back,3666744,Blue,KOTH,koth_ashville_final1
-658,Run It Back,3666222,Red,KOTH,koth_ashville_final1
-659,Run It Back,3666178,Red,KOTH,koth_ashville_final1
-660,Run It Back,3649223,Red,KOTH,koth_product_final
-661,Run It Back,3649200,Blue,PL,pl_upward_f12
-662,Run It Back,3649174,Red,KOTH,koth_ashville_final
-663,Run It Back,3649159,Red,KOTH,koth_ashville_final
-664,Run It Back,3649133,Blue,PL,pl_vigil_rc10
-665,Run It Back,3648536,Blue,PL,pl_vigil_rc10
-666,Run It Back,3648500,Red,KOTH,koth_product_final
-667,Run It Back,3648471,Red,PL,pl_vigil_rc10
-668,Run It Back,3648419,Blue,KOTH,koth_ashville_final
-669,Run It Back,3644766,Blue,PL,pl_vigil_rc10
-670,Run It Back,3644754,Red,PL,pl_vigil_rc10
-671,Run It Back,3644722,Blue,KOTH,koth_product_final
-672,Run It Back,3644702,Red,PL,pl_vigil_rc10
-673,Run It Back,3644678,Blue,KOTH,koth_product_final
-674,Run It Back,3645805,Red,KOTH,koth_ashville_final
-675,Run It Back,3645787,Red,PL,pl_vigil_rc10
-676,Run It Back,3645765,Blue,PL,pl_vigil_rc10
-677,Run It Back,3645350,Blue,KOTH,koth_product_final
-678,Run It Back,3645316,Blue,KOTH,koth_cascade_rc1a
-679,Run It Back,3657948,Red,KOTH,koth_product_final
-680,Run It Back,3657903,Red,KOTH,koth_product_final
-681,Run It Back,3657869,Red,KOTH,koth_product_final
-682,Run It Back,3657833,Blue,KOTH,koth_product_final
-683,Run It Back,3657807,Blue,KOTH,koth_product_final
-684,Run It Back,3657772,Blue,KOTH,koth_product_final
-685,Run It Back,3649830,Red,KOTH,koth_cascade_rc1a
-686,Run It Back,3649808,Red,KOTH,koth_cascade_rc1a
-687,Run It Back,3649777,Blue,PL,pl_upward_f12
-688,Run It Back,3674354,Blue,KOTH,koth_lakeside_r2
-689,Run It Back,3674336,Blue,KOTH,koth_lakeside_r2
-690,FroggieLand,3657229,Red,KOTH,koth_product_final
-691,FroggieLand,3657205,Red,KOTH,koth_product_final
-692,FroggieLand,3657175,Red,KOTH,koth_product_final
-693,FroggieLand,3657170,Blue,KOTH,koth_product_final
-694,FroggieLand,3657169,Blue,KOTH,koth_product_final
-695,FroggieLand,3657136,Blue,KOTH,koth_product_final
-696,FroggieLand,3654262,Blue,PL,pl_vigil_rc10
-697,FroggieLand,3654250,Red,PL,pl_vigil_rc10
-698,FroggieLand,3654247,Red,PL,pl_vigil_rc10
-699,FroggieLand,3654196,Blue,PL,pl_vigil_rc10
-700,FroggieLand,3654151,Red,PL,pl_vigil_rc10
-701,FroggieLand,3654086,Blue,PL,pl_vigil_rc10
-702,FroggieLand,3654046,Red,PL,pl_vigil_rc10
-703,FroggieLand,3648532,Blue,KOTH,koth_ashville_final1
-704,FroggieLand,3648510,Red,PL,pl_swiftwater_final1
-705,FroggieLand,3648464,Blue,KOTH,koth_ashville_final1
-706,FroggieLand,3648438,Red,PL,pl_upward_f11
-707,FroggieLand,3653547,Blue,PL,pl_vigil_rc10
-708,FroggieLand,3653545,Blue,PL,pl_vigil_rc10
-709,FroggieLand,3653513,Red,PL,pl_vigil_rc10
-710,FroggieLand,3653435,Blue,PL,pl_vigil_rc10
-711,FroggieLand,3649208,Blue,KOTH,koth_product_final
-712,FroggieLand,3649187,Blue,PL,pl_vigil_rc10
-713,FroggieLand,3652839,Red,PL,pl_vigil_rc10
-714,FroggieLand,3652831,Red,PL,pl_vigil_rc10
-715,FroggieLand,3652794,Blue,PL,pl_vigil_rc10
-716,FroggieLand,3652765,Red,PL,pl_vigil_rc10
-717,FroggieLand,3652759,Blue,PL,pl_vigil_rc10
-718,FroggieLand,3652756,Blue,PL,pl_vigil_rc10
-719,FroggieLand,3652720,Red,PL,pl_vigil_rc10
-720,FroggieLand,3671156,Blue,PL,pl_upward_f12
-721,FroggieLand,3671147,Blue,PL,pl_upward_f12
-722,FroggieLand,3671081,Red,PL,pl_upward_f12
-723,FroggieLand,3671041,Red,PL,pl_upward_f12
-724,FroggieLand,3671000,Blue,PL,pl_upward_f12
-725,FroggieLand,3670972,Red,PL,pl_upward_f12
-726,FroggieLand,3666931,Blue,KOTH,koth_ashville_final1
-727,FroggieLand,3666908,Blue,KOTH,koth_ashville_final1
-728,FroggieLand,3666860,Blue,KOTH,koth_ashville_final1
-729,FroggieLand,3666796,Blue,KOTH,koth_ashville_final1
-730,FroggieLand,3666746,Blue,KOTH,koth_ashville_final1
-731,FroggieLand,3662777,Blue,PL,pl_swiftwater_final1
-732,FroggieLand,3662757,Blue,PL,pl_swiftwater_final1
-733,FroggieLand,3662694,Red,PL,pl_swiftwater_final1
-734,FroggieLand,3662640,Blue,PL,pl_swiftwater_final1
-735,FroggieLand,3662590,Red,PL,pl_swiftwater_final1
-736,FroggieLand,3658436,Blue,KOTH,koth_product_final
-737,FroggieLand,3658390,Blue,KOTH,koth_product_final
-738,FroggieLand,3641153,Blue,PL,pl_upward_f11
-739,FroggieLand,3641107,Blue,KOTH,koth_ashville_final1
-740,FroggieLand,3641083,Red,PL,pl_vigil_rc10
-741,FroggieLand,3641043,Blue,KOTH,koth_ashville_final
-742,FroggieLand,3641746,Red,PL,pl_upward_f11
-743,FroggieLand,3641711,Blue,KOTH,koth_product_final
-744,FroggieLand,3641669,Blue,KOTH,koth_ashville_final
-745,FroggieLand,3641621,Red,PL,pl_vigil_rc10
-746,FroggieLand,3641586,Blue,KOTH,koth_ashville_final1
-747,FroggieLand,3666268,Blue,KOTH,koth_ashville_final1
-748,FroggieLand,3666230,Blue,KOTH,koth_ashville_final1
-749,FroggieLand,3666179,Blue,KOTH,koth_ashville_final1
-750,FroggieLand,3666163,Blue,KOTH,koth_ashville_final1
-751,FroggieLand,3666118,Blue,KOTH,koth_ashville_final1
-752,FroggieLand,3662172,Blue,PL,pl_swiftwater_final1
-753,FroggieLand,3662153,Blue,PL,pl_swiftwater_final1
-754,FroggieLand,3662098,Red,PL,pl_swiftwater_final1
-755,FroggieLand,3662060,Blue,PL,pl_swiftwater_final1
-756,FroggieLand,3662020,Red,PL,pl_swiftwater_final1
-757,FroggieLand,3661453,Blue,PL,pl_swiftwater_final1
-758,FroggieLand,3661446,Red,PL,pl_swiftwater_final1
-759,FroggieLand,3661424,Blue,PL,pl_swiftwater_final1
-760,FroggieLand,3661421,Blue,PL,pl_swiftwater_final1
-761,FroggieLand,3661389,Red,PL,pl_swiftwater_final1
-762,FroggieLand,3674469,Blue,KOTH,koth_lakeside_r2
-763,FroggieLand,3674444,Blue,KOTH,koth_lakeside_r2
-764,FroggieLand,3674407,Blue,KOTH,koth_lakeside_r2
-765,FroggieLand,3674377,Blue,KOTH,koth_lakeside_r2
-766,FroggieLand,3674347,Blue,KOTH,koth_lakeside_r2
-767,FroggieLand,3649777,Red,PL,pl_upward_f12
-768,FroggieLand,3649736,Red,KOTH,koth_ashville_final
-769,FroggieLand,3649721,Red,KOTH,koth_ashville_final
-770,Worse Comp Format,3671140,Blue,PL,pl_upward_f12
-771,Worse Comp Format,3671088,Red,PL,pl_upward_f12
-772,Worse Comp Format,3671045,Blue,PL,pl_upward_f12
-773,Worse Comp Format,3671009,Red,PL,pl_upward_f12
-774,Worse Comp Format,3670979,Blue,PL,pl_upward_f12
-775,Worse Comp Format,3666913,Red,KOTH,koth_ashville_final1
-776,Worse Comp Format,3666866,Red,KOTH,koth_ashville_final1
-777,Worse Comp Format,3666155,Red,KOTH,koth_ashville_final1
-778,Worse Comp Format,3666129,Red,KOTH,koth_ashville_final1
-779,Worse Comp Format,3662782,Red,PL,pl_swiftwater_final1
-780,Worse Comp Format,3662721,Blue,PL,pl_swiftwater_final1
-781,Worse Comp Format,3662675,Red,PL,pl_swiftwater_final1
-782,Worse Comp Format,3654195,Blue,PL,pl_vigil_rc10
-783,Worse Comp Format,3654153,Red,PL,pl_vigil_rc10
-784,Worse Comp Format,3653564,Red,PL,pl_vigil_rc10
-785,Worse Comp Format,3653526,Blue,PL,pl_vigil_rc10
-786,Worse Comp Format,3653487,Red,PL,pl_vigil_rc10
-787,Worse Comp Format,3653453,Blue,PL,pl_vigil_rc10
-788,Worse Comp Format,3653426,Red,PL,pl_vigil_rc10
-789,Worse Comp Format,3653390,Blue,PL,pl_vigil_rc10
-790,Worse Comp Format,3662625,Blue,PL,pl_swiftwater_final1
-791,Worse Comp Format,3674393,Blue,KOTH,koth_lakeside_r2
-792,Worse Comp Format,3674363,Blue,KOTH,koth_lakeside_r2
-793,Worse Comp Format,3674334,Blue,KOTH,koth_lakeside_r2
-794,Worse Comp Format,3662161,Red,PL,pl_swiftwater_final1
-795,Worse Comp Format,3674482,Red,KOTH,koth_lakeside_r2
-796,Worse Comp Format,3674421,Red,KOTH,koth_lakeside_r2
-797,Worse Comp Format,3654084,Red,PL,pl_vigil_rc10
-798,Worse Comp Format,3654036,Blue,PL,pl_vigil_rc10
-799,Worse Comp Format,3666813,Red,KOTH,koth_ashville_final1
-800,Worse Comp Format,3666771,Red,KOTH,koth_ashville_final1
-801,Worse Comp Format,3665599,Blue,KOTH,koth_ashville_final1
-802,Worse Comp Format,3665548,Blue,KOTH,koth_ashville_final1
-803,Worse Comp Format,3665520,Blue,KOTH,koth_ashville_final1
-804,Worse Comp Format,3665489,Blue,KOTH,koth_ashville_final1
-805,Worse Comp Format,3665465,Blue,KOTH,koth_ashville_final1
-806,Worse Comp Format,3661502,Red,PL,pl_swiftwater_final1
-807,Worse Comp Format,3661465,Blue,PL,pl_swiftwater_final1
-808,Worse Comp Format,3661436,Blue,PL,pl_swiftwater_final1
-809,Worse Comp Format,3661404,Red,PL,pl_swiftwater_final1
-810,Worse Comp Format,3661376,Blue,PL,pl_swiftwater_final1
-811,Worse Comp Format,3658537,Red,KOTH,koth_product_final
-812,Worse Comp Format,3658491,Red,KOTH,koth_product_final
-813,Worse Comp Format,3658436,Red,KOTH,koth_product_final
-814,Worse Comp Format,3658390,Red,KOTH,koth_product_final
-815,Worse Comp Format,3657891,Blue,KOTH,koth_product_final
-816,Worse Comp Format,3657864,Blue,KOTH,koth_product_final
-817,Worse Comp Format,3657839,Red,KOTH,koth_product_final
-818,Worse Comp Format,3657778,Red,KOTH,koth_product_final
-819,Worse Comp Format,3645912,Red,PL,pl_vigil_rc10
-820,Worse Comp Format,3645858,Red,KOTH,koth_product_final
-821,Worse Comp Format,3670491,Red,PL,pl_upward_f12
-822,Worse Comp Format,3670453,Blue,PL,pl_upward_f12
-823,Worse Comp Format,3645798,Blue,PL,pl_vigil_rc10
-824,Worse Comp Format,3645760,Blue,KOTH,koth_lakeside_r2
-825,Impostors,3658533,Blue,KOTH,koth_product_final
-826,Impostors,3658495,Blue,KOTH,koth_product_final
-827,Impostors,3658437,Blue,KOTH,koth_product_final
-828,Impostors,3658384,Blue,KOTH,koth_product_final
-829,Impostors,3657921,Blue,KOTH,koth_product_final
-830,Impostors,3657886,Blue,KOTH,koth_product_final
-831,Impostors,3657858,Blue,KOTH,koth_product_final
-832,Impostors,3657839,Blue,KOTH,koth_product_final
-833,Impostors,3657778,Blue,KOTH,koth_product_final
-834,Impostors,3654295,Blue,PL,pl_vigil_rc10
-835,Impostors,3654278,Red,PL,pl_vigil_rc10
-836,Impostors,3654266,Red,PL,pl_vigil_rc10
-837,Impostors,3654203,Blue,PL,pl_vigil_rc10
-838,Impostors,3654142,Red,PL,pl_vigil_rc10
-839,Impostors,3654080,Red,PL,pl_vigil_rc10
-840,Impostors,3654039,Blue,PL,pl_vigil_rc10
-841,Impostors,3649855,Red,PL,pl_upward_f11
-842,Impostors,3649793,Blue,KOTH,koth_product_final
-843,Impostors,3649740,Blue,KOTH,koth_product_final
-844,Impostors,3649727,Blue,PL,pl_vigil_rc10
-845,Impostors,3653548,Blue,PL,pl_vigil_rc10
-846,Impostors,3653519,Red,PL,pl_vigil_rc10
-847,Impostors,3653472,Blue,PL,pl_vigil_rc10
-848,Impostors,3653433,Red,PL,pl_vigil_rc10
-849,Impostors,3653392,Blue,PL,pl_vigil_rc10
-850,Impostors,3645873,Blue,KOTH,koth_product_final
-851,Impostors,3645843,Red,PL,pl_vigil_rc10
-852,Impostors,3644732,Blue,KOTH,koth_product_final
-853,Impostors,3644718,Red,PL,pl_vigil_rc10
-854,Impostors,3644681,Blue,KOTH,koth_product_final
-855,Impostors,3644667,Red,PL,pl_vigil_rc10
-856,Impostors,3641153,Red,PL,pl_upward_f11
-857,Impostors,3641107,Red,KOTH,koth_ashville_final1
-858,Impostors,3662748,Blue,PL,pl_swiftwater_final1
-859,Impostors,3662705,Red,PL,pl_swiftwater_final1
-860,Impostors,3662614,Red,PL,pl_swiftwater_final1
-861,Impostors,3662580,Blue,PL,pl_swiftwater_final1
-862,Impostors,3652821,Red,PL,pl_vigil_rc10
-863,Impostors,3652783,Blue,PL,pl_vigil_rc10
-864,Impostors,3652755,Red,PL,pl_vigil_rc10
-865,Impostors,3652723,Blue,PL,pl_vigil_rc10
-866,Impostors,3652697,Red,PL,pl_vigil_rc10
-867,Impostors,3666913,Blue,KOTH,koth_ashville_final1
-868,Impostors,3666866,Blue,KOTH,koth_ashville_final1
-869,Impostors,3666803,Blue,KOTH,koth_ashville_final1
-870,Impostors,3666745,Blue,KOTH,koth_ashville_final1
-871,Impostors,3674355,Red,KOTH,koth_lakeside_r2
-872,Impostors,3665587,Blue,KOTH,koth_ashville_final1
-873,Impostors,3665572,Blue,KOTH,koth_ashville_final1
-874,Impostors,3665539,Blue,KOTH,koth_ashville_final1
-875,Impostors,3665523,Blue,KOTH,koth_ashville_final1
-876,Impostors,3665495,Blue,KOTH,koth_ashville_final1
-877,Impostors,3665469,Blue,KOTH,koth_ashville_final1
-878,Impostors,3662162,Blue,PL,pl_swiftwater_final1
-879,Impostors,3662103,Red,PL,pl_swiftwater_final1
-880,Impostors,3662050,Blue,PL,pl_swiftwater_final1
-881,Impostors,3662026,Red,PL,pl_swiftwater_final1
-882,Impostors,3645337,Red,KOTH,koth_ashville_final1
-883,Impostors,3645310,Blue,PL,pl_vigil_rc10
-884,Impostors,3645252,Red,KOTH,koth_ashville_final1
-885,Impostors,3645229,Red,PL,pl_vigil_rc10
-886,Impostors,3671101,Blue,PL,pl_upward_f12
-887,Impostors,3671084,Blue,PL,pl_upward_f12
-888,Impostors,3671059,Red,PL,pl_upward_f12
-889,Impostors,3670997,Red,PL,pl_upward_f12
-890,Impostors,3670962,Blue,PL,pl_upward_f12
-891,Impostors,3661485,Blue,PL,pl_swiftwater_final1
-892,Impostors,3661448,Red,PL,pl_swiftwater_final1
-893,Impostors,3661416,Blue,PL,pl_swiftwater_final1
-894,Impostors,3661400,Blue,PL,pl_swiftwater_final1
-895,Impostors,3661371,Red,PL,pl_swiftwater_final1
-896,Impostors,3657234,Blue,KOTH,koth_product_final
-897,Impostors,3657191,Blue,KOTH,koth_product_final
-898,Impostors,3657148,Blue,KOTH,koth_product_final
-899,Impostors,3657107,Blue,KOTH,koth_product_final
-900,Impostors,3649208,Red,KOTH,koth_product_final
-901,Impostors,3649187,Red,PL,pl_vigil_rc10
-902,Impostors,3649160,Blue,PL,pl_vigil_rc10
-903,Impostors,3649121,Red,KOTH,koth_product_final
-904,Impostors,3641676,Blue,PL,pl_vigil_rc10
-905,Impostors,3641647,Blue,KOTH,koth_ashville_final1
-906,Impostors,3641618,Red,PL,pl_swiftwater_final1
-907,Impostors,3641580,Blue,KOTH,koth_product_final
-908,Impostors,3641080,Red,PL,pl_vigil_rc10
-909,Impostors,3641049,Red,KOTH,koth_product_final
-910,Impostors,3648536,Red,PL,pl_vigil_rc10
-911,Impostors,3648500,Blue,KOTH,koth_product_final
-912,Impostors,3648444,Blue,KOTH,koth_product_final
-913,Impostors,3648425,Red,PL,pl_vigil_rc10
+1,The Duddy Dudes,3679359,Blue,CP,cp_steel
+2,The Duddy Dudes,3679320,Red,CP,cp_steel
+3,The Duddy Dudes,3679292,Blue,CP,cp_steel
+4,The Duddy Dudes,3679259,Red,CP,cp_steel
+5,The Duddy Dudes,3679220,Red,CP,cp_steel
+6,The Duddy Dudes,3679194,Blue,CP,cp_steel
+7,The Duddy Dudes,3666890,Red,KOTH,koth_ashville_final
+8,The Duddy Dudes,3666874,Red,KOTH,koth_ashville_final
+9,The Duddy Dudes,3666845,Red,KOTH,koth_ashville_final
+10,The Duddy Dudes,3679243,Blue,CP,cp_steel
+11,The Duddy Dudes,3678681,Red,CP,cp_steel
+12,The Duddy Dudes,3678672,Red,CP,cp_steel
+13,The Duddy Dudes,3678655,Red,CP,cp_steel
+14,The Duddy Dudes,3678630,Blue,CP,cp_steel
+15,The Duddy Dudes,3678616,Red,CP,cp_steel
+16,The Duddy Dudes,3678575,Red,CP,cp_steel
+17,The Duddy Dudes,3678545,Blue,CP,cp_steel
+18,The Duddy Dudes,3671142,Red,PL,pl_upward_f12
+19,The Duddy Dudes,3671072,Blue,PL,pl_upward_f12
+20,The Duddy Dudes,3671034,Red,PL,pl_upward_f12
+21,The Duddy Dudes,3670999,Blue,PL,pl_upward_f12
+22,The Duddy Dudes,3662777,Red,PL,pl_swiftwater_final1
+23,The Duddy Dudes,3662757,Red,PL,pl_swiftwater_final1
+24,The Duddy Dudes,3662694,Blue,PL,pl_swiftwater_final1
+25,The Duddy Dudes,3662628,Red,PL,pl_swiftwater_final1
+26,The Duddy Dudes,3662599,Blue,PL,pl_swiftwater_final1
+27,The Duddy Dudes,3658569,Blue,KOTH,koth_product_final
+28,The Duddy Dudes,3658541,Blue,KOTH,koth_product_final
+29,The Duddy Dudes,3658498,Blue,KOTH,koth_product_final
+30,The Duddy Dudes,3658459,Blue,KOTH,koth_product_final
+31,The Duddy Dudes,3658421,Blue,KOTH,koth_product_final
+32,The Duddy Dudes,3657813,Blue,KOTH,koth_product_final
+33,The Duddy Dudes,3657776,Blue,KOTH,koth_product_final
+34,The Duddy Dudes,3657214,Blue,KOTH,koth_product_final
+35,The Duddy Dudes,3657178,Blue,KOTH,koth_product_final
+36,The Duddy Dudes,3670469,Blue,PL,pl_upward_f11
+37,The Duddy Dudes,3670426,Red,PL,pl_upward_f11
+38,The Duddy Dudes,3670380,Blue,PL,pl_upward_f11
+39,The Duddy Dudes,3648463,Red,PL,pl_upward_f11
+40,The Duddy Dudes,3648449,Blue,PL,pl_upward_f11
+41,The Duddy Dudes,3648422,Blue,KOTH,koth_ashville_final
+42,The Duddy Dudes,3665563,Blue,KOTH,koth_ashville_final
+43,The Duddy Dudes,3665536,Blue,KOTH,koth_ashville_final
+44,The Duddy Dudes,3665492,Blue,KOTH,koth_ashville_final1
+45,The Duddy Dudes,3665467,Blue,KOTH,koth_ashville_final1
+46,The Duddy Dudes,3666794,Red,KOTH,koth_ashville_final
+47,The Duddy Dudes,3666756,Red,KOTH,koth_ashville_final
+48,The Duddy Dudes,3645350,Red,KOTH,koth_product_final
+49,The Duddy Dudes,3645316,Red,KOTH,koth_cascade_rc1a
+50,The Duddy Dudes,3645268,Blue,PL,pl_vigil_rc10
+51,The Duddy Dudes,3645231,Blue,KOTH,koth_lakeside_r2
+52,The Duddy Dudes,3661469,Blue,PL,pl_swiftwater_final1
+53,The Duddy Dudes,3661440,Red,PL,pl_swiftwater_final1
+54,The Duddy Dudes,3661394,Blue,PL,pl_swiftwater_final1
+55,The Duddy Dudes,3661370,Red,PL,pl_swiftwater_final1
+56,The Duddy Dudes,3658386,Blue,KOTH,koth_product_final
+57,The Duddy Dudes,3677961,Blue,CP,cp_steel
+58,The Duddy Dudes,3677934,Red,CP,cp_steel
+59,The Duddy Dudes,3670348,Red,PL,pl_upward_f11
+60,The Duddy Dudes,3666222,Blue,KOTH,koth_ashville_final1
+61,The Duddy Dudes,3666178,Blue,KOTH,koth_ashville_final1
+62,The Duddy Dudes,3666147,Blue,KOTH,koth_ashville_final1
+63,The Duddy Dudes,3666114,Blue,KOTH,koth_ashville_final1
+64,The Duddy Dudes,3687168,Blue,KOTH,koth_cascade_rc1a
+65,The Duddy Dudes,3687140,Blue,KOTH,koth_cascade_rc1a
+66,The Duddy Dudes,3674995,Red,KOTH,koth_lakeside_r2
+67,The Duddy Dudes,3674986,Red,KOTH,koth_lakeside_r2
+68,The Duddy Dudes,3674952,Red,KOTH,koth_lakeside_r2
+69,The Duddy Dudes,3674923,Red,KOTH,koth_lakeside_r2
+70,The Duddy Dudes,3674438,Red,KOTH,koth_lakeside_r2
+71,The Duddy Dudes,3674405,Red,KOTH,koth_lakeside_r2
+72,The Duddy Dudes,3673779,Blue,KOTH,koth_lakeside_r2
+73,The Duddy Dudes,3673755,Blue,KOTH,koth_lakeside_r2
+74,The Duddy Dudes,3673734,Blue,KOTH,koth_lakeside_r2
+75,The Duddy Dudes,3673718,Blue,KOTH,koth_lakeside_r2
+76,The Duddy Dudes,3669842,Blue,PL,pl_upward_f11
+77,The Duddy Dudes,3669812,Red,PL,pl_upward_f11
+78,The Duddy Dudes,3665455,Blue,KOTH,koth_ashville_final1
+79,The Duddy Dudes,3674372,Blue,KOTH,koth_lakeside_r2
+80,The Duddy Dudes,3674335,Blue,KOTH,koth_lakeside_r2
+81,The Duddy Dudes,3686517,Blue,KOTH,koth_cascade_rc1a
+82,The Duddy Dudes,3686498,Blue,KOTH,koth_cascade_rc1a
+83,The Duddy Dudes,3686461,Blue,KOTH,koth_cascade_rc1a
+84,The Duddy Dudes,3654259,Blue,PL,pl_vigil_rc10
+85,The Duddy Dudes,3654233,Blue,PL,pl_vigil_rc10
+86,The Duddy Dudes,3654172,Red,PL,pl_vigil_rc10
+87,The Duddy Dudes,3654130,Blue,PL,pl_vigil_rc10
+88,The Duddy Dudes,3653559,Blue,PL,pl_vigil_rc10
+89,The Duddy Dudes,3653518,Red,PL,pl_vigil_rc10
+90,The Duddy Dudes,3653484,Blue,PL,pl_vigil_rc10
+91,The Duddy Dudes,3652823,Blue,PL,pl_vigil_rc10
+92,The Duddy Dudes,3652800,Blue,PL,pl_vigil_rc10
+93,The Duddy Dudes,3652768,Red,PL,pl_vigil_rc10
+94,The Duddy Dudes,3652744,Blue,PL,pl_vigil_rc10
+95,The Duddy Dudes,3652713,Red,PL,pl_vigil_rc10
+96,The Duddy Dudes,3652703,Blue,PL,pl_vigil_rc10
+97,The Duddy Dudes,3652690,Red,PL,pl_vigil_rc10
+98,The Duddy Dudes,3644697,Blue,PL,pl_swiftwater_final1
+99,The Duddy Dudes,3644666,Red,KOTH,koth_product_final
+100,The Hardworking Hornets,3671142,Blue,PL,pl_upward_f12
+101,The Hardworking Hornets,3671072,Red,PL,pl_upward_f12
+102,The Hardworking Hornets,3671000,Red,PL,pl_upward_f12
+103,The Hardworking Hornets,3670972,Blue,PL,pl_upward_f12
+104,The Hardworking Hornets,3666919,Red,KOTH,koth_ashville_final1
+105,The Hardworking Hornets,3666848,Red,KOTH,koth_ashville_final1
+106,The Hardworking Hornets,3666796,Red,KOTH,koth_ashville_final1
+107,The Hardworking Hornets,3666746,Red,KOTH,koth_ashville_final1
+108,The Hardworking Hornets,3662748,Red,PL,pl_swiftwater_final1
+109,The Hardworking Hornets,3662705,Blue,PL,pl_swiftwater_final1
+110,The Hardworking Hornets,3662640,Red,PL,pl_swiftwater_final1
+111,The Hardworking Hornets,3662590,Blue,PL,pl_swiftwater_final1
+112,The Hardworking Hornets,3661469,Red,PL,pl_swiftwater_final1
+113,The Hardworking Hornets,3661440,Blue,PL,pl_swiftwater_final1
+114,The Hardworking Hornets,3661405,Blue,PL,pl_swiftwater_final1
+115,The Hardworking Hornets,3661391,Red,PL,pl_swiftwater_final1
+116,The Hardworking Hornets,3661366,Blue,PL,pl_swiftwater_final1
+117,The Hardworking Hornets,3657921,Red,KOTH,koth_product_final
+118,The Hardworking Hornets,3657886,Red,KOTH,koth_product_final
+119,The Hardworking Hornets,3657858,Red,KOTH,koth_product_final
+120,The Hardworking Hornets,3654262,Red,PL,pl_vigil_rc10
+121,The Hardworking Hornets,3654235,Red,PL,pl_vigil_rc10
+122,The Hardworking Hornets,3654208,Red,PL,pl_vigil_rc10
+123,The Hardworking Hornets,3654150,Blue,PL,pl_vigil_rc10
+124,The Hardworking Hornets,3654086,Red,PL,pl_vigil_rc10
+125,The Hardworking Hornets,3654046,Blue,PL,pl_vigil_rc10
+126,The Hardworking Hornets,3653547,Red,PL,pl_vigil_rc10
+127,The Hardworking Hornets,3653545,Red,PL,pl_vigil_rc10
+128,The Hardworking Hornets,3653513,Blue,PL,pl_vigil_rc10
+129,The Hardworking Hornets,3653461,Blue,PL,pl_vigil_rc10
+130,The Hardworking Hornets,3653449,Blue,PL,pl_vigil_rc10
+131,The Hardworking Hornets,3653400,Red,PL,pl_vigil_rc10
+132,The Hardworking Hornets,3674498,Red,KOTH,koth_lakeside_r2
+133,The Hardworking Hornets,3674442,Red,KOTH,koth_lakeside_r2
+134,The Hardworking Hornets,3674408,Red,KOTH,koth_lakeside_r2
+135,The Hardworking Hornets,3674358,Red,KOTH,koth_lakeside_r2
+136,The Hardworking Hornets,3674330,Red,KOTH,koth_lakeside_r2
+137,The Hardworking Hornets,3671041,Blue,PL,pl_upward_f12
+138,The Hardworking Hornets,3670473,Red,PL,pl_upward_f12
+139,The Hardworking Hornets,3670451,Red,PL,pl_upward_f12
+140,The Hardworking Hornets,3670427,Blue,PL,pl_upward_f12
+141,The Hardworking Hornets,3670400,Blue,PL,pl_upward_f12
+142,The Hardworking Hornets,3670398,Blue,PL,pl_upward_f12
+143,The Hardworking Hornets,3670353,Blue,PL,pl_upward_f12
+144,The Hardworking Hornets,3666215,Blue,KOTH,koth_ashville_final1
+145,The Hardworking Hornets,3666188,Blue,KOTH,koth_ashville_final1
+146,The Hardworking Hornets,3657214,Red,KOTH,koth_product_final
+147,The Hardworking Hornets,3657178,Red,KOTH,koth_product_final
+148,The Hardworking Hornets,3657171,Red,KOTH,koth_product_final
+149,The Hardworking Hornets,3657147,Red,KOTH,koth_product_final
+150,The Hardworking Hornets,3657111,Red,KOTH,koth_product_final
+151,The Hardworking Hornets,3657098,Red,KOTH,koth_product_final
+152,The Hardworking Hornets,3666174,Blue,KOTH,koth_ashville_final1
+153,The Hardworking Hornets,3666160,Blue,KOTH,koth_ashville_final1
+154,The Hardworking Hornets,3666119,Blue,KOTH,koth_ashville_final1
+155,The Hardworking Hornets,3687249,Red,KOTH,koth_cascade_rc1a
+156,The Hardworking Hornets,3687216,Red,KOTH,koth_cascade_rc1a
+157,The Hardworking Hornets,3687168,Red,KOTH,koth_cascade_rc1a
+158,The Hardworking Hornets,3687140,Red,KOTH,koth_cascade_rc1a
+159,The Hardworking Hornets,3686517,Red,KOTH,koth_cascade_rc1a
+160,The Hardworking Hornets,3686498,Red,KOTH,koth_cascade_rc1a
+161,The Hardworking Hornets,3686461,Red,KOTH,koth_cascade_rc1a
+162,The Hardworking Hornets,3686429,Red,KOTH,koth_cascade_rc1a
+163,The Hardworking Hornets,3686392,Red,KOTH,koth_cascade_rc1a
+164,The Hardworking Hornets,3679381,Red,CP,cp_steel
+165,The Hardworking Hornets,3679358,Red,CP,cp_steel
+166,The Hardworking Hornets,3679304,Blue,CP,cp_steel
+167,The Hardworking Hornets,3679256,Blue,CP,cp_steel
+168,The Hardworking Hornets,3679212,Red,CP,cp_steel
+169,The Hardworking Hornets,3679185,Blue,CP,cp_steel
+170,The Hardworking Hornets,3678686,Red,CP,cp_steel
+171,The Hardworking Hornets,3678660,Blue,CP,cp_steel
+172,The Hardworking Hornets,3678624,Red,CP,cp_steel
+173,The Hardworking Hornets,3678608,Blue,CP,cp_steel
+174,The Hardworking Hornets,3678596,Blue,CP,cp_steel
+175,The Hardworking Hornets,3678571,Red,CP,cp_steel
+176,The Hardworking Hornets,3677961,Red,CP,cp_steel
+177,The Hardworking Hornets,3677934,Blue,CP,cp_steel
+178,The Hardworking Hornets,3677891,Red,CP,cp_steel
+179,The Hardworking Hornets,3677854,Blue,CP,cp_steel
+180,The Hardworking Hornets,3662161,Blue,PL,pl_swiftwater_final1
+181,The Hardworking Hornets,3662118,Red,PL,pl_swiftwater_final1
+182,The Hardworking Hornets,3662083,Blue,PL,pl_swiftwater_final1
+183,The Hardworking Hornets,3662080,Blue,PL,pl_swiftwater_final1
+184,The Hardworking Hornets,3662036,Red,PL,pl_swiftwater_final1
+185,The Hardworking Hornets,3652823,Red,PL,pl_vigil_rc10
+186,The Hardworking Hornets,3652800,Red,PL,pl_vigil_rc10
+187,The Hardworking Hornets,3652768,Blue,PL,pl_vigil_rc10
+188,The Hardworking Hornets,3652743,Blue,PL,pl_vigil_rc10
+189,The Hardworking Hornets,3652725,Red,PL,pl_vigil_rc10
+190,The Hardworking Hornets,3652693,Blue,PL,pl_vigil_rc10
+191,The Hardworking Hornets,3665563,Red,KOTH,koth_ashville_final
+192,The Hardworking Hornets,3665536,Red,KOTH,koth_ashville_final
+193,The Hardworking Hornets,3665515,Red,KOTH,koth_ashville_final1
+194,The Hardworking Hornets,3665486,Red,KOTH,koth_ashville_final1
+195,The Hardworking Hornets,3665461,Red,KOTH,koth_ashville_final1
+196,The Hardworking Hornets,3675061,Red,KOTH,koth_lakeside_r2
+197,The Hardworking Hornets,3675001,Red,KOTH,koth_lakeside_r2
+198,The Hardworking Hornets,3674963,Red,KOTH,koth_lakeside_r2
+199,The Hardworking Hornets,3674921,Red,KOTH,koth_lakeside_r2
+200,The Hardworking Hornets,3673779,Red,KOTH,koth_lakeside_r2
+201,The Hardworking Hornets,3673775,Blue,KOTH,koth_lakeside_r2
+202,The Hardworking Hornets,3673740,Blue,KOTH,koth_lakeside_r2
+203,The Hardworking Hornets,3673715,Blue,KOTH,koth_lakeside_r2
+204,The Hardworking Hornets,3645370,Blue,PL,pl_vigil_rc10
+205,The Hardworking Hornets,3645320,Blue,KOTH,koth_product_final
+206,The Hardworking Hornets,3678541,Blue,CP,cp_steel
+207,somebody help,3687210,Red,KOTH,koth_cascade_rc1a
+208,somebody help,3687173,Red,KOTH,koth_cascade_rc1a
+209,somebody help,3687131,Red,KOTH,koth_cascade_rc1a
+210,somebody help,3679359,Red,CP,cp_steel
+211,somebody help,3679320,Blue,CP,cp_steel
+212,somebody help,3679292,Red,CP,cp_steel
+213,somebody help,3679262,Blue,CP,cp_steel
+214,somebody help,3679221,Red,CP,cp_steel
+215,somebody help,3679202,Blue,CP,cp_steel
+216,somebody help,3678699,Blue,CP,cp_steel
+217,somebody help,3678682,Blue,CP,cp_steel
+218,somebody help,3678635,Red,CP,cp_steel
+219,somebody help,3678601,Blue,CP,cp_steel
+220,somebody help,3678548,Red,CP,cp_steel
+221,somebody help,3675122,Blue,KOTH,koth_lakeside_r2
+222,somebody help,3675074,Blue,KOTH,koth_lakeside_r2
+223,somebody help,3675008,Blue,KOTH,koth_lakeside_r2
+224,somebody help,3674962,Blue,KOTH,koth_lakeside_r2
+225,somebody help,3674915,Blue,KOTH,koth_lakeside_r2
+226,somebody help,3674469,Red,KOTH,koth_lakeside_r2
+227,somebody help,3674444,Red,KOTH,koth_lakeside_r2
+228,somebody help,3674407,Red,KOTH,koth_lakeside_r2
+229,somebody help,3674377,Red,KOTH,koth_lakeside_r2
+230,somebody help,3671156,Red,PL,pl_upward_f12
+231,somebody help,3671147,Red,PL,pl_upward_f12
+232,somebody help,3671081,Blue,PL,pl_upward_f12
+233,somebody help,3670996,Red,PL,pl_upward_f12
+234,somebody help,3670963,Blue,PL,pl_upward_f12
+235,somebody help,3670497,Red,PL,pl_upward_f11
+236,somebody help,3670456,Blue,PL,pl_upward_f11
+237,somebody help,3670428,Red,PL,pl_upward_f11
+238,somebody help,3670411,Red,PL,pl_upward_f11
+239,somebody help,3670384,Red,PL,pl_upward_f10
+240,somebody help,3670352,Blue,PL,pl_upward_f10
+241,somebody help,3666897,Blue,KOTH,koth_ashville_final1
+242,somebody help,3666855,Blue,KOTH,koth_ashville_final1
+243,somebody help,3662759,Red,PL,pl_swiftwater_final1
+244,somebody help,3662684,Blue,PL,pl_swiftwater_final1
+245,somebody help,3662623,Red,PL,pl_swiftwater_final1
+246,somebody help,3662587,Blue,PL,pl_swiftwater_final1
+247,somebody help,3658533,Red,KOTH,koth_product_final
+248,somebody help,3658495,Red,KOTH,koth_product_final
+249,somebody help,3658416,Red,KOTH,koth_product_final
+250,somebody help,3658389,Red,KOTH,koth_product_final
+251,somebody help,3654195,Red,PL,pl_vigil_rc10
+252,somebody help,3654153,Blue,PL,pl_vigil_rc10
+253,somebody help,3654110,Blue,PL,pl_vigil_rc10
+254,somebody help,3654062,Red,PL,pl_vigil_rc10
+255,somebody help,3654033,Blue,PL,pl_vigil_rc10
+256,somebody help,3653548,Red,PL,pl_vigil_rc10
+257,somebody help,3653519,Blue,PL,pl_vigil_rc10
+258,somebody help,3653472,Red,PL,pl_vigil_rc10
+259,somebody help,3653435,Red,PL,pl_vigil_rc10
+260,somebody help,3653414,Blue,PL,pl_vigil_rc10
+261,somebody help,3652812,Red,PL,pl_vigil_rc10
+262,somebody help,3652775,Blue,PL,pl_vigil_rc10
+263,somebody help,3652744,Red,PL,pl_vigil_rc10
+264,somebody help,3652713,Blue,PL,pl_vigil_rc10
+265,somebody help,3652703,Red,PL,pl_vigil_rc10
+266,somebody help,3652690,Blue,PL,pl_vigil_rc10
+267,somebody help,3662172,Red,PL,pl_swiftwater_final1
+268,somebody help,3662153,Red,PL,pl_swiftwater_final1
+269,somebody help,3662098,Blue,PL,pl_swiftwater_final1
+270,somebody help,3662060,Red,PL,pl_swiftwater_final1
+271,somebody help,3662020,Blue,PL,pl_swiftwater_final1
+272,somebody help,3657891,Red,KOTH,koth_product_final
+273,somebody help,3657864,Red,KOTH,koth_product_final
+274,somebody help,3657814,Red,KOTH,koth_product_final
+275,somebody help,3657782,Red,KOTH,koth_product_final
+276,somebody help,3674347,Red,KOTH,koth_lakeside_r2
+277,somebody help,3666268,Red,KOTH,koth_ashville_final1
+278,somebody help,3666230,Red,KOTH,koth_ashville_final1
+279,somebody help,3666179,Red,KOTH,koth_ashville_final1
+280,somebody help,3666163,Red,KOTH,koth_ashville_final1
+281,somebody help,3666118,Red,KOTH,koth_ashville_final1
+282,somebody help,3641091,Blue,PL,pl_vigil_rc10
+283,somebody help,3641044,Red,KOTH,koth_product_final
+284,somebody help,3686491,Red,KOTH,koth_cascade_rc1a
+285,somebody help,3686466,Red,KOTH,koth_cascade_rc1a
+286,somebody help,3686439,Red,KOTH,koth_cascade_rc1a
+287,somebody help,3686401,Red,KOTH,koth_cascade_rc1a
+288,somebody help,3673812,Red,KOTH,koth_lakeside_r2
+289,somebody help,3673782,Red,KOTH,koth_lakeside_r2
+290,somebody help,3673755,Red,KOTH,koth_lakeside_r2
+291,somebody help,3673734,Red,KOTH,koth_lakeside_r2
+292,somebody help,3665561,Red,KOTH,koth_ashville_final1
+293,somebody help,3665537,Red,KOTH,koth_ashville_final1
+294,somebody help,3665492,Red,KOTH,koth_ashville_final1
+295,somebody help,3661471,Blue,PL,pl_swiftwater_final1
+296,somebody help,3661441,Red,PL,pl_swiftwater_final1
+297,somebody help,3661406,Blue,PL,pl_swiftwater_final1
+298,somebody help,3661394,Red,PL,pl_swiftwater_final1
+299,somebody help,3673718,Red,KOTH,koth_lakeside_r2
+300,somebody help,3665467,Red,KOTH,koth_ashville_final1
+301,somebody help,3665455,Red,KOTH,koth_ashville_final1
+302,somebody help,3661370,Blue,PL,pl_swiftwater_final1
+303,somebody help,3641712,Blue,PL,pl_vigil_rc10
+304,somebody help,3641679,Blue,PL,pl_vigil_rc10
+305,somebody help,3641636,Blue,PL,pl_upward_f10
+306,somebody help,3641587,Red,KOTH,koth_product_final
+307,somebody help,3669884,Red,PL,pl_upward_f10
+308,somebody help,3669879,Red,PL,pl_upward_f10
+309,somebody help,3669855,Red,PL,pl_upward_f10
+310,somebody help,3669829,Blue,PL,pl_upward_f10
+311,Ohio Leif Village,3687239,Blue,KOTH,koth_cascade_rc1a
+312,Ohio Leif Village,3687213,Blue,KOTH,koth_cascade_rc1a
+313,Ohio Leif Village,3687193,Blue,KOTH,koth_cascade_rc1a
+314,Ohio Leif Village,3687157,Blue,KOTH,koth_cascade_rc1a
+315,Ohio Leif Village,3687130,Blue,KOTH,koth_cascade_rc1a
+316,Ohio Leif Village,3679387,Red,CP,cp_steel
+317,Ohio Leif Village,3679386,Red,CP,cp_steel
+318,Ohio Leif Village,3679372,Red,CP,cp_steel
+319,Ohio Leif Village,3679334,Blue,CP,cp_steel
+320,Ohio Leif Village,3679291,Red,CP,cp_steel
+321,Ohio Leif Village,3679259,Blue,CP,cp_steel
+322,Ohio Leif Village,3679243,Red,CP,cp_steel
+323,Ohio Leif Village,3679220,Blue,CP,cp_steel
+324,Ohio Leif Village,3679194,Red,CP,cp_steel
+325,Ohio Leif Village,3678705,Red,CP,cp_steel
+326,Ohio Leif Village,3678669,Blue,CP,cp_steel
+327,Ohio Leif Village,3678633,Red,CP,cp_steel
+328,Ohio Leif Village,3678616,Blue,CP,cp_steel
+329,Ohio Leif Village,3678575,Blue,CP,cp_steel
+330,Ohio Leif Village,3678545,Red,CP,cp_steel
+331,Ohio Leif Village,3674496,Blue,KOTH,koth_lakeside_r2
+332,Ohio Leif Village,3674474,Blue,KOTH,koth_lakeside_r2
+333,Ohio Leif Village,3674414,Blue,KOTH,koth_lakeside_r2
+334,Ohio Leif Village,3674372,Red,KOTH,koth_lakeside_r2
+335,Ohio Leif Village,3674335,Red,KOTH,koth_lakeside_r2
+336,Ohio Leif Village,3671140,Red,PL,pl_upward_f12
+337,Ohio Leif Village,3671088,Blue,PL,pl_upward_f12
+338,Ohio Leif Village,3671034,Blue,PL,pl_upward_f12
+339,Ohio Leif Village,3670497,Blue,PL,pl_upward_f11
+340,Ohio Leif Village,3670456,Red,PL,pl_upward_f11
+341,Ohio Leif Village,3670428,Blue,PL,pl_upward_f11
+342,Ohio Leif Village,3670411,Blue,PL,pl_upward_f11
+343,Ohio Leif Village,3670380,Red,PL,pl_upward_f11
+344,Ohio Leif Village,3670348,Blue,PL,pl_upward_f11
+345,Ohio Leif Village,3669867,Blue,PL,pl_upward_f10
+346,Ohio Leif Village,3669856,Blue,PL,pl_upward_f10
+347,Ohio Leif Village,3669818,Red,PL,pl_upward_f10
+348,Ohio Leif Village,3669805,Blue,PL,pl_upward_f12
+349,Ohio Leif Village,3669765,Blue,PL,pl_upward_f12
+350,Ohio Leif Village,3666931,Red,KOTH,koth_ashville_final1
+351,Ohio Leif Village,3666908,Red,KOTH,koth_ashville_final1
+352,Ohio Leif Village,3666860,Red,KOTH,koth_ashville_final1
+353,Ohio Leif Village,3666794,Blue,KOTH,koth_ashville_final
+354,Ohio Leif Village,3666756,Blue,KOTH,koth_ashville_final
+355,Ohio Leif Village,3666264,Blue,KOTH,koth_ashville_final1
+356,Ohio Leif Village,3666257,Blue,KOTH,koth_ashville_final1
+357,Ohio Leif Village,3666223,Blue,KOTH,koth_ashville_final1
+358,Ohio Leif Village,3666180,Blue,KOTH,koth_ashville_final1
+359,Ohio Leif Village,3666147,Red,KOTH,koth_ashville_final1
+360,Ohio Leif Village,3666114,Red,KOTH,koth_ashville_final1
+361,Ohio Leif Village,3662745,Red,PL,pl_swiftwater_final1
+362,Ohio Leif Village,3662685,Blue,PL,pl_swiftwater_final1
+363,Ohio Leif Village,3662628,Blue,PL,pl_swiftwater_final1
+364,Ohio Leif Village,3662599,Red,PL,pl_swiftwater_final1
+365,Ohio Leif Village,3658586,Blue,KOTH,koth_product_final
+366,Ohio Leif Village,3658521,Blue,KOTH,koth_product_final
+367,Ohio Leif Village,3658489,Blue,KOTH,koth_product_final
+368,Ohio Leif Village,3658459,Red,KOTH,koth_product_final
+369,Ohio Leif Village,3658421,Red,KOTH,koth_product_final
+370,Ohio Leif Village,3658386,Red,KOTH,koth_product_final
+371,Ohio Leif Village,3675061,Blue,KOTH,koth_lakeside_r2
+372,Ohio Leif Village,3675001,Blue,KOTH,koth_lakeside_r2
+373,Ohio Leif Village,3674952,Blue,KOTH,koth_lakeside_r2
+374,Ohio Leif Village,3674923,Blue,KOTH,koth_lakeside_r2
+375,Ohio Leif Village,3670999,Red,PL,pl_upward_f12
+376,Ohio Leif Village,3657942,Red,KOTH,koth_product_final
+377,Ohio Leif Village,3657900,Red,KOTH,koth_product_final
+378,Ohio Leif Village,3657866,Red,KOTH,koth_product_final
+379,Ohio Leif Village,3654259,Red,PL,pl_vigil_rc10
+380,Ohio Leif Village,3654233,Red,PL,pl_vigil_rc10
+381,Ohio Leif Village,3654172,Blue,PL,pl_vigil_rc10
+382,Ohio Leif Village,3654130,Red,PL,pl_vigil_rc10
+383,Ohio Leif Village,3654084,Blue,PL,pl_vigil_rc10
+384,Ohio Leif Village,3654036,Red,PL,pl_vigil_rc10
+385,Ohio Leif Village,3653567,Red,PL,pl_vigil_rc10
+386,Ohio Leif Village,3653550,Red,PL,pl_vigil_rc10
+387,Ohio Leif Village,3653522,Blue,PL,pl_vigil_rc10
+388,Ohio Leif Village,3653502,Red,PL,pl_vigil_rc10
+389,Ohio Leif Village,3653495,Blue,PL,pl_vigil_rc10
+390,Ohio Leif Village,3653461,Red,PL,pl_vigil_rc10
+391,Ohio Leif Village,3653449,Red,PL,pl_vigil_rc10
+392,Ohio Leif Village,3653400,Blue,PL,pl_vigil_rc10
+393,Ohio Leif Village,3649865,Red,PL,pl_upward_f10
+394,Ohio Leif Village,3649798,Blue,KOTH,koth_ashville_final1
+395,Ohio Leif Village,3649223,Blue,KOTH,koth_product_final
+396,Ohio Leif Village,3649200,Red,PL,pl_upward_f12
+397,Ohio Leif Village,3649169,Blue,KOTH,koth_cascade_rc1a
+398,Ohio Leif Village,3649123,Red,KOTH,koth_lakeside_r2
+399,Ohio Leif Village,3645816,Red,KOTH,koth_lakeside_final
+400,Ohio Leif Village,3645790,Blue,PL,pl_upward_f10
+401,Ohio Leif Village,3657813,Red,KOTH,koth_product_final
+402,Ohio Leif Village,3657776,Red,KOTH,koth_product_final
+403,Ohio Leif Village,3673820,Red,KOTH,koth_lakeside_r2
+404,Ohio Leif Village,3673806,Red,KOTH,koth_lakeside_r2
+405,Ohio Leif Village,3665515,Blue,KOTH,koth_ashville_final1
+406,Ohio Leif Village,3665486,Blue,KOTH,koth_ashville_final1
+407,Ohio Leif Village,3665461,Blue,KOTH,koth_ashville_final1
+408,Ohio Leif Village,3686497,Red,KOTH,koth_cascade_rc1a
+409,Ohio Leif Village,3686472,Red,KOTH,koth_cascade_rc1a
+410,Ohio Leif Village,3686429,Blue,KOTH,koth_cascade_rc1a
+411,Ohio Leif Village,3686392,Blue,KOTH,koth_cascade_rc1a
+412,Ohio Leif Village,3673780,Red,KOTH,koth_lakeside_r2
+413,Ohio Leif Village,3657229,Blue,KOTH,koth_product_final
+414,Ohio Leif Village,3657205,Blue,KOTH,koth_product_final
+415,Ohio Leif Village,3657175,Blue,KOTH,koth_product_final
+416,Ohio Leif Village,3657171,Blue,KOTH,koth_product_final
+417,Ohio Leif Village,3657147,Blue,KOTH,koth_product_final
+418,Ohio Leif Village,3657111,Blue,KOTH,koth_product_final
+419,Ohio Leif Village,3657098,Blue,KOTH,koth_product_final
+420,Ohio Leif Village,3652839,Blue,PL,pl_vigil_rc10
+421,Ohio Leif Village,3652831,Blue,PL,pl_vigil_rc10
+422,Ohio Leif Village,3652794,Red,PL,pl_vigil_rc10
+423,Ohio Leif Village,3652765,Blue,PL,pl_vigil_rc10
+424,Ohio Leif Village,3652743,Red,PL,pl_vigil_rc10
+425,Ohio Leif Village,3652725,Blue,PL,pl_vigil_rc10
+426,Ohio Leif Village,3652693,Red,PL,pl_vigil_rc10
+427,Ohio Leif Village,3648532,Red,KOTH,koth_ashville_final1
+428,Ohio Leif Village,3648510,Blue,PL,pl_swiftwater_final1
+429,Ohio Leif Village,3648463,Blue,PL,pl_upward_f11
+430,Ohio Leif Village,3648449,Red,PL,pl_upward_f11
+431,Ohio Leif Village,3648422,Red,KOTH,koth_ashville_final
+432,Ohio Leif Village,3662182,Blue,PL,pl_swiftwater_final1
+433,Ohio Leif Village,3662156,Blue,PL,pl_swiftwater_final1
+434,Ohio Leif Village,3662105,Red,PL,pl_swiftwater_final1
+435,Ohio Leif Village,3662049,Blue,PL,pl_swiftwater_final1
+436,Ohio Leif Village,3662018,Red,PL,pl_swiftwater_final1
+437,Ohio Leif Village,3645370,Red,PL,pl_vigil_rc10
+438,Ohio Leif Village,3645320,Red,KOTH,koth_product_final
+439,Ohio Leif Village,3661453,Red,PL,pl_swiftwater_final1
+440,Ohio Leif Village,3661446,Blue,PL,pl_swiftwater_final1
+441,Ohio Leif Village,3661405,Red,PL,pl_swiftwater_final1
+442,Ohio Leif Village,3661391,Blue,PL,pl_swiftwater_final1
+443,Ohio Leif Village,3661366,Red,PL,pl_swiftwater_final1
+444,Ohio Leif Village,3678008,Blue,CP,cp_steel
+445,Ohio Leif Village,3677963,Blue,CP,cp_steel
+446,Ohio Leif Village,3677929,Red,CP,cp_steel
+447,Ohio Leif Village,3645305,Blue,PL,pl_upward_f11
+448,Ohio Leif Village,3645262,Blue,KOTH,koth_ashville_final1
+449,Ohio Leif Village,3641147,Red,KOTH,koth_product_final
+450,Ohio Leif Village,3641125,Red,KOTH,koth_ashville_final
+451,Dreamybull's Kitchen,3679387,Blue,CP,cp_steel
+452,Dreamybull's Kitchen,3679386,Blue,CP,cp_steel
+453,Dreamybull's Kitchen,3679372,Blue,CP,cp_steel
+454,Dreamybull's Kitchen,3679334,Red,CP,cp_steel
+455,Dreamybull's Kitchen,3679291,Blue,CP,cp_steel
+456,Dreamybull's Kitchen,3679267,Blue,CP,cp_steel
+457,Dreamybull's Kitchen,3679250,Blue,CP,cp_steel
+458,Dreamybull's Kitchen,3679240,Red,CP,cp_steel
+459,Dreamybull's Kitchen,3679197,Red,CP,cp_steel
+460,Dreamybull's Kitchen,3678681,Blue,CP,cp_steel
+461,Dreamybull's Kitchen,3678672,Blue,CP,cp_steel
+462,Dreamybull's Kitchen,3678655,Blue,CP,cp_steel
+463,Dreamybull's Kitchen,3678630,Red,CP,cp_steel
+464,Dreamybull's Kitchen,3678608,Red,CP,cp_steel
+465,Dreamybull's Kitchen,3678596,Red,CP,cp_steel
+466,Dreamybull's Kitchen,3678571,Blue,CP,cp_steel
+467,Dreamybull's Kitchen,3678541,Red,CP,cp_steel
+468,Dreamybull's Kitchen,3678010,Blue,CP,cp_steel
+469,Dreamybull's Kitchen,3677979,Red,CP,cp_steel
+470,Dreamybull's Kitchen,3677952,Blue,CP,cp_steel
+471,Dreamybull's Kitchen,3677925,Red,CP,cp_steel
+472,Dreamybull's Kitchen,3677911,Blue,CP,cp_steel
+473,Dreamybull's Kitchen,3677888,Red,CP,cp_steel
+474,Dreamybull's Kitchen,3677875,Blue,CP,cp_steel
+475,Dreamybull's Kitchen,3677853,Red,CP,cp_steel
+476,Dreamybull's Kitchen,3675056,Blue,KOTH,koth_lakeside_r2
+477,Dreamybull's Kitchen,3675032,Blue,KOTH,koth_lakeside_r2
+478,Dreamybull's Kitchen,3675000,Blue,KOTH,koth_lakeside_r2
+479,Dreamybull's Kitchen,3674951,Blue,KOTH,koth_lakeside_r2
+480,Dreamybull's Kitchen,3674910,Blue,KOTH,koth_lakeside_r2
+481,Dreamybull's Kitchen,3674498,Blue,KOTH,koth_lakeside_r2
+482,Dreamybull's Kitchen,3674496,Red,KOTH,koth_lakeside_r2
+483,Dreamybull's Kitchen,3674474,Red,KOTH,koth_lakeside_r2
+484,Dreamybull's Kitchen,3674414,Red,KOTH,koth_lakeside_r2
+485,Dreamybull's Kitchen,3674358,Blue,KOTH,koth_lakeside_r2
+486,Dreamybull's Kitchen,3674330,Blue,KOTH,koth_lakeside_r2
+487,Dreamybull's Kitchen,3666890,Blue,KOTH,koth_ashville_final
+488,Dreamybull's Kitchen,3666874,Blue,KOTH,koth_ashville_final
+489,Dreamybull's Kitchen,3666845,Blue,KOTH,koth_ashville_final
+490,Dreamybull's Kitchen,3666823,Red,KOTH,koth_ashville_final1
+491,Dreamybull's Kitchen,3666810,Red,KOTH,koth_ashville_final1
+492,Dreamybull's Kitchen,3666744,Red,KOTH,koth_ashville_final1
+493,Dreamybull's Kitchen,3666264,Red,KOTH,koth_ashville_final1
+494,Dreamybull's Kitchen,3666257,Red,KOTH,koth_ashville_final1
+495,Dreamybull's Kitchen,3666223,Red,KOTH,koth_ashville_final1
+496,Dreamybull's Kitchen,3666180,Red,KOTH,koth_ashville_final1
+497,Dreamybull's Kitchen,3666174,Red,KOTH,koth_ashville_final1
+498,Dreamybull's Kitchen,3666160,Red,KOTH,koth_ashville_final1
+499,Dreamybull's Kitchen,3666119,Red,KOTH,koth_ashville_final1
+500,Dreamybull's Kitchen,3665578,Blue,KOTH,koth_ashville_final1
+501,Dreamybull's Kitchen,3665570,Blue,KOTH,koth_ashville_final1
+502,Dreamybull's Kitchen,3665543,Blue,KOTH,koth_ashville_final1
+503,Dreamybull's Kitchen,3665525,Red,KOTH,koth_ashville_final1
+504,Dreamybull's Kitchen,3665521,Red,KOTH,koth_ashville_final1
+505,Dreamybull's Kitchen,3665499,Red,KOTH,koth_ashville_final1
+506,Dreamybull's Kitchen,3661478,Red,PL,pl_swiftwater_final1
+507,Dreamybull's Kitchen,3661477,Red,PL,pl_swiftwater_final1
+508,Dreamybull's Kitchen,3661459,Blue,PL,pl_swiftwater_final1
+509,Dreamybull's Kitchen,3661424,Red,PL,pl_swiftwater_final1
+510,Dreamybull's Kitchen,3661421,Red,PL,pl_swiftwater_final1
+511,Dreamybull's Kitchen,3661389,Blue,PL,pl_swiftwater_final1
+512,Dreamybull's Kitchen,3658537,Blue,KOTH,koth_product_final
+513,Dreamybull's Kitchen,3658491,Blue,KOTH,koth_product_final
+514,Dreamybull's Kitchen,3658460,Blue,KOTH,koth_product_final
+515,Dreamybull's Kitchen,3658428,Blue,KOTH,koth_product_final
+516,Dreamybull's Kitchen,3658382,Blue,KOTH,koth_product_final
+517,Dreamybull's Kitchen,3657220,Blue,KOTH,koth_product_final
+518,Dreamybull's Kitchen,3657208,Blue,KOTH,koth_product_final
+519,Dreamybull's Kitchen,3657180,Blue,KOTH,koth_product_final
+520,Dreamybull's Kitchen,3657170,Red,KOTH,koth_product_final
+521,Dreamybull's Kitchen,3657169,Red,KOTH,koth_product_final
+522,Dreamybull's Kitchen,3657136,Red,KOTH,koth_product_final
+523,Dreamybull's Kitchen,3653567,Blue,PL,pl_vigil_rc10
+524,Dreamybull's Kitchen,3653550,Blue,PL,pl_vigil_rc10
+525,Dreamybull's Kitchen,3653522,Red,PL,pl_vigil_rc10
+526,Dreamybull's Kitchen,3653502,Blue,PL,pl_vigil_rc10
+527,Dreamybull's Kitchen,3653495,Red,PL,pl_vigil_rc10
+528,Dreamybull's Kitchen,3652832,Red,PL,pl_vigil_rc10
+529,Dreamybull's Kitchen,3652819,Blue,PL,pl_vigil_rc10
+530,Dreamybull's Kitchen,3652773,Red,PL,pl_vigil_rc10
+531,Dreamybull's Kitchen,3652759,Red,PL,pl_vigil_rc10
+532,Dreamybull's Kitchen,3652756,Red,PL,pl_vigil_rc10
+533,Dreamybull's Kitchen,3652720,Blue,PL,pl_vigil_rc10
+534,Dreamybull's Kitchen,3649780,Red,KOTH,koth_product_final
+535,Dreamybull's Kitchen,3649763,Blue,PL,pl_vigil_rc10
+536,Dreamybull's Kitchen,3649734,Red,PL,pl_vigil_rc10
+537,Dreamybull's Kitchen,3648542,Blue,PL,pl_vigil_rc9
+538,Dreamybull's Kitchen,3648501,Red,KOTH,koth_product_final
+539,Dreamybull's Kitchen,3648471,Blue,PL,pl_vigil_rc10
+540,Dreamybull's Kitchen,3648419,Red,KOTH,koth_ashville_final
+541,Dreamybull's Kitchen,3645366,Blue,PL,pl_vigil_rc10
+542,Dreamybull's Kitchen,3645325,Blue,KOTH,koth_ashville_final
+543,Dreamybull's Kitchen,3645305,Red,PL,pl_upward_f11
+544,Dreamybull's Kitchen,3645262,Red,KOTH,koth_ashville_final1
+545,Dreamybull's Kitchen,3687239,Red,KOTH,koth_cascade_rc1a
+546,Dreamybull's Kitchen,3687213,Red,KOTH,koth_cascade_rc1a
+547,Dreamybull's Kitchen,3687193,Red,KOTH,koth_cascade_rc1a
+548,Dreamybull's Kitchen,3687157,Red,KOTH,koth_cascade_rc1a
+549,Dreamybull's Kitchen,3687130,Red,KOTH,koth_cascade_rc1a
+550,Dreamybull's Kitchen,3657942,Blue,KOTH,koth_product_final
+551,Dreamybull's Kitchen,3657900,Blue,KOTH,koth_product_final
+552,Dreamybull's Kitchen,3657866,Blue,KOTH,koth_product_final
+553,Dreamybull's Kitchen,3657831,Red,KOTH,koth_product_final
+554,Dreamybull's Kitchen,3657830,Red,KOTH,koth_product_final
+555,Dreamybull's Kitchen,3657816,Red,KOTH,koth_product_final
+556,Dreamybull's Kitchen,3657792,Red,KOTH,koth_product_final
+557,Dreamybull's Kitchen,3653453,Red,PL,pl_vigil_rc10
+558,Dreamybull's Kitchen,3653426,Blue,PL,pl_vigil_rc10
+559,Dreamybull's Kitchen,3653390,Red,PL,pl_vigil_rc10
+560,Dreamybull's Kitchen,3649865,Blue,PL,pl_upward_f10
+561,Dreamybull's Kitchen,3649798,Red,KOTH,koth_ashville_final1
+562,Dreamybull's Kitchen,3641678,Red,KOTH,koth_product_final
+563,Dreamybull's Kitchen,3641615,Red,KOTH,koth_ashville_final1
+564,Dreamybull's Kitchen,3641583,Red,KOTH,koth_product_final
+565,Dreamybull's Kitchen,3654295,Red,PL,pl_vigil_rc10
+566,Dreamybull's Kitchen,3654278,Blue,PL,pl_vigil_rc10
+567,Dreamybull's Kitchen,3654266,Blue,PL,pl_vigil_rc10
+568,Dreamybull's Kitchen,3654203,Red,PL,pl_vigil_rc10
+569,Dreamybull's Kitchen,3654142,Blue,PL,pl_vigil_rc10
+570,Dreamybull's Kitchen,3654116,Red,PL,pl_vigil_rc10
+571,Dreamybull's Kitchen,3654094,Blue,PL,pl_vigil_rc10
+572,Dreamybull's Kitchen,3654045,Red,PL,pl_vigil_rc10
+573,Dreamybull's Kitchen,3662759,Blue,PL,pl_swiftwater_final1
+574,Dreamybull's Kitchen,3662684,Red,PL,pl_swiftwater_final1
+575,Dreamybull's Kitchen,3662656,Blue,PL,pl_swiftwater_final1
+576,Dreamybull's Kitchen,3662650,Blue,PL,pl_swiftwater_final1
+577,Dreamybull's Kitchen,3662607,Red,PL,pl_swiftwater_final1
+578,Dreamybull's Kitchen,3662582,Blue,PL,pl_swiftwater_final1
+579,Dreamybull's Kitchen,3645912,Blue,PL,pl_vigil_rc10
+580,Dreamybull's Kitchen,3645858,Blue,KOTH,koth_product_final
+581,Dreamybull's Kitchen,3645816,Blue,KOTH,koth_lakeside_final
+582,Dreamybull's Kitchen,3645790,Red,PL,pl_upward_f10
+583,Dreamybull's Kitchen,3644758,Red,KOTH,koth_lakeside_r2
+584,Dreamybull's Kitchen,3644726,Blue,KOTH,koth_ashville_final1
+585,Dreamybull's Kitchen,3644702,Blue,PL,pl_vigil_rc10
+586,Dreamybull's Kitchen,3644678,Red,KOTH,koth_product_final
+587,Dreamybull's Kitchen,3686510,Blue,KOTH,koth_cascade_rc1a
+588,Dreamybull's Kitchen,3686500,Blue,KOTH,koth_cascade_rc1a
+589,Dreamybull's Kitchen,3686460,Blue,KOTH,koth_cascade_rc1a
+590,Dreamybull's Kitchen,3686447,Red,KOTH,koth_cascade_rc1a
+591,Dreamybull's Kitchen,3686442,Red,KOTH,koth_cascade_rc1a
+592,Dreamybull's Kitchen,3686405,Red,KOTH,koth_cascade_rc1a
+593,Dreamybull's Kitchen,3649148,Blue,KOTH,koth_product_final
+594,Dreamybull's Kitchen,3649124,Red,PL,pl_vigil_rc10
+595,Dreamybull's Kitchen,3649175,Blue,KOTH,koth_product_final
+596,Dreamybull's Kitchen,3673812,Blue,KOTH,koth_lakeside_r2
+597,Dreamybull's Kitchen,3673782,Blue,KOTH,koth_lakeside_r2
+598,Dreamybull's Kitchen,3673775,Red,KOTH,koth_lakeside_r2
+599,Dreamybull's Kitchen,3673740,Red,KOTH,koth_lakeside_r2
+600,Dreamybull's Kitchen,3673715,Red,KOTH,koth_lakeside_r2
+601,Dreamybull's Kitchen,3641147,Blue,KOTH,koth_product_final
+602,Dreamybull's Kitchen,3641125,Blue,KOTH,koth_ashville_final
+603,Dreamybull's Kitchen,3641086,Blue,KOTH,koth_product_final
+604,Dreamybull's Kitchen,3641070,Blue,KOTH,koth_product_final
+605,Dreamybull's Kitchen,3641061,Blue,KOTH,koth_product_final
+606,Dreamybull's Kitchen,3641045,Red,PL,pl_upward
+607,Dreamybull's Kitchen,3671153,Blue,PL,pl_upward_f12
+608,Dreamybull's Kitchen,3671111,Blue,PL,pl_upward_f12
+609,Dreamybull's Kitchen,3671056,Red,PL,pl_upward_f12
+610,Dreamybull's Kitchen,3671016,Red,PL,pl_upward_f12
+611,Dreamybull's Kitchen,3670990,Blue,PL,pl_upward_f12
+612,Dreamybull's Kitchen,3670961,Red,PL,pl_upward_f12
+613,Dreamybull's Kitchen,3670400,Red,PL,pl_upward_f12
+614,Dreamybull's Kitchen,3670398,Red,PL,pl_upward_f12
+615,Dreamybull's Kitchen,3670353,Red,PL,pl_upward_f12
+616,Dreamybull's Kitchen,3662182,Red,PL,pl_swiftwater_final1
+617,Dreamybull's Kitchen,3662156,Red,PL,pl_swiftwater_final1
+618,Dreamybull's Kitchen,3662105,Blue,PL,pl_swiftwater_final1
+619,Dreamybull's Kitchen,3662083,Red,PL,pl_swiftwater_final1
+620,Dreamybull's Kitchen,3662080,Red,PL,pl_swiftwater_final1
+621,Dreamybull's Kitchen,3662036,Blue,PL,pl_swiftwater_final1
+622,Dreamybull's Kitchen,3669867,Red,PL,pl_upward_f10
+623,Dreamybull's Kitchen,3669856,Red,PL,pl_upward_f10
+624,Dreamybull's Kitchen,3669818,Blue,PL,pl_upward_f10
+625,Dreamybull's Kitchen,3669804,Blue,PL,pl_upward_f12
+626,Dreamybull's Kitchen,3669792,Blue,PL,pl_upward_f12
+627,Dreamybull's Kitchen,3669770,Red,PL,pl_upward_f12
+628,Dreamybull's Kitchen,3669741,Blue,PL,pl_upward_f12
+629,@MST,3679377,Red,CP,cp_steel
+630,@MST,3679328,Blue,CP,cp_steel
+631,@MST,3679282,Red,CP,cp_steel
+632,@MST,3677979,Blue,CP,cp_steel
+633,@MST,3677952,Red,CP,cp_steel
+634,@MST,3677925,Blue,CP,cp_steel
+635,@MST,3677906,Red,CP,cp_steel
+636,@MST,3677900,Red,CP,cp_steel
+637,@MST,3677878,Blue,CP,cp_steel
+638,@MST,3677864,Red,CP,cp_steel
+639,@MST,3677851,Blue,CP,cp_steel
+640,@MST,3675111,Blue,KOTH,koth_lakeside_r2
+641,@MST,3675076,Blue,KOTH,koth_lakeside_r2
+642,@MST,3675014,Blue,KOTH,koth_lakeside_r2
+643,@MST,3674962,Red,KOTH,koth_lakeside_r2
+644,@MST,3674915,Red,KOTH,koth_lakeside_r2
+645,@MST,3671153,Red,PL,pl_upward_f12
+646,@MST,3671111,Red,PL,pl_upward_f12
+647,@MST,3671056,Blue,PL,pl_upward_f12
+648,@MST,3670996,Blue,PL,pl_upward_f12
+649,@MST,3670963,Red,PL,pl_upward_f12
+650,@MST,3670484,Blue,PL,pl_upward_f12
+651,@MST,3670464,Blue,PL,pl_upward_f12
+652,@MST,3670429,Red,PL,pl_upward_f12
+653,@MST,3670392,Blue,PL,pl_upward_f12
+654,@MST,3670354,Red,PL,pl_upward_f12
+655,@MST,3670335,Blue,PL,pl_upward_f12
+656,@MST,3669842,Red,PL,pl_upward_f11
+657,@MST,3669812,Blue,PL,pl_upward_f11
+658,@MST,3669791,Blue,PL,pl_upward_f12
+659,@MST,3669758,Red,PL,pl_upward_f12
+660,@MST,3662782,Blue,PL,pl_swiftwater_final1
+661,@MST,3662721,Red,PL,pl_swiftwater_final1
+662,@MST,3662675,Blue,PL,pl_swiftwater_final1
+663,@MST,3662623,Blue,PL,pl_swiftwater_final1
+664,@MST,3662587,Red,PL,pl_swiftwater_final1
+665,@MST,3661478,Blue,PL,pl_swiftwater_final1
+666,@MST,3661477,Blue,PL,pl_swiftwater_final1
+667,@MST,3661459,Red,PL,pl_swiftwater_final1
+668,@MST,3658586,Red,KOTH,koth_product_final
+669,@MST,3658521,Red,KOTH,koth_product_final
+670,@MST,3658489,Red,KOTH,koth_product_final
+671,@MST,3658416,Blue,KOTH,koth_product_final
+672,@MST,3658389,Blue,KOTH,koth_product_final
+673,@MST,3657938,Red,KOTH,koth_product_final
+674,@MST,3657926,Red,KOTH,koth_product_final
+675,@MST,3657871,Red,KOTH,koth_product_final
+676,@MST,3657833,Red,KOTH,koth_product_final
+677,@MST,3657807,Red,KOTH,koth_product_final
+678,@MST,3657772,Red,KOTH,koth_product_final
+679,@MST,3654235,Blue,PL,pl_vigil_rc10
+680,@MST,3654208,Blue,PL,pl_vigil_rc10
+681,@MST,3654150,Red,PL,pl_vigil_rc10
+682,@MST,3654110,Red,PL,pl_vigil_rc10
+683,@MST,3654062,Blue,PL,pl_vigil_rc10
+684,@MST,3654033,Red,PL,pl_vigil_rc10
+685,@MST,3653553,Red,PL,pl_vigil_rc10
+686,@MST,3653534,Red,PL,pl_vigil_rc10
+687,@MST,3653509,Blue,PL,pl_vigil_rc10
+688,@MST,3653477,Red,PL,pl_vigil_rc10
+689,@MST,3653444,Blue,PL,pl_vigil_rc10
+690,@MST,3653391,Red,PL,pl_vigil_rc10
+691,@MST,3649174,Blue,KOTH,koth_ashville_final
+692,@MST,3649159,Blue,KOTH,koth_ashville_final
+693,@MST,3649133,Red,PL,pl_vigil_rc10
+694,@MST,3648542,Red,PL,pl_vigil_rc9
+695,@MST,3648501,Blue,KOTH,koth_product_final
+696,@MST,3641159,Blue,PL,pl_vigil_rc10
+697,@MST,3641108,Blue,KOTH,koth_ashville_final
+698,@MST,3641074,Blue,PL,pl_vigil_rc10
+699,@MST,3641048,Blue,KOTH,koth_product_final
+700,@MST,3662180,Blue,PL,pl_swiftwater_final1
+701,@MST,3662166,Blue,PL,pl_swiftwater_final1
+702,@MST,3662114,Red,PL,pl_swiftwater_final1
+703,@MST,3662068,Blue,PL,pl_swiftwater_final1
+704,@MST,3662028,Red,PL,pl_swiftwater_final1
+705,@MST,3652832,Blue,PL,pl_vigil_rc10
+706,@MST,3652819,Red,PL,pl_vigil_rc10
+707,@MST,3652773,Blue,PL,pl_vigil_rc10
+708,@MST,3652737,Red,PL,pl_vigil_rc10
+709,@MST,3652704,Blue,PL,pl_vigil_rc10
+710,@MST,3640490,Red,PL,pl_upward_f11
+711,@MST,3640458,Blue,KOTH,koth_product_final
+712,@MST,3640425,Red,KOTH,koth_ashville_final
+713,@MST,3640413,Blue,PL,pl_vigil_rc10
+714,@MST,3649855,Blue,PL,pl_upward_f11
+715,@MST,3649793,Red,KOTH,koth_product_final
+716,@MST,3649762,Blue,PL,pl_vigil_rc10
+717,@MST,3649720,Red,KOTH,koth_product_final
+718,@MST,3679262,Red,CP,cp_steel
+719,@MST,3679221,Blue,CP,cp_steel
+720,@MST,3679202,Red,CP,cp_steel
+721,@MST,3674485,Red,KOTH,koth_lakeside_r2
+722,@MST,3674472,Red,KOTH,koth_lakeside_r2
+723,@MST,3674419,Red,KOTH,koth_lakeside_r2
+724,@MST,3666897,Red,KOTH,koth_ashville_final1
+725,@MST,3666855,Red,KOTH,koth_ashville_final1
+726,@MST,3666803,Red,KOTH,koth_ashville_final1
+727,@MST,3666745,Red,KOTH,koth_ashville_final1
+728,@MST,3666254,Blue,KOTH,koth_ashville_final1
+729,@MST,3666189,Blue,KOTH,koth_ashville_final1
+730,@MST,3666152,Blue,KOTH,koth_ashville_final1
+731,@MST,3666121,Blue,KOTH,koth_ashville_final1
+732,@MST,3657220,Red,KOTH,koth_product_final
+733,@MST,3657208,Red,KOTH,koth_product_final
+734,@MST,3657180,Red,KOTH,koth_product_final
+735,@MST,3657144,Red,KOTH,koth_product_final
+736,@MST,3657101,Red,KOTH,koth_product_final
+737,@MST,3645921,Blue,PL,pl_vigil_rc10
+738,@MST,3645886,Red,PL,pl_vigil_rc10
+739,@MST,3645839,Red,KOTH,koth_ashville_final
+740,@MST,3645805,Blue,KOTH,koth_ashville_final
+741,@MST,3645787,Blue,PL,pl_vigil_rc10
+742,@MST,3645765,Red,PL,pl_vigil_rc10
+743,@MST,3645366,Red,PL,pl_vigil_rc10
+744,@MST,3645325,Red,KOTH,koth_ashville_final
+745,@MST,3645281,Blue,KOTH,koth_ashville_final1
+746,@MST,3645263,Blue,KOTH,koth_lakeside_r2
+747,@MST,3645230,Blue,KOTH,koth_lakeside_r2
+748,@MST,3644780,Red,PL,pl_vigil_rc10
+749,@MST,3644746,Red,KOTH,koth_product_final
+750,@MST,3644731,Red,KOTH,koth_product_final
+751,@MST,3665520,Red,KOTH,koth_ashville_final1
+752,@MST,3665489,Red,KOTH,koth_ashville_final1
+753,@MST,3665465,Red,KOTH,koth_ashville_final1
+754,@MST,3665578,Red,KOTH,koth_ashville_final1
+755,@MST,3665570,Red,KOTH,koth_ashville_final1
+756,@MST,3665543,Red,KOTH,koth_ashville_final1
+757,@MST,3687226,Red,KOTH,koth_cascade_rc1a
+758,@MST,3687201,Red,KOTH,koth_cascade_rc1a
+759,@MST,3674354,Red,KOTH,koth_lakeside_r2
+760,@MST,3674336,Red,KOTH,koth_lakeside_r2
+761,@MST,3641712,Red,PL,pl_vigil_rc10
+762,@MST,3641679,Red,PL,pl_vigil_rc10
+763,@MST,3641636,Red,PL,pl_upward_f10
+764,@MST,3641587,Blue,KOTH,koth_product_final
+765,@MST,3678716,Red,CP,cp_steel
+766,@MST,3678702,Blue,CP,cp_steel
+767,@MST,3678668,Red,CP,cp_steel
+768,@MST,3678640,Blue,CP,cp_steel
+769,@MST,3678632,Blue,CP,cp_steel
+770,@MST,3678588,Blue,CP,cp_steel
+771,@MST,3678566,Red,CP,cp_steel
+772,@MST,3678546,Blue,CP,cp_steel
+773,Run It Back,3662745,Blue,PL,pl_swiftwater_final1
+774,Run It Back,3662685,Red,PL,pl_swiftwater_final1
+775,Run It Back,3662656,Red,PL,pl_swiftwater_final1
+776,Run It Back,3662650,Red,PL,pl_swiftwater_final1
+777,Run It Back,3662607,Blue,PL,pl_swiftwater_final1
+778,Run It Back,3662582,Red,PL,pl_swiftwater_final1
+779,Run It Back,3661471,Red,PL,pl_swiftwater_final1
+780,Run It Back,3661441,Blue,PL,pl_swiftwater_final1
+781,Run It Back,3661416,Red,PL,pl_swiftwater_final1
+782,Run It Back,3661400,Red,PL,pl_swiftwater_final1
+783,Run It Back,3661371,Blue,PL,pl_swiftwater_final1
+784,Run It Back,3675122,Red,KOTH,koth_lakeside_r2
+785,Run It Back,3675074,Red,KOTH,koth_lakeside_r2
+786,Run It Back,3675008,Red,KOTH,koth_lakeside_r2
+787,Run It Back,3674951,Red,KOTH,koth_lakeside_r2
+788,Run It Back,3674910,Red,KOTH,koth_lakeside_r2
+789,Run It Back,3671101,Red,PL,pl_upward_f12
+790,Run It Back,3671084,Red,PL,pl_upward_f12
+791,Run It Back,3671059,Blue,PL,pl_upward_f12
+792,Run It Back,3671016,Blue,PL,pl_upward_f12
+793,Run It Back,3670990,Red,PL,pl_upward_f12
+794,Run It Back,3670961,Blue,PL,pl_upward_f12
+795,Run It Back,3670469,Red,PL,pl_upward_f11
+796,Run It Back,3670426,Blue,PL,pl_upward_f11
+797,Run It Back,3670392,Red,PL,pl_upward_f12
+798,Run It Back,3670354,Blue,PL,pl_upward_f12
+799,Run It Back,3670335,Red,PL,pl_upward_f12
+800,Run It Back,3658569,Red,KOTH,koth_product_final
+801,Run It Back,3658541,Red,KOTH,koth_product_final
+802,Run It Back,3658498,Red,KOTH,koth_product_final
+803,Run It Back,3658460,Red,KOTH,koth_product_final
+804,Run It Back,3658428,Red,KOTH,koth_product_final
+805,Run It Back,3658382,Red,KOTH,koth_product_final
+806,Run It Back,3654250,Blue,PL,pl_vigil_rc10
+807,Run It Back,3654247,Blue,PL,pl_vigil_rc10
+808,Run It Back,3654196,Red,PL,pl_vigil_rc10
+809,Run It Back,3654151,Blue,PL,pl_vigil_rc10
+810,Run It Back,3654116,Blue,PL,pl_vigil_rc10
+811,Run It Back,3654094,Red,PL,pl_vigil_rc10
+812,Run It Back,3654045,Blue,PL,pl_vigil_rc10
+813,Run It Back,3653484,Red,PL,pl_vigil_rc10
+814,Run It Back,3653444,Red,PL,pl_vigil_rc10
+815,Run It Back,3653391,Blue,PL,pl_vigil_rc10
+816,Run It Back,3649736,Blue,KOTH,koth_ashville_final
+817,Run It Back,3649721,Blue,KOTH,koth_ashville_final
+818,Run It Back,3653559,Red,PL,pl_vigil_rc10
+819,Run It Back,3653518,Blue,PL,pl_vigil_rc10
+820,Run It Back,3662124,Blue,PL,pl_swiftwater_final1
+821,Run It Back,3662110,Red,PL,pl_swiftwater_final1
+822,Run It Back,3662068,Red,PL,pl_swiftwater_final1
+823,Run It Back,3662028,Blue,PL,pl_swiftwater_final1
+824,Run It Back,3669884,Blue,PL,pl_upward_f10
+825,Run It Back,3669879,Blue,PL,pl_upward_f10
+826,Run It Back,3669855,Blue,PL,pl_upward_f10
+827,Run It Back,3669829,Red,PL,pl_upward_f10
+828,Run It Back,3674438,Blue,KOTH,koth_lakeside_r2
+829,Run It Back,3674405,Blue,KOTH,koth_lakeside_r2
+830,Run It Back,3657148,Red,KOTH,koth_product_final
+831,Run It Back,3657107,Red,KOTH,koth_product_final
+832,Run It Back,3679328,Red,CP,cp_steel
+833,Run It Back,3679282,Blue,CP,cp_steel
+834,Run It Back,3679267,Red,CP,cp_steel
+835,Run It Back,3679250,Red,CP,cp_steel
+836,Run It Back,3679197,Blue,CP,cp_steel
+837,Run It Back,3678705,Blue,CP,cp_steel
+838,Run It Back,3678669,Red,CP,cp_steel
+839,Run It Back,3678633,Blue,CP,cp_steel
+840,Run It Back,3652812,Blue,PL,pl_vigil_rc10
+841,Run It Back,3652775,Red,PL,pl_vigil_rc10
+842,Run It Back,3652755,Blue,PL,pl_vigil_rc10
+843,Run It Back,3652723,Red,PL,pl_vigil_rc10
+844,Run It Back,3652697,Blue,PL,pl_vigil_rc10
+845,Run It Back,3679377,Blue,CP,cp_steel
+846,Run It Back,3677883,Blue,CP,cp_steel
+847,Run It Back,3677861,Red,CP,cp_steel
+848,Run It Back,3679240,Blue,CP,cp_steel
+849,Run It Back,3666919,Blue,KOTH,koth_ashville_final1
+850,Run It Back,3666848,Blue,KOTH,koth_ashville_final1
+851,Run It Back,3666823,Blue,KOTH,koth_ashville_final1
+852,Run It Back,3666810,Blue,KOTH,koth_ashville_final1
+853,Run It Back,3666744,Blue,KOTH,koth_ashville_final1
+854,Run It Back,3666222,Red,KOTH,koth_ashville_final1
+855,Run It Back,3666178,Red,KOTH,koth_ashville_final1
+856,Run It Back,3649223,Red,KOTH,koth_product_final
+857,Run It Back,3649200,Blue,PL,pl_upward_f12
+858,Run It Back,3649174,Red,KOTH,koth_ashville_final
+859,Run It Back,3649159,Red,KOTH,koth_ashville_final
+860,Run It Back,3649133,Blue,PL,pl_vigil_rc10
+861,Run It Back,3648536,Blue,PL,pl_vigil_rc10
+862,Run It Back,3648500,Red,KOTH,koth_product_final
+863,Run It Back,3648471,Red,PL,pl_vigil_rc10
+864,Run It Back,3648419,Blue,KOTH,koth_ashville_final
+865,Run It Back,3644766,Blue,PL,pl_vigil_rc10
+866,Run It Back,3644754,Red,PL,pl_vigil_rc10
+867,Run It Back,3644722,Blue,KOTH,koth_product_final
+868,Run It Back,3644702,Red,PL,pl_vigil_rc10
+869,Run It Back,3644678,Blue,KOTH,koth_product_final
+870,Run It Back,3645805,Red,KOTH,koth_ashville_final
+871,Run It Back,3645787,Red,PL,pl_vigil_rc10
+872,Run It Back,3645765,Blue,PL,pl_vigil_rc10
+873,Run It Back,3645350,Blue,KOTH,koth_product_final
+874,Run It Back,3645316,Blue,KOTH,koth_cascade_rc1a
+875,Run It Back,3657948,Red,KOTH,koth_product_final
+876,Run It Back,3657903,Red,KOTH,koth_product_final
+877,Run It Back,3657869,Red,KOTH,koth_product_final
+878,Run It Back,3657833,Blue,KOTH,koth_product_final
+879,Run It Back,3657807,Blue,KOTH,koth_product_final
+880,Run It Back,3657772,Blue,KOTH,koth_product_final
+881,Run It Back,3649830,Red,KOTH,koth_cascade_rc1a
+882,Run It Back,3649808,Red,KOTH,koth_cascade_rc1a
+883,Run It Back,3649777,Blue,PL,pl_upward_f12
+884,Run It Back,3674354,Blue,KOTH,koth_lakeside_r2
+885,Run It Back,3674336,Blue,KOTH,koth_lakeside_r2
+886,FroggieLand,3657229,Red,KOTH,koth_product_final
+887,FroggieLand,3657205,Red,KOTH,koth_product_final
+888,FroggieLand,3657175,Red,KOTH,koth_product_final
+889,FroggieLand,3657170,Blue,KOTH,koth_product_final
+890,FroggieLand,3657169,Blue,KOTH,koth_product_final
+891,FroggieLand,3657136,Blue,KOTH,koth_product_final
+892,FroggieLand,3654262,Blue,PL,pl_vigil_rc10
+893,FroggieLand,3654250,Red,PL,pl_vigil_rc10
+894,FroggieLand,3654247,Red,PL,pl_vigil_rc10
+895,FroggieLand,3654196,Blue,PL,pl_vigil_rc10
+896,FroggieLand,3654151,Red,PL,pl_vigil_rc10
+897,FroggieLand,3654086,Blue,PL,pl_vigil_rc10
+898,FroggieLand,3654046,Red,PL,pl_vigil_rc10
+899,FroggieLand,3648532,Blue,KOTH,koth_ashville_final1
+900,FroggieLand,3648510,Red,PL,pl_swiftwater_final1
+901,FroggieLand,3648464,Blue,KOTH,koth_ashville_final1
+902,FroggieLand,3648438,Red,PL,pl_upward_f11
+903,FroggieLand,3653547,Blue,PL,pl_vigil_rc10
+904,FroggieLand,3653545,Blue,PL,pl_vigil_rc10
+905,FroggieLand,3653513,Red,PL,pl_vigil_rc10
+906,FroggieLand,3653435,Blue,PL,pl_vigil_rc10
+907,FroggieLand,3649208,Blue,KOTH,koth_product_final
+908,FroggieLand,3649187,Blue,PL,pl_vigil_rc10
+909,FroggieLand,3652839,Red,PL,pl_vigil_rc10
+910,FroggieLand,3652831,Red,PL,pl_vigil_rc10
+911,FroggieLand,3652794,Blue,PL,pl_vigil_rc10
+912,FroggieLand,3652765,Red,PL,pl_vigil_rc10
+913,FroggieLand,3652759,Blue,PL,pl_vigil_rc10
+914,FroggieLand,3652756,Blue,PL,pl_vigil_rc10
+915,FroggieLand,3652720,Red,PL,pl_vigil_rc10
+916,FroggieLand,3671156,Blue,PL,pl_upward_f12
+917,FroggieLand,3671147,Blue,PL,pl_upward_f12
+918,FroggieLand,3671081,Red,PL,pl_upward_f12
+919,FroggieLand,3671041,Red,PL,pl_upward_f12
+920,FroggieLand,3671000,Blue,PL,pl_upward_f12
+921,FroggieLand,3670972,Red,PL,pl_upward_f12
+922,FroggieLand,3666931,Blue,KOTH,koth_ashville_final1
+923,FroggieLand,3666908,Blue,KOTH,koth_ashville_final1
+924,FroggieLand,3666860,Blue,KOTH,koth_ashville_final1
+925,FroggieLand,3666796,Blue,KOTH,koth_ashville_final1
+926,FroggieLand,3666746,Blue,KOTH,koth_ashville_final1
+927,FroggieLand,3662777,Blue,PL,pl_swiftwater_final1
+928,FroggieLand,3662757,Blue,PL,pl_swiftwater_final1
+929,FroggieLand,3662694,Red,PL,pl_swiftwater_final1
+930,FroggieLand,3662640,Blue,PL,pl_swiftwater_final1
+931,FroggieLand,3662590,Red,PL,pl_swiftwater_final1
+932,FroggieLand,3658436,Blue,KOTH,koth_product_final
+933,FroggieLand,3658390,Blue,KOTH,koth_product_final
+934,FroggieLand,3641153,Blue,PL,pl_upward_f11
+935,FroggieLand,3641107,Blue,KOTH,koth_ashville_final1
+936,FroggieLand,3641083,Red,PL,pl_vigil_rc10
+937,FroggieLand,3641043,Blue,KOTH,koth_ashville_final
+938,FroggieLand,3641746,Red,PL,pl_upward_f11
+939,FroggieLand,3641711,Blue,KOTH,koth_product_final
+940,FroggieLand,3641669,Blue,KOTH,koth_ashville_final
+941,FroggieLand,3641621,Red,PL,pl_vigil_rc10
+942,FroggieLand,3641586,Blue,KOTH,koth_ashville_final1
+943,FroggieLand,3687210,Blue,KOTH,koth_cascade_rc1a
+944,FroggieLand,3687173,Blue,KOTH,koth_cascade_rc1a
+945,FroggieLand,3687131,Blue,KOTH,koth_cascade_rc1a
+946,FroggieLand,3686497,Blue,KOTH,koth_cascade_rc1a
+947,FroggieLand,3686472,Blue,KOTH,koth_cascade_rc1a
+948,FroggieLand,3686447,Blue,KOTH,koth_cascade_rc1a
+949,FroggieLand,3686442,Blue,KOTH,koth_cascade_rc1a
+950,FroggieLand,3686405,Blue,KOTH,koth_cascade_rc1a
+951,FroggieLand,3679333,Red,CP,cp_steel
+952,FroggieLand,3679312,Red,CP,cp_steel
+953,FroggieLand,3679300,Blue,CP,cp_steel
+954,FroggieLand,3679256,Red,CP,cp_steel
+955,FroggieLand,3679212,Blue,CP,cp_steel
+956,FroggieLand,3679185,Red,CP,cp_steel
+957,FroggieLand,3678699,Red,CP,cp_steel
+958,FroggieLand,3678682,Red,CP,cp_steel
+959,FroggieLand,3678635,Blue,CP,cp_steel
+960,FroggieLand,3678601,Red,CP,cp_steel
+961,FroggieLand,3678548,Blue,CP,cp_steel
+962,FroggieLand,3666268,Blue,KOTH,koth_ashville_final1
+963,FroggieLand,3666230,Blue,KOTH,koth_ashville_final1
+964,FroggieLand,3666179,Blue,KOTH,koth_ashville_final1
+965,FroggieLand,3666163,Blue,KOTH,koth_ashville_final1
+966,FroggieLand,3666118,Blue,KOTH,koth_ashville_final1
+967,FroggieLand,3662172,Blue,PL,pl_swiftwater_final1
+968,FroggieLand,3662153,Blue,PL,pl_swiftwater_final1
+969,FroggieLand,3662098,Red,PL,pl_swiftwater_final1
+970,FroggieLand,3662060,Blue,PL,pl_swiftwater_final1
+971,FroggieLand,3662020,Red,PL,pl_swiftwater_final1
+972,FroggieLand,3661453,Blue,PL,pl_swiftwater_final1
+973,FroggieLand,3661446,Red,PL,pl_swiftwater_final1
+974,FroggieLand,3661424,Blue,PL,pl_swiftwater_final1
+975,FroggieLand,3661421,Blue,PL,pl_swiftwater_final1
+976,FroggieLand,3661389,Red,PL,pl_swiftwater_final1
+977,FroggieLand,3675056,Red,KOTH,koth_lakeside_r2
+978,FroggieLand,3675032,Red,KOTH,koth_lakeside_r2
+979,FroggieLand,3675000,Red,KOTH,koth_lakeside_r2
+980,FroggieLand,3674963,Blue,KOTH,koth_lakeside_r2
+981,FroggieLand,3674921,Blue,KOTH,koth_lakeside_r2
+982,FroggieLand,3674469,Blue,KOTH,koth_lakeside_r2
+983,FroggieLand,3674444,Blue,KOTH,koth_lakeside_r2
+984,FroggieLand,3674407,Blue,KOTH,koth_lakeside_r2
+985,FroggieLand,3674377,Blue,KOTH,koth_lakeside_r2
+986,FroggieLand,3674347,Blue,KOTH,koth_lakeside_r2
+987,FroggieLand,3649777,Red,PL,pl_upward_f12
+988,FroggieLand,3649736,Red,KOTH,koth_ashville_final
+989,FroggieLand,3649721,Red,KOTH,koth_ashville_final
+990,Worse Comp Format,3674995,Blue,KOTH,koth_lakeside_r2
+991,Worse Comp Format,3674986,Blue,KOTH,koth_lakeside_r2
+992,Worse Comp Format,3671140,Blue,PL,pl_upward_f12
+993,Worse Comp Format,3671088,Red,PL,pl_upward_f12
+994,Worse Comp Format,3671045,Blue,PL,pl_upward_f12
+995,Worse Comp Format,3671009,Red,PL,pl_upward_f12
+996,Worse Comp Format,3670979,Blue,PL,pl_upward_f12
+997,Worse Comp Format,3666913,Red,KOTH,koth_ashville_final1
+998,Worse Comp Format,3666866,Red,KOTH,koth_ashville_final1
+999,Worse Comp Format,3666155,Red,KOTH,koth_ashville_final1
+1000,Worse Comp Format,3666129,Red,KOTH,koth_ashville_final1
+1001,Worse Comp Format,3662782,Red,PL,pl_swiftwater_final1
+1002,Worse Comp Format,3662721,Blue,PL,pl_swiftwater_final1
+1003,Worse Comp Format,3662675,Red,PL,pl_swiftwater_final1
+1004,Worse Comp Format,3654195,Blue,PL,pl_vigil_rc10
+1005,Worse Comp Format,3654153,Red,PL,pl_vigil_rc10
+1006,Worse Comp Format,3653564,Red,PL,pl_vigil_rc10
+1007,Worse Comp Format,3653526,Blue,PL,pl_vigil_rc10
+1008,Worse Comp Format,3653487,Red,PL,pl_vigil_rc10
+1009,Worse Comp Format,3653453,Blue,PL,pl_vigil_rc10
+1010,Worse Comp Format,3653426,Red,PL,pl_vigil_rc10
+1011,Worse Comp Format,3653390,Blue,PL,pl_vigil_rc10
+1012,Worse Comp Format,3662625,Blue,PL,pl_swiftwater_final1
+1013,Worse Comp Format,3674393,Blue,KOTH,koth_lakeside_r2
+1014,Worse Comp Format,3674363,Blue,KOTH,koth_lakeside_r2
+1015,Worse Comp Format,3674334,Blue,KOTH,koth_lakeside_r2
+1016,Worse Comp Format,3662161,Red,PL,pl_swiftwater_final1
+1017,Worse Comp Format,3674482,Red,KOTH,koth_lakeside_r2
+1018,Worse Comp Format,3674421,Red,KOTH,koth_lakeside_r2
+1019,Worse Comp Format,3654084,Red,PL,pl_vigil_rc10
+1020,Worse Comp Format,3654036,Blue,PL,pl_vigil_rc10
+1021,Worse Comp Format,3666813,Red,KOTH,koth_ashville_final1
+1022,Worse Comp Format,3666771,Red,KOTH,koth_ashville_final1
+1023,Worse Comp Format,3679381,Blue,CP,cp_steel
+1024,Worse Comp Format,3679358,Blue,CP,cp_steel
+1025,Worse Comp Format,3679304,Red,CP,cp_steel
+1026,Worse Comp Format,3679253,Red,CP,cp_steel
+1027,Worse Comp Format,3679237,Blue,CP,cp_steel
+1028,Worse Comp Format,3679209,Red,CP,cp_steel
+1029,Worse Comp Format,3678716,Blue,CP,cp_steel
+1030,Worse Comp Format,3678715,Blue,CP,cp_steel
+1031,Worse Comp Format,3678702,Red,CP,cp_steel
+1032,Worse Comp Format,3678668,Blue,CP,cp_steel
+1033,Worse Comp Format,3678640,Red,CP,cp_steel
+1034,Worse Comp Format,3678591,Blue,CP,cp_steel
+1035,Worse Comp Format,3678553,Red,CP,cp_steel
+1036,Worse Comp Format,3665599,Blue,KOTH,koth_ashville_final1
+1037,Worse Comp Format,3665548,Blue,KOTH,koth_ashville_final1
+1038,Worse Comp Format,3665520,Blue,KOTH,koth_ashville_final1
+1039,Worse Comp Format,3665489,Blue,KOTH,koth_ashville_final1
+1040,Worse Comp Format,3665465,Blue,KOTH,koth_ashville_final1
+1041,Worse Comp Format,3661502,Red,PL,pl_swiftwater_final1
+1042,Worse Comp Format,3661465,Blue,PL,pl_swiftwater_final1
+1043,Worse Comp Format,3661436,Blue,PL,pl_swiftwater_final1
+1044,Worse Comp Format,3661404,Red,PL,pl_swiftwater_final1
+1045,Worse Comp Format,3661376,Blue,PL,pl_swiftwater_final1
+1046,Worse Comp Format,3687226,Blue,KOTH,koth_cascade_rc1a
+1047,Worse Comp Format,3687201,Blue,KOTH,koth_cascade_rc1a
+1048,Worse Comp Format,3687163,Red,KOTH,koth_cascade_rc1a
+1049,Worse Comp Format,3687125,Red,KOTH,koth_cascade_rc1a
+1050,Worse Comp Format,3658537,Red,KOTH,koth_product_final
+1051,Worse Comp Format,3658491,Red,KOTH,koth_product_final
+1052,Worse Comp Format,3658436,Red,KOTH,koth_product_final
+1053,Worse Comp Format,3658390,Red,KOTH,koth_product_final
+1054,Worse Comp Format,3657891,Blue,KOTH,koth_product_final
+1055,Worse Comp Format,3657864,Blue,KOTH,koth_product_final
+1056,Worse Comp Format,3657839,Red,KOTH,koth_product_final
+1057,Worse Comp Format,3657778,Red,KOTH,koth_product_final
+1058,Worse Comp Format,3645912,Red,PL,pl_vigil_rc10
+1059,Worse Comp Format,3645858,Red,KOTH,koth_product_final
+1060,Worse Comp Format,3670491,Red,PL,pl_upward_f12
+1061,Worse Comp Format,3670453,Blue,PL,pl_upward_f12
+1062,Worse Comp Format,3645798,Blue,PL,pl_vigil_rc10
+1063,Worse Comp Format,3645760,Blue,KOTH,koth_lakeside_r2
+1064,Impostors,3658533,Blue,KOTH,koth_product_final
+1065,Impostors,3658495,Blue,KOTH,koth_product_final
+1066,Impostors,3658437,Blue,KOTH,koth_product_final
+1067,Impostors,3658384,Blue,KOTH,koth_product_final
+1068,Impostors,3657921,Blue,KOTH,koth_product_final
+1069,Impostors,3657886,Blue,KOTH,koth_product_final
+1070,Impostors,3657858,Blue,KOTH,koth_product_final
+1071,Impostors,3657839,Blue,KOTH,koth_product_final
+1072,Impostors,3657778,Blue,KOTH,koth_product_final
+1073,Impostors,3654295,Blue,PL,pl_vigil_rc10
+1074,Impostors,3654278,Red,PL,pl_vigil_rc10
+1075,Impostors,3654266,Red,PL,pl_vigil_rc10
+1076,Impostors,3654203,Blue,PL,pl_vigil_rc10
+1077,Impostors,3654142,Red,PL,pl_vigil_rc10
+1078,Impostors,3654080,Red,PL,pl_vigil_rc10
+1079,Impostors,3654039,Blue,PL,pl_vigil_rc10
+1080,Impostors,3649855,Red,PL,pl_upward_f11
+1081,Impostors,3649793,Blue,KOTH,koth_product_final
+1082,Impostors,3649740,Blue,KOTH,koth_product_final
+1083,Impostors,3649727,Blue,PL,pl_vigil_rc10
+1084,Impostors,3653548,Blue,PL,pl_vigil_rc10
+1085,Impostors,3653519,Red,PL,pl_vigil_rc10
+1086,Impostors,3653472,Blue,PL,pl_vigil_rc10
+1087,Impostors,3653433,Red,PL,pl_vigil_rc10
+1088,Impostors,3653392,Blue,PL,pl_vigil_rc10
+1089,Impostors,3645873,Blue,KOTH,koth_product_final
+1090,Impostors,3645843,Red,PL,pl_vigil_rc10
+1091,Impostors,3644732,Blue,KOTH,koth_product_final
+1092,Impostors,3644718,Red,PL,pl_vigil_rc10
+1093,Impostors,3644681,Blue,KOTH,koth_product_final
+1094,Impostors,3644667,Red,PL,pl_vigil_rc10
+1095,Impostors,3641153,Red,PL,pl_upward_f11
+1096,Impostors,3641107,Red,KOTH,koth_ashville_final1
+1097,Impostors,3662748,Blue,PL,pl_swiftwater_final1
+1098,Impostors,3662705,Red,PL,pl_swiftwater_final1
+1099,Impostors,3662614,Red,PL,pl_swiftwater_final1
+1100,Impostors,3662580,Blue,PL,pl_swiftwater_final1
+1101,Impostors,3652821,Red,PL,pl_vigil_rc10
+1102,Impostors,3652783,Blue,PL,pl_vigil_rc10
+1103,Impostors,3652755,Red,PL,pl_vigil_rc10
+1104,Impostors,3652723,Blue,PL,pl_vigil_rc10
+1105,Impostors,3652697,Red,PL,pl_vigil_rc10
+1106,Impostors,3666913,Blue,KOTH,koth_ashville_final1
+1107,Impostors,3666866,Blue,KOTH,koth_ashville_final1
+1108,Impostors,3666803,Blue,KOTH,koth_ashville_final1
+1109,Impostors,3666745,Blue,KOTH,koth_ashville_final1
+1110,Impostors,3679333,Blue,CP,cp_steel
+1111,Impostors,3679312,Blue,CP,cp_steel
+1112,Impostors,3679300,Red,CP,cp_steel
+1113,Impostors,3679260,Blue,CP,cp_steel
+1114,Impostors,3679222,Red,CP,cp_steel
+1115,Impostors,3679189,Blue,CP,cp_steel
+1116,Impostors,3677973,Blue,CP,cp_steel
+1117,Impostors,3677947,Red,CP,cp_steel
+1118,Impostors,3677920,Blue,CP,cp_steel
+1119,Impostors,3677883,Red,CP,cp_steel
+1120,Impostors,3677861,Blue,CP,cp_steel
+1121,Impostors,3674355,Red,KOTH,koth_lakeside_r2
+1122,Impostors,3665587,Blue,KOTH,koth_ashville_final1
+1123,Impostors,3665572,Blue,KOTH,koth_ashville_final1
+1124,Impostors,3665539,Blue,KOTH,koth_ashville_final1
+1125,Impostors,3665523,Blue,KOTH,koth_ashville_final1
+1126,Impostors,3665495,Blue,KOTH,koth_ashville_final1
+1127,Impostors,3665469,Blue,KOTH,koth_ashville_final1
+1128,Impostors,3662162,Blue,PL,pl_swiftwater_final1
+1129,Impostors,3662103,Red,PL,pl_swiftwater_final1
+1130,Impostors,3662050,Blue,PL,pl_swiftwater_final1
+1131,Impostors,3662026,Red,PL,pl_swiftwater_final1
+1132,Impostors,3645337,Red,KOTH,koth_ashville_final1
+1133,Impostors,3645310,Blue,PL,pl_vigil_rc10
+1134,Impostors,3645252,Red,KOTH,koth_ashville_final1
+1135,Impostors,3645229,Red,PL,pl_vigil_rc10
+1136,Impostors,3671101,Blue,PL,pl_upward_f12
+1137,Impostors,3671084,Blue,PL,pl_upward_f12
+1138,Impostors,3671059,Red,PL,pl_upward_f12
+1139,Impostors,3670997,Red,PL,pl_upward_f12
+1140,Impostors,3670962,Blue,PL,pl_upward_f12
+1141,Impostors,3661485,Blue,PL,pl_swiftwater_final1
+1142,Impostors,3661448,Red,PL,pl_swiftwater_final1
+1143,Impostors,3661416,Blue,PL,pl_swiftwater_final1
+1144,Impostors,3661400,Blue,PL,pl_swiftwater_final1
+1145,Impostors,3661371,Red,PL,pl_swiftwater_final1
+1146,Impostors,3657234,Blue,KOTH,koth_product_final
+1147,Impostors,3657191,Blue,KOTH,koth_product_final
+1148,Impostors,3657148,Blue,KOTH,koth_product_final
+1149,Impostors,3657107,Blue,KOTH,koth_product_final
+1150,Impostors,3649208,Red,KOTH,koth_product_final
+1151,Impostors,3649187,Red,PL,pl_vigil_rc10
+1152,Impostors,3649160,Blue,PL,pl_vigil_rc10
+1153,Impostors,3649121,Red,KOTH,koth_product_final
+1154,Impostors,3641676,Blue,PL,pl_vigil_rc10
+1155,Impostors,3641647,Blue,KOTH,koth_ashville_final1
+1156,Impostors,3641618,Red,PL,pl_swiftwater_final1
+1157,Impostors,3641580,Blue,KOTH,koth_product_final
+1158,Impostors,3641080,Red,PL,pl_vigil_rc10
+1159,Impostors,3641049,Red,KOTH,koth_product_final
+1160,Impostors,3648536,Red,PL,pl_vigil_rc10
+1161,Impostors,3648500,Blue,KOTH,koth_product_final
+1162,Impostors,3648444,Blue,KOTH,koth_product_final
+1163,Impostors,3648425,Red,PL,pl_vigil_rc10

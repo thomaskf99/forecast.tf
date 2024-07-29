@@ -1,556 +1,705 @@
 ,Blue,Red,LogID,GameMode,Map
-0,Dreamybull's Kitchen,The Hardworking Hornets,3674498,KOTH,koth_lakeside_r2
-1,Ohio Leif Village,Dreamybull's Kitchen,3674496,KOTH,koth_lakeside_r2
-2,Unknown,@MST,3674485,KOTH,koth_lakeside_r2
-3,Unknown,Worse Comp Format,3674482,KOTH,koth_lakeside_r2
-4,Ohio Leif Village,Dreamybull's Kitchen,3674474,KOTH,koth_lakeside_r2
-5,Unknown,@MST,3674472,KOTH,koth_lakeside_r2
-6,FroggieLand,somebody help,3674469,KOTH,koth_lakeside_r2
-7,FroggieLand,somebody help,3674444,KOTH,koth_lakeside_r2
-8,Unknown,The Hardworking Hornets,3674442,KOTH,koth_lakeside_r2
-9,Run It Back,The Duddy Dudes,3674438,KOTH,koth_lakeside_r2
-10,Unknown,Worse Comp Format,3674421,KOTH,koth_lakeside_r2
-11,Unknown,@MST,3674419,KOTH,koth_lakeside_r2
-12,Ohio Leif Village,Dreamybull's Kitchen,3674414,KOTH,koth_lakeside_r2
-13,Unknown,The Hardworking Hornets,3674408,KOTH,koth_lakeside_r2
-14,FroggieLand,somebody help,3674407,KOTH,koth_lakeside_r2
-15,Run It Back,The Duddy Dudes,3674405,KOTH,koth_lakeside_r2
-16,Worse Comp Format,Unknown,3674393,KOTH,koth_lakeside_r2
-17,FroggieLand,somebody help,3674377,KOTH,koth_lakeside_r2
-18,The Duddy Dudes,Ohio Leif Village,3674372,KOTH,koth_lakeside_r2
-19,Worse Comp Format,Unknown,3674363,KOTH,koth_lakeside_r2
-20,Dreamybull's Kitchen,The Hardworking Hornets,3674358,KOTH,koth_lakeside_r2
-21,Unknown,Impostors,3674355,KOTH,koth_lakeside_r2
-22,Run It Back,@MST,3674354,KOTH,koth_lakeside_r2
-23,FroggieLand,somebody help,3674347,KOTH,koth_lakeside_r2
-24,Run It Back,@MST,3674336,KOTH,koth_lakeside_r2
-25,The Duddy Dudes,Ohio Leif Village,3674335,KOTH,koth_lakeside_r2
-26,Worse Comp Format,Unknown,3674334,KOTH,koth_lakeside_r2
-27,Dreamybull's Kitchen,The Hardworking Hornets,3674330,KOTH,koth_lakeside_r2
-28,Unknown,Ohio Leif Village,3673820,KOTH,koth_lakeside_r2
-29,Dreamybull's Kitchen,somebody help,3673812,KOTH,koth_lakeside_r2
-30,Unknown,Ohio Leif Village,3673806,KOTH,koth_lakeside_r2
-31,Dreamybull's Kitchen,somebody help,3673782,KOTH,koth_lakeside_r2
-32,Unknown,Ohio Leif Village,3673780,KOTH,koth_lakeside_r2
-33,The Duddy Dudes,The Hardworking Hornets,3673779,KOTH,koth_lakeside_r2
-34,The Hardworking Hornets,Dreamybull's Kitchen,3673775,KOTH,koth_lakeside_r2
-35,The Duddy Dudes,somebody help,3673755,KOTH,koth_lakeside_r2
-36,The Hardworking Hornets,Dreamybull's Kitchen,3673740,KOTH,koth_lakeside_r2
-37,The Duddy Dudes,somebody help,3673734,KOTH,koth_lakeside_r2
-38,The Duddy Dudes,somebody help,3673718,KOTH,koth_lakeside_r2
-39,The Hardworking Hornets,Dreamybull's Kitchen,3673715,KOTH,koth_lakeside_r2
-40,FroggieLand,somebody help,3671156,PL,pl_upward_f12
-41,Dreamybull's Kitchen,@MST,3671153,PL,pl_upward_f12
-42,FroggieLand,somebody help,3671147,PL,pl_upward_f12
-43,The Hardworking Hornets,The Duddy Dudes,3671142,PL,pl_upward_f12
-44,Worse Comp Format,Ohio Leif Village,3671140,PL,pl_upward_f12
-45,Dreamybull's Kitchen,@MST,3671111,PL,pl_upward_f12
-46,Impostors,Run It Back,3671101,PL,pl_upward_f12
-47,Ohio Leif Village,Worse Comp Format,3671088,PL,pl_upward_f12
-48,Impostors,Run It Back,3671084,PL,pl_upward_f12
-49,somebody help,FroggieLand,3671081,PL,pl_upward_f12
-50,The Duddy Dudes,The Hardworking Hornets,3671072,PL,pl_upward_f12
-51,Run It Back,Impostors,3671059,PL,pl_upward_f12
-52,@MST,Dreamybull's Kitchen,3671056,PL,pl_upward_f12
-53,Worse Comp Format,Unknown,3671045,PL,pl_upward_f12
-54,The Hardworking Hornets,FroggieLand,3671041,PL,pl_upward_f12
-55,Ohio Leif Village,The Duddy Dudes,3671034,PL,pl_upward_f12
-56,Run It Back,Dreamybull's Kitchen,3671016,PL,pl_upward_f12
-57,Unknown,Worse Comp Format,3671009,PL,pl_upward_f12
-58,FroggieLand,The Hardworking Hornets,3671000,PL,pl_upward_f12
-59,The Duddy Dudes,Ohio Leif Village,3670999,PL,pl_upward_f12
-60,Unknown,Impostors,3670997,PL,pl_upward_f12
-61,@MST,somebody help,3670996,PL,pl_upward_f12
-62,Dreamybull's Kitchen,Run It Back,3670990,PL,pl_upward_f12
-63,Worse Comp Format,Unknown,3670979,PL,pl_upward_f12
-64,The Hardworking Hornets,FroggieLand,3670972,PL,pl_upward_f12
-65,somebody help,@MST,3670963,PL,pl_upward_f12
-66,Impostors,Unknown,3670962,PL,pl_upward_f12
-67,Run It Back,Dreamybull's Kitchen,3670961,PL,pl_upward_f12
-68,Ohio Leif Village,somebody help,3670497,PL,pl_upward_f11
-69,Unknown,Worse Comp Format,3670491,PL,pl_upward_f12
-70,@MST,Unknown,3670484,PL,pl_upward_f12
-71,Unknown,The Hardworking Hornets,3670473,PL,pl_upward_f12
-72,The Duddy Dudes,Run It Back,3670469,PL,pl_upward_f11
-73,@MST,Unknown,3670464,PL,pl_upward_f12
-74,somebody help,Ohio Leif Village,3670456,PL,pl_upward_f11
-75,Worse Comp Format,Unknown,3670453,PL,pl_upward_f12
-76,Unknown,The Hardworking Hornets,3670451,PL,pl_upward_f12
-77,Unknown,@MST,3670429,PL,pl_upward_f12
-78,Ohio Leif Village,somebody help,3670428,PL,pl_upward_f11
-79,The Hardworking Hornets,Unknown,3670427,PL,pl_upward_f12
-80,Run It Back,The Duddy Dudes,3670426,PL,pl_upward_f11
-81,Ohio Leif Village,somebody help,3670411,PL,pl_upward_f11
-82,The Hardworking Hornets,Dreamybull's Kitchen,3670400,PL,pl_upward_f12
-83,The Hardworking Hornets,Dreamybull's Kitchen,3670398,PL,pl_upward_f12
-84,@MST,Run It Back,3670392,PL,pl_upward_f12
-85,Unknown,somebody help,3670384,PL,pl_upward_f10
-86,The Duddy Dudes,Ohio Leif Village,3670380,PL,pl_upward_f11
-87,Run It Back,@MST,3670354,PL,pl_upward_f12
-88,The Hardworking Hornets,Dreamybull's Kitchen,3670353,PL,pl_upward_f12
-89,somebody help,Unknown,3670352,PL,pl_upward_f10
-90,Ohio Leif Village,The Duddy Dudes,3670348,PL,pl_upward_f11
-91,@MST,Run It Back,3670335,PL,pl_upward_f12
-92,Run It Back,somebody help,3669884,PL,pl_upward_f10
-93,Run It Back,somebody help,3669879,PL,pl_upward_f10
-94,Ohio Leif Village,Dreamybull's Kitchen,3669867,PL,pl_upward_f10
-95,Ohio Leif Village,Dreamybull's Kitchen,3669856,PL,pl_upward_f10
-96,Run It Back,somebody help,3669855,PL,pl_upward_f10
-97,The Duddy Dudes,@MST,3669842,PL,pl_upward_f11
-98,somebody help,Run It Back,3669829,PL,pl_upward_f10
-99,Dreamybull's Kitchen,Ohio Leif Village,3669818,PL,pl_upward_f10
-100,@MST,The Duddy Dudes,3669812,PL,pl_upward_f11
-101,Ohio Leif Village,Unknown,3669805,PL,pl_upward_f12
-102,Dreamybull's Kitchen,Unknown,3669804,PL,pl_upward_f12
-103,Dreamybull's Kitchen,Unknown,3669792,PL,pl_upward_f12
-104,@MST,Unknown,3669791,PL,pl_upward_f12
-105,Unknown,Dreamybull's Kitchen,3669770,PL,pl_upward_f12
-106,Ohio Leif Village,Unknown,3669765,PL,pl_upward_f12
-107,Unknown,@MST,3669758,PL,pl_upward_f12
-108,Dreamybull's Kitchen,Unknown,3669741,PL,pl_upward_f12
-109,FroggieLand,Ohio Leif Village,3666931,KOTH,koth_ashville_final1
-110,Run It Back,The Hardworking Hornets,3666919,KOTH,koth_ashville_final1
-111,Impostors,Worse Comp Format,3666913,KOTH,koth_ashville_final1
-112,FroggieLand,Ohio Leif Village,3666908,KOTH,koth_ashville_final1
-113,somebody help,@MST,3666897,KOTH,koth_ashville_final1
-114,Dreamybull's Kitchen,The Duddy Dudes,3666890,KOTH,koth_ashville_final
-115,Dreamybull's Kitchen,The Duddy Dudes,3666874,KOTH,koth_ashville_final
-116,Impostors,Worse Comp Format,3666866,KOTH,koth_ashville_final1
-117,FroggieLand,Ohio Leif Village,3666860,KOTH,koth_ashville_final1
-118,somebody help,@MST,3666855,KOTH,koth_ashville_final1
-119,Run It Back,The Hardworking Hornets,3666848,KOTH,koth_ashville_final1
-120,Dreamybull's Kitchen,The Duddy Dudes,3666845,KOTH,koth_ashville_final
-121,Run It Back,Dreamybull's Kitchen,3666823,KOTH,koth_ashville_final1
-122,Unknown,Worse Comp Format,3666813,KOTH,koth_ashville_final1
-123,Run It Back,Dreamybull's Kitchen,3666810,KOTH,koth_ashville_final1
-124,Impostors,@MST,3666803,KOTH,koth_ashville_final1
-125,FroggieLand,The Hardworking Hornets,3666796,KOTH,koth_ashville_final1
-126,Ohio Leif Village,The Duddy Dudes,3666794,KOTH,koth_ashville_final
-127,Unknown,Worse Comp Format,3666771,KOTH,koth_ashville_final1
-128,Ohio Leif Village,The Duddy Dudes,3666756,KOTH,koth_ashville_final
-129,FroggieLand,The Hardworking Hornets,3666746,KOTH,koth_ashville_final1
-130,Impostors,@MST,3666745,KOTH,koth_ashville_final1
-131,Run It Back,Dreamybull's Kitchen,3666744,KOTH,koth_ashville_final1
-132,FroggieLand,somebody help,3666268,KOTH,koth_ashville_final1
-133,Ohio Leif Village,Dreamybull's Kitchen,3666264,KOTH,koth_ashville_final1
-134,Ohio Leif Village,Dreamybull's Kitchen,3666257,KOTH,koth_ashville_final1
-135,@MST,Unknown,3666254,KOTH,koth_ashville_final1
-136,FroggieLand,somebody help,3666230,KOTH,koth_ashville_final1
-137,Ohio Leif Village,Dreamybull's Kitchen,3666223,KOTH,koth_ashville_final1
-138,The Duddy Dudes,Run It Back,3666222,KOTH,koth_ashville_final1
-139,The Hardworking Hornets,Unknown,3666215,KOTH,koth_ashville_final1
-140,@MST,Unknown,3666189,KOTH,koth_ashville_final1
-141,The Hardworking Hornets,Unknown,3666188,KOTH,koth_ashville_final1
-142,Ohio Leif Village,Dreamybull's Kitchen,3666180,KOTH,koth_ashville_final1
-143,FroggieLand,somebody help,3666179,KOTH,koth_ashville_final1
-144,The Duddy Dudes,Run It Back,3666178,KOTH,koth_ashville_final1
-145,The Hardworking Hornets,Dreamybull's Kitchen,3666174,KOTH,koth_ashville_final1
-146,FroggieLand,somebody help,3666163,KOTH,koth_ashville_final1
-147,The Hardworking Hornets,Dreamybull's Kitchen,3666160,KOTH,koth_ashville_final1
-148,Unknown,Worse Comp Format,3666155,KOTH,koth_ashville_final1
-149,@MST,Unknown,3666152,KOTH,koth_ashville_final1
-150,The Duddy Dudes,Ohio Leif Village,3666147,KOTH,koth_ashville_final1
-151,Unknown,Worse Comp Format,3666129,KOTH,koth_ashville_final1
-152,@MST,Unknown,3666121,KOTH,koth_ashville_final1
-153,The Hardworking Hornets,Dreamybull's Kitchen,3666119,KOTH,koth_ashville_final1
-154,FroggieLand,somebody help,3666118,KOTH,koth_ashville_final1
-155,The Duddy Dudes,Ohio Leif Village,3666114,KOTH,koth_ashville_final1
-156,Worse Comp Format,Unknown,3665599,KOTH,koth_ashville_final1
-157,Impostors,Unknown,3665587,KOTH,koth_ashville_final1
-158,Dreamybull's Kitchen,@MST,3665578,KOTH,koth_ashville_final1
-159,Impostors,Unknown,3665572,KOTH,koth_ashville_final1
-160,Dreamybull's Kitchen,@MST,3665570,KOTH,koth_ashville_final1
-161,The Duddy Dudes,The Hardworking Hornets,3665563,KOTH,koth_ashville_final
-162,Unknown,somebody help,3665561,KOTH,koth_ashville_final1
-163,Worse Comp Format,Unknown,3665548,KOTH,koth_ashville_final1
-164,Dreamybull's Kitchen,@MST,3665543,KOTH,koth_ashville_final1
-165,Impostors,Unknown,3665539,KOTH,koth_ashville_final1
-166,Unknown,somebody help,3665537,KOTH,koth_ashville_final1
-167,The Duddy Dudes,The Hardworking Hornets,3665536,KOTH,koth_ashville_final
-168,Unknown,Dreamybull's Kitchen,3665525,KOTH,koth_ashville_final1
-169,Impostors,Unknown,3665523,KOTH,koth_ashville_final1
-170,Unknown,Dreamybull's Kitchen,3665521,KOTH,koth_ashville_final1
-171,Worse Comp Format,@MST,3665520,KOTH,koth_ashville_final1
-172,Ohio Leif Village,The Hardworking Hornets,3665515,KOTH,koth_ashville_final1
-173,Unknown,Dreamybull's Kitchen,3665499,KOTH,koth_ashville_final1
-174,Impostors,Unknown,3665495,KOTH,koth_ashville_final1
-175,The Duddy Dudes,somebody help,3665492,KOTH,koth_ashville_final1
-176,Worse Comp Format,@MST,3665489,KOTH,koth_ashville_final1
-177,Ohio Leif Village,The Hardworking Hornets,3665486,KOTH,koth_ashville_final1
-178,Impostors,Unknown,3665469,KOTH,koth_ashville_final1
-179,The Duddy Dudes,somebody help,3665467,KOTH,koth_ashville_final1
-180,Worse Comp Format,@MST,3665465,KOTH,koth_ashville_final1
-181,Ohio Leif Village,The Hardworking Hornets,3665461,KOTH,koth_ashville_final1
-182,The Duddy Dudes,somebody help,3665455,KOTH,koth_ashville_final1
-183,@MST,Worse Comp Format,3662782,PL,pl_swiftwater_final1
-184,FroggieLand,The Duddy Dudes,3662777,PL,pl_swiftwater_final1
-185,Dreamybull's Kitchen,somebody help,3662759,PL,pl_swiftwater_final1
-186,FroggieLand,The Duddy Dudes,3662757,PL,pl_swiftwater_final1
-187,Impostors,The Hardworking Hornets,3662748,PL,pl_swiftwater_final1
-188,Run It Back,Ohio Leif Village,3662745,PL,pl_swiftwater_final1
-189,Worse Comp Format,@MST,3662721,PL,pl_swiftwater_final1
-190,The Hardworking Hornets,Impostors,3662705,PL,pl_swiftwater_final1
-191,The Duddy Dudes,FroggieLand,3662694,PL,pl_swiftwater_final1
-192,Ohio Leif Village,Run It Back,3662685,PL,pl_swiftwater_final1
-193,somebody help,Dreamybull's Kitchen,3662684,PL,pl_swiftwater_final1
-194,@MST,Worse Comp Format,3662675,PL,pl_swiftwater_final1
-195,Dreamybull's Kitchen,Run It Back,3662656,PL,pl_swiftwater_final1
-196,Dreamybull's Kitchen,Run It Back,3662650,PL,pl_swiftwater_final1
-197,FroggieLand,The Hardworking Hornets,3662640,PL,pl_swiftwater_final1
-198,Ohio Leif Village,The Duddy Dudes,3662628,PL,pl_swiftwater_final1
-199,Worse Comp Format,Unknown,3662625,PL,pl_swiftwater_final1
-200,@MST,somebody help,3662623,PL,pl_swiftwater_final1
-201,Unknown,Impostors,3662614,PL,pl_swiftwater_final1
-202,Run It Back,Dreamybull's Kitchen,3662607,PL,pl_swiftwater_final1
-203,The Duddy Dudes,Ohio Leif Village,3662599,PL,pl_swiftwater_final1
-204,The Hardworking Hornets,FroggieLand,3662590,PL,pl_swiftwater_final1
-205,somebody help,@MST,3662587,PL,pl_swiftwater_final1
-206,Dreamybull's Kitchen,Run It Back,3662582,PL,pl_swiftwater_final1
-207,Impostors,Unknown,3662580,PL,pl_swiftwater_final1
-208,Ohio Leif Village,Dreamybull's Kitchen,3662182,PL,pl_swiftwater_final1
-209,@MST,Unknown,3662180,PL,pl_swiftwater_final1
-210,FroggieLand,somebody help,3662172,PL,pl_swiftwater_final1
-211,@MST,Unknown,3662166,PL,pl_swiftwater_final1
-212,Impostors,Unknown,3662162,PL,pl_swiftwater_final1
-213,The Hardworking Hornets,Worse Comp Format,3662161,PL,pl_swiftwater_final1
-214,Ohio Leif Village,Dreamybull's Kitchen,3662156,PL,pl_swiftwater_final1
-215,FroggieLand,somebody help,3662153,PL,pl_swiftwater_final1
-216,Run It Back,Unknown,3662124,PL,pl_swiftwater_final1
-217,Unknown,The Hardworking Hornets,3662118,PL,pl_swiftwater_final1
-218,Unknown,@MST,3662114,PL,pl_swiftwater_final1
-219,Unknown,Run It Back,3662110,PL,pl_swiftwater_final1
-220,Dreamybull's Kitchen,Ohio Leif Village,3662105,PL,pl_swiftwater_final1
-221,Unknown,Impostors,3662103,PL,pl_swiftwater_final1
-222,somebody help,FroggieLand,3662098,PL,pl_swiftwater_final1
-223,The Hardworking Hornets,Dreamybull's Kitchen,3662083,PL,pl_swiftwater_final1
-224,The Hardworking Hornets,Dreamybull's Kitchen,3662080,PL,pl_swiftwater_final1
-225,@MST,Run It Back,3662068,PL,pl_swiftwater_final1
-226,FroggieLand,somebody help,3662060,PL,pl_swiftwater_final1
-227,Impostors,Unknown,3662050,PL,pl_swiftwater_final1
-228,Ohio Leif Village,Unknown,3662049,PL,pl_swiftwater_final1
-229,Dreamybull's Kitchen,The Hardworking Hornets,3662036,PL,pl_swiftwater_final1
-230,Run It Back,@MST,3662028,PL,pl_swiftwater_final1
-231,Unknown,Impostors,3662026,PL,pl_swiftwater_final1
-232,somebody help,FroggieLand,3662020,PL,pl_swiftwater_final1
-233,Unknown,Ohio Leif Village,3662018,PL,pl_swiftwater_final1
-234,Unknown,Worse Comp Format,3661502,PL,pl_swiftwater_final1
-235,Impostors,Unknown,3661485,PL,pl_swiftwater_final1
-236,@MST,Dreamybull's Kitchen,3661478,PL,pl_swiftwater_final1
-237,@MST,Dreamybull's Kitchen,3661477,PL,pl_swiftwater_final1
-238,somebody help,Run It Back,3661471,PL,pl_swiftwater_final1
-239,The Duddy Dudes,The Hardworking Hornets,3661469,PL,pl_swiftwater_final1
-240,Worse Comp Format,Unknown,3661465,PL,pl_swiftwater_final1
-241,Dreamybull's Kitchen,@MST,3661459,PL,pl_swiftwater_final1
-242,FroggieLand,Ohio Leif Village,3661453,PL,pl_swiftwater_final1
-243,Unknown,Impostors,3661448,PL,pl_swiftwater_final1
-244,Ohio Leif Village,FroggieLand,3661446,PL,pl_swiftwater_final1
-245,Run It Back,somebody help,3661441,PL,pl_swiftwater_final1
-246,The Hardworking Hornets,The Duddy Dudes,3661440,PL,pl_swiftwater_final1
-247,Worse Comp Format,Unknown,3661436,PL,pl_swiftwater_final1
-248,FroggieLand,Dreamybull's Kitchen,3661424,PL,pl_swiftwater_final1
-249,FroggieLand,Dreamybull's Kitchen,3661421,PL,pl_swiftwater_final1
-250,Impostors,Run It Back,3661416,PL,pl_swiftwater_final1
-251,somebody help,The Duddy Dudes,3661406,PL,pl_swiftwater_final1
-252,The Hardworking Hornets,Ohio Leif Village,3661405,PL,pl_swiftwater_final1
-253,Unknown,Worse Comp Format,3661404,PL,pl_swiftwater_final1
-254,Impostors,Run It Back,3661400,PL,pl_swiftwater_final1
-255,The Duddy Dudes,somebody help,3661394,PL,pl_swiftwater_final1
-256,Ohio Leif Village,The Hardworking Hornets,3661391,PL,pl_swiftwater_final1
-257,Dreamybull's Kitchen,FroggieLand,3661389,PL,pl_swiftwater_final1
-258,Worse Comp Format,Unknown,3661376,PL,pl_swiftwater_final1
-259,Run It Back,Impostors,3661371,PL,pl_swiftwater_final1
-260,somebody help,The Duddy Dudes,3661370,PL,pl_swiftwater_final1
-261,The Hardworking Hornets,Ohio Leif Village,3661366,PL,pl_swiftwater_final1
-262,Ohio Leif Village,@MST,3658586,KOTH,koth_product_final
-263,The Duddy Dudes,Run It Back,3658569,KOTH,koth_product_final
-264,The Duddy Dudes,Run It Back,3658541,KOTH,koth_product_final
-265,Dreamybull's Kitchen,Worse Comp Format,3658537,KOTH,koth_product_final
-266,Impostors,somebody help,3658533,KOTH,koth_product_final
-267,Ohio Leif Village,@MST,3658521,KOTH,koth_product_final
-268,The Duddy Dudes,Run It Back,3658498,KOTH,koth_product_final
-269,Impostors,somebody help,3658495,KOTH,koth_product_final
-270,Dreamybull's Kitchen,Worse Comp Format,3658491,KOTH,koth_product_final
-271,Ohio Leif Village,@MST,3658489,KOTH,koth_product_final
-272,Dreamybull's Kitchen,Run It Back,3658460,KOTH,koth_product_final
-273,The Duddy Dudes,Ohio Leif Village,3658459,KOTH,koth_product_final
-274,Impostors,Unknown,3658437,KOTH,koth_product_final
-275,FroggieLand,Worse Comp Format,3658436,KOTH,koth_product_final
-276,Dreamybull's Kitchen,Run It Back,3658428,KOTH,koth_product_final
-277,The Duddy Dudes,Ohio Leif Village,3658421,KOTH,koth_product_final
-278,@MST,somebody help,3658416,KOTH,koth_product_final
-279,FroggieLand,Worse Comp Format,3658390,KOTH,koth_product_final
-280,@MST,somebody help,3658389,KOTH,koth_product_final
-281,The Duddy Dudes,Ohio Leif Village,3658386,KOTH,koth_product_final
-282,Impostors,Unknown,3658384,KOTH,koth_product_final
-283,Dreamybull's Kitchen,Run It Back,3658382,KOTH,koth_product_final
-284,Unknown,Run It Back,3657948,KOTH,koth_product_final
-285,Dreamybull's Kitchen,Ohio Leif Village,3657942,KOTH,koth_product_final
-286,Unknown,@MST,3657938,KOTH,koth_product_final
-287,Unknown,@MST,3657926,KOTH,koth_product_final
-288,Impostors,The Hardworking Hornets,3657921,KOTH,koth_product_final
-289,Unknown,Run It Back,3657903,KOTH,koth_product_final
-290,Dreamybull's Kitchen,Ohio Leif Village,3657900,KOTH,koth_product_final
-291,Worse Comp Format,somebody help,3657891,KOTH,koth_product_final
-292,Impostors,The Hardworking Hornets,3657886,KOTH,koth_product_final
-293,Unknown,@MST,3657871,KOTH,koth_product_final
-294,Unknown,Run It Back,3657869,KOTH,koth_product_final
-295,Dreamybull's Kitchen,Ohio Leif Village,3657866,KOTH,koth_product_final
-296,Worse Comp Format,somebody help,3657864,KOTH,koth_product_final
-297,Impostors,The Hardworking Hornets,3657858,KOTH,koth_product_final
-298,Impostors,Worse Comp Format,3657839,KOTH,koth_product_final
-299,Run It Back,@MST,3657833,KOTH,koth_product_final
-300,Unknown,Dreamybull's Kitchen,3657831,KOTH,koth_product_final
-301,Unknown,Dreamybull's Kitchen,3657830,KOTH,koth_product_final
-302,Unknown,Dreamybull's Kitchen,3657816,KOTH,koth_product_final
-303,Unknown,somebody help,3657814,KOTH,koth_product_final
-304,The Duddy Dudes,Ohio Leif Village,3657813,KOTH,koth_product_final
-305,Run It Back,@MST,3657807,KOTH,koth_product_final
-306,Unknown,Dreamybull's Kitchen,3657792,KOTH,koth_product_final
-307,Unknown,somebody help,3657782,KOTH,koth_product_final
-308,Impostors,Worse Comp Format,3657778,KOTH,koth_product_final
-309,The Duddy Dudes,Ohio Leif Village,3657776,KOTH,koth_product_final
-310,Run It Back,@MST,3657772,KOTH,koth_product_final
-311,Impostors,Unknown,3657234,KOTH,koth_product_final
-312,Ohio Leif Village,FroggieLand,3657229,KOTH,koth_product_final
-313,Dreamybull's Kitchen,@MST,3657220,KOTH,koth_product_final
-314,The Duddy Dudes,The Hardworking Hornets,3657214,KOTH,koth_product_final
-315,Dreamybull's Kitchen,@MST,3657208,KOTH,koth_product_final
-316,Ohio Leif Village,FroggieLand,3657205,KOTH,koth_product_final
-317,Impostors,Unknown,3657191,KOTH,koth_product_final
-318,Dreamybull's Kitchen,@MST,3657180,KOTH,koth_product_final
-319,The Duddy Dudes,The Hardworking Hornets,3657178,KOTH,koth_product_final
-320,Ohio Leif Village,FroggieLand,3657175,KOTH,koth_product_final
-321,Ohio Leif Village,The Hardworking Hornets,3657171,KOTH,koth_product_final
-322,FroggieLand,Dreamybull's Kitchen,3657170,KOTH,koth_product_final
-323,FroggieLand,Dreamybull's Kitchen,3657169,KOTH,koth_product_final
-324,Impostors,Run It Back,3657148,KOTH,koth_product_final
-325,Ohio Leif Village,The Hardworking Hornets,3657147,KOTH,koth_product_final
-326,Unknown,@MST,3657144,KOTH,koth_product_final
-327,FroggieLand,Dreamybull's Kitchen,3657136,KOTH,koth_product_final
-328,Ohio Leif Village,The Hardworking Hornets,3657111,KOTH,koth_product_final
-329,Impostors,Run It Back,3657107,KOTH,koth_product_final
-330,Unknown,@MST,3657101,KOTH,koth_product_final
-331,Ohio Leif Village,The Hardworking Hornets,3657098,KOTH,koth_product_final
-332,Impostors,Dreamybull's Kitchen,3654295,PL,pl_vigil_rc10
-333,Dreamybull's Kitchen,Impostors,3654278,PL,pl_vigil_rc10
-334,Dreamybull's Kitchen,Impostors,3654266,PL,pl_vigil_rc10
-335,FroggieLand,The Hardworking Hornets,3654262,PL,pl_vigil_rc10
-336,The Duddy Dudes,Ohio Leif Village,3654259,PL,pl_vigil_rc10
-337,Run It Back,FroggieLand,3654250,PL,pl_vigil_rc10
-338,Run It Back,FroggieLand,3654247,PL,pl_vigil_rc10
-339,@MST,The Hardworking Hornets,3654235,PL,pl_vigil_rc10
-340,The Duddy Dudes,Ohio Leif Village,3654233,PL,pl_vigil_rc10
-341,@MST,The Hardworking Hornets,3654208,PL,pl_vigil_rc10
-342,Impostors,Dreamybull's Kitchen,3654203,PL,pl_vigil_rc10
-343,FroggieLand,Run It Back,3654196,PL,pl_vigil_rc10
-344,Worse Comp Format,somebody help,3654195,PL,pl_vigil_rc10
-345,Ohio Leif Village,The Duddy Dudes,3654172,PL,pl_vigil_rc10
-346,somebody help,Worse Comp Format,3654153,PL,pl_vigil_rc10
-347,Run It Back,FroggieLand,3654151,PL,pl_vigil_rc10
-348,The Hardworking Hornets,@MST,3654150,PL,pl_vigil_rc10
-349,Dreamybull's Kitchen,Impostors,3654142,PL,pl_vigil_rc10
-350,The Duddy Dudes,Ohio Leif Village,3654130,PL,pl_vigil_rc10
-351,Run It Back,Dreamybull's Kitchen,3654116,PL,pl_vigil_rc10
-352,somebody help,@MST,3654110,PL,pl_vigil_rc10
-353,Dreamybull's Kitchen,Run It Back,3654094,PL,pl_vigil_rc10
-354,FroggieLand,The Hardworking Hornets,3654086,PL,pl_vigil_rc10
-355,Ohio Leif Village,Worse Comp Format,3654084,PL,pl_vigil_rc10
-356,Unknown,Impostors,3654080,PL,pl_vigil_rc10
-357,@MST,somebody help,3654062,PL,pl_vigil_rc10
-358,The Hardworking Hornets,FroggieLand,3654046,PL,pl_vigil_rc10
-359,Run It Back,Dreamybull's Kitchen,3654045,PL,pl_vigil_rc10
-360,Impostors,Unknown,3654039,PL,pl_vigil_rc10
-361,Worse Comp Format,Ohio Leif Village,3654036,PL,pl_vigil_rc10
-362,somebody help,@MST,3654033,PL,pl_vigil_rc10
-363,Dreamybull's Kitchen,Ohio Leif Village,3653567,PL,pl_vigil_rc10
-364,Unknown,Worse Comp Format,3653564,PL,pl_vigil_rc10
-365,The Duddy Dudes,Run It Back,3653559,PL,pl_vigil_rc10
-366,Unknown,@MST,3653553,PL,pl_vigil_rc10
-367,Dreamybull's Kitchen,Ohio Leif Village,3653550,PL,pl_vigil_rc10
-368,Impostors,somebody help,3653548,PL,pl_vigil_rc10
-369,FroggieLand,The Hardworking Hornets,3653547,PL,pl_vigil_rc10
-370,FroggieLand,The Hardworking Hornets,3653545,PL,pl_vigil_rc10
-371,Unknown,@MST,3653534,PL,pl_vigil_rc10
-372,Worse Comp Format,Unknown,3653526,PL,pl_vigil_rc10
-373,Ohio Leif Village,Dreamybull's Kitchen,3653522,PL,pl_vigil_rc10
-374,somebody help,Impostors,3653519,PL,pl_vigil_rc10
-375,Run It Back,The Duddy Dudes,3653518,PL,pl_vigil_rc10
-376,The Hardworking Hornets,FroggieLand,3653513,PL,pl_vigil_rc10
-377,@MST,Unknown,3653509,PL,pl_vigil_rc10
-378,Dreamybull's Kitchen,Ohio Leif Village,3653502,PL,pl_vigil_rc10
-379,Ohio Leif Village,Dreamybull's Kitchen,3653495,PL,pl_vigil_rc10
-380,Unknown,Worse Comp Format,3653487,PL,pl_vigil_rc10
-381,The Duddy Dudes,Run It Back,3653484,PL,pl_vigil_rc10
-382,Unknown,@MST,3653477,PL,pl_vigil_rc10
-383,Impostors,somebody help,3653472,PL,pl_vigil_rc10
-384,The Hardworking Hornets,Ohio Leif Village,3653461,PL,pl_vigil_rc10
-385,Worse Comp Format,Dreamybull's Kitchen,3653453,PL,pl_vigil_rc10
-386,The Hardworking Hornets,Ohio Leif Village,3653449,PL,pl_vigil_rc10
-387,@MST,Run It Back,3653444,PL,pl_vigil_rc10
-388,FroggieLand,somebody help,3653435,PL,pl_vigil_rc10
-389,Unknown,Impostors,3653433,PL,pl_vigil_rc10
-390,Dreamybull's Kitchen,Worse Comp Format,3653426,PL,pl_vigil_rc10
-391,somebody help,Unknown,3653414,PL,pl_vigil_rc10
-392,Ohio Leif Village,The Hardworking Hornets,3653400,PL,pl_vigil_rc10
-393,Impostors,Unknown,3653392,PL,pl_vigil_rc10
-394,Run It Back,@MST,3653391,PL,pl_vigil_rc10
-395,Worse Comp Format,Dreamybull's Kitchen,3653390,PL,pl_vigil_rc10
-396,Ohio Leif Village,FroggieLand,3652839,PL,pl_vigil_rc10
-397,@MST,Dreamybull's Kitchen,3652832,PL,pl_vigil_rc10
-398,Ohio Leif Village,FroggieLand,3652831,PL,pl_vigil_rc10
-399,The Duddy Dudes,The Hardworking Hornets,3652823,PL,pl_vigil_rc10
-400,Unknown,Impostors,3652821,PL,pl_vigil_rc10
-401,Dreamybull's Kitchen,@MST,3652819,PL,pl_vigil_rc10
-402,Run It Back,somebody help,3652812,PL,pl_vigil_rc10
-403,The Duddy Dudes,The Hardworking Hornets,3652800,PL,pl_vigil_rc10
-404,FroggieLand,Ohio Leif Village,3652794,PL,pl_vigil_rc10
-405,Impostors,Unknown,3652783,PL,pl_vigil_rc10
-406,somebody help,Run It Back,3652775,PL,pl_vigil_rc10
-407,@MST,Dreamybull's Kitchen,3652773,PL,pl_vigil_rc10
-408,The Hardworking Hornets,The Duddy Dudes,3652768,PL,pl_vigil_rc10
-409,Ohio Leif Village,FroggieLand,3652765,PL,pl_vigil_rc10
-410,FroggieLand,Dreamybull's Kitchen,3652759,PL,pl_vigil_rc10
-411,FroggieLand,Dreamybull's Kitchen,3652756,PL,pl_vigil_rc10
-412,Run It Back,Impostors,3652755,PL,pl_vigil_rc10
-413,The Duddy Dudes,somebody help,3652744,PL,pl_vigil_rc10
-414,The Hardworking Hornets,Ohio Leif Village,3652743,PL,pl_vigil_rc10
-415,Unknown,@MST,3652737,PL,pl_vigil_rc10
-416,Ohio Leif Village,The Hardworking Hornets,3652725,PL,pl_vigil_rc10
-417,Impostors,Run It Back,3652723,PL,pl_vigil_rc10
-418,Dreamybull's Kitchen,FroggieLand,3652720,PL,pl_vigil_rc10
-419,somebody help,The Duddy Dudes,3652713,PL,pl_vigil_rc10
-420,@MST,Unknown,3652704,PL,pl_vigil_rc10
-421,The Duddy Dudes,somebody help,3652703,PL,pl_vigil_rc10
-422,Run It Back,Impostors,3652697,PL,pl_vigil_rc10
-423,The Hardworking Hornets,Ohio Leif Village,3652693,PL,pl_vigil_rc10
-424,somebody help,The Duddy Dudes,3652690,PL,pl_vigil_rc10
-425,Dreamybull's Kitchen,Ohio Leif Village,3649865,PL,pl_upward_f10
-426,@MST,Impostors,3649855,PL,pl_upward_f11
-427,Unknown,Run It Back,3649830,KOTH,koth_cascade_rc1a
-428,Unknown,Run It Back,3649808,KOTH,koth_cascade_rc1a
-429,Ohio Leif Village,Dreamybull's Kitchen,3649798,KOTH,koth_ashville_final1
-430,Impostors,@MST,3649793,KOTH,koth_product_final
-431,Unknown,Dreamybull's Kitchen,3649780,KOTH,koth_product_final
-432,Run It Back,FroggieLand,3649777,PL,pl_upward_f12
-433,Dreamybull's Kitchen,Unknown,3649763,PL,pl_vigil_rc10
-434,@MST,Unknown,3649762,PL,pl_vigil_rc10
-435,Impostors,Unknown,3649740,KOTH,koth_product_final
-436,Run It Back,FroggieLand,3649736,KOTH,koth_ashville_final
-437,Unknown,Dreamybull's Kitchen,3649734,PL,pl_vigil_rc10
-438,Impostors,Unknown,3649727,PL,pl_vigil_rc10
-439,Run It Back,FroggieLand,3649721,KOTH,koth_ashville_final
-440,Unknown,@MST,3649720,KOTH,koth_product_final
-441,Ohio Leif Village,Run It Back,3649223,KOTH,koth_product_final
-442,FroggieLand,Impostors,3649208,KOTH,koth_product_final
-443,Run It Back,Ohio Leif Village,3649200,PL,pl_upward_f12
-444,FroggieLand,Impostors,3649187,PL,pl_vigil_rc10
-445,Dreamybull's Kitchen,Unknown,3649175,KOTH,koth_product_final
-446,@MST,Run It Back,3649174,KOTH,koth_ashville_final
-447,Ohio Leif Village,Unknown,3649169,KOTH,koth_cascade_rc1a
-448,Impostors,Unknown,3649160,PL,pl_vigil_rc10
-449,@MST,Run It Back,3649159,KOTH,koth_ashville_final
-450,Dreamybull's Kitchen,Unknown,3649148,KOTH,koth_product_final
-451,Run It Back,@MST,3649133,PL,pl_vigil_rc10
-452,Unknown,Dreamybull's Kitchen,3649124,PL,pl_vigil_rc10
-453,Unknown,Ohio Leif Village,3649123,KOTH,koth_lakeside_r2
-454,Unknown,Impostors,3649121,KOTH,koth_product_final
-455,Dreamybull's Kitchen,@MST,3648542,PL,pl_vigil_rc9
-456,Run It Back,Impostors,3648536,PL,pl_vigil_rc10
-457,FroggieLand,Ohio Leif Village,3648532,KOTH,koth_ashville_final1
-458,Ohio Leif Village,FroggieLand,3648510,PL,pl_swiftwater_final1
-459,@MST,Dreamybull's Kitchen,3648501,KOTH,koth_product_final
-460,Impostors,Run It Back,3648500,KOTH,koth_product_final
-461,Dreamybull's Kitchen,Run It Back,3648471,PL,pl_vigil_rc10
-462,FroggieLand,Unknown,3648464,KOTH,koth_ashville_final1
-463,Ohio Leif Village,The Duddy Dudes,3648463,PL,pl_upward_f11
-464,The Duddy Dudes,Ohio Leif Village,3648449,PL,pl_upward_f11
-465,Impostors,Unknown,3648444,KOTH,koth_product_final
-466,Unknown,FroggieLand,3648438,PL,pl_upward_f11
-467,Unknown,Impostors,3648425,PL,pl_vigil_rc10
-468,The Duddy Dudes,Ohio Leif Village,3648422,KOTH,koth_ashville_final
-469,Run It Back,Dreamybull's Kitchen,3648419,KOTH,koth_ashville_final
-470,@MST,Unknown,3645921,PL,pl_vigil_rc10
-471,Dreamybull's Kitchen,Worse Comp Format,3645912,PL,pl_vigil_rc10
-472,Unknown,@MST,3645886,PL,pl_vigil_rc10
-473,Impostors,Unknown,3645873,KOTH,koth_product_final
-474,Dreamybull's Kitchen,Worse Comp Format,3645858,KOTH,koth_product_final
-475,Unknown,Impostors,3645843,PL,pl_vigil_rc10
-476,Unknown,@MST,3645839,KOTH,koth_ashville_final
-477,Dreamybull's Kitchen,Ohio Leif Village,3645816,KOTH,koth_lakeside_final
-478,@MST,Run It Back,3645805,KOTH,koth_ashville_final
-479,Worse Comp Format,Unknown,3645798,PL,pl_vigil_rc10
-480,Ohio Leif Village,Dreamybull's Kitchen,3645790,PL,pl_upward_f10
-481,@MST,Run It Back,3645787,PL,pl_vigil_rc10
-482,Run It Back,@MST,3645765,PL,pl_vigil_rc10
-483,Worse Comp Format,Unknown,3645760,KOTH,koth_lakeside_r2
-484,The Hardworking Hornets,Ohio Leif Village,3645370,PL,pl_vigil_rc10
-485,Dreamybull's Kitchen,@MST,3645366,PL,pl_vigil_rc10
-486,Run It Back,The Duddy Dudes,3645350,KOTH,koth_product_final
-487,Unknown,Impostors,3645337,KOTH,koth_ashville_final1
-488,Dreamybull's Kitchen,@MST,3645325,KOTH,koth_ashville_final
-489,The Hardworking Hornets,Ohio Leif Village,3645320,KOTH,koth_product_final
-490,Run It Back,The Duddy Dudes,3645316,KOTH,koth_cascade_rc1a
-491,Impostors,Unknown,3645310,PL,pl_vigil_rc10
-492,Ohio Leif Village,Dreamybull's Kitchen,3645305,PL,pl_upward_f11
-493,@MST,Unknown,3645281,KOTH,koth_ashville_final1
-494,The Duddy Dudes,Unknown,3645268,PL,pl_vigil_rc10
-495,@MST,Unknown,3645263,KOTH,koth_lakeside_r2
-496,Ohio Leif Village,Dreamybull's Kitchen,3645262,KOTH,koth_ashville_final1
-497,Unknown,Impostors,3645252,KOTH,koth_ashville_final1
-498,The Duddy Dudes,Unknown,3645231,KOTH,koth_lakeside_r2
-499,@MST,Unknown,3645230,KOTH,koth_lakeside_r2
-500,Unknown,Impostors,3645229,PL,pl_vigil_rc10
-501,Unknown,@MST,3644780,PL,pl_vigil_rc10
-502,Run It Back,Unknown,3644766,PL,pl_vigil_rc10
-503,Unknown,Dreamybull's Kitchen,3644758,KOTH,koth_lakeside_r2
-504,Unknown,Run It Back,3644754,PL,pl_vigil_rc10
-505,Unknown,@MST,3644746,KOTH,koth_product_final
-506,Impostors,Unknown,3644732,KOTH,koth_product_final
-507,Unknown,@MST,3644731,KOTH,koth_product_final
-508,Dreamybull's Kitchen,Unknown,3644726,KOTH,koth_ashville_final1
-509,Run It Back,Unknown,3644722,KOTH,koth_product_final
-510,Unknown,Impostors,3644718,PL,pl_vigil_rc10
-511,Dreamybull's Kitchen,Run It Back,3644702,PL,pl_vigil_rc10
-512,The Duddy Dudes,Unknown,3644697,PL,pl_swiftwater_final1
-513,Impostors,Unknown,3644681,KOTH,koth_product_final
-514,Run It Back,Dreamybull's Kitchen,3644678,KOTH,koth_product_final
-515,Unknown,Impostors,3644667,PL,pl_vigil_rc10
-516,Unknown,The Duddy Dudes,3644666,KOTH,koth_product_final
-517,Unknown,FroggieLand,3641746,PL,pl_upward_f11
-518,somebody help,@MST,3641712,PL,pl_vigil_rc10
-519,FroggieLand,Unknown,3641711,KOTH,koth_product_final
-520,somebody help,@MST,3641679,PL,pl_vigil_rc10
-521,Unknown,Dreamybull's Kitchen,3641678,KOTH,koth_product_final
-522,Impostors,Unknown,3641676,PL,pl_vigil_rc10
-523,FroggieLand,Unknown,3641669,KOTH,koth_ashville_final
-524,Impostors,Unknown,3641647,KOTH,koth_ashville_final1
-525,somebody help,@MST,3641636,PL,pl_upward_f10
-526,Unknown,FroggieLand,3641621,PL,pl_vigil_rc10
-527,Unknown,Impostors,3641618,PL,pl_swiftwater_final1
-528,Unknown,Dreamybull's Kitchen,3641615,KOTH,koth_ashville_final1
-529,@MST,somebody help,3641587,KOTH,koth_product_final
-530,FroggieLand,Unknown,3641586,KOTH,koth_ashville_final1
-531,Unknown,Dreamybull's Kitchen,3641583,KOTH,koth_product_final
-532,Impostors,Unknown,3641580,KOTH,koth_product_final
-533,@MST,Unknown,3641159,PL,pl_vigil_rc10
-534,FroggieLand,Impostors,3641153,PL,pl_upward_f11
-535,Dreamybull's Kitchen,Ohio Leif Village,3641147,KOTH,koth_product_final
-536,Dreamybull's Kitchen,Ohio Leif Village,3641125,KOTH,koth_ashville_final
-537,@MST,Unknown,3641108,KOTH,koth_ashville_final
-538,FroggieLand,Impostors,3641107,KOTH,koth_ashville_final1
-539,somebody help,Unknown,3641091,PL,pl_vigil_rc10
-540,Dreamybull's Kitchen,Unknown,3641086,KOTH,koth_product_final
-541,Unknown,FroggieLand,3641083,PL,pl_vigil_rc10
-542,Unknown,Impostors,3641080,PL,pl_vigil_rc10
-543,@MST,Unknown,3641074,PL,pl_vigil_rc10
-544,Dreamybull's Kitchen,Unknown,3641070,KOTH,koth_product_final
-545,Dreamybull's Kitchen,Unknown,3641061,KOTH,koth_product_final
-546,Unknown,Impostors,3641049,KOTH,koth_product_final
-547,@MST,Unknown,3641048,KOTH,koth_product_final
-548,Unknown,Dreamybull's Kitchen,3641045,PL,pl_upward
-549,Unknown,somebody help,3641044,KOTH,koth_product_final
-550,FroggieLand,Unknown,3641043,KOTH,koth_ashville_final
-551,Unknown,@MST,3640490,PL,pl_upward_f11
-552,@MST,Unknown,3640458,KOTH,koth_product_final
-553,Unknown,@MST,3640425,KOTH,koth_ashville_final
-554,@MST,Unknown,3640413,PL,pl_vigil_rc10
+0,Unknown,The Hardworking Hornets,3687249,KOTH,koth_cascade_rc1a
+1,Ohio Leif Village,Dreamybull's Kitchen,3687239,KOTH,koth_cascade_rc1a
+2,Worse Comp Format,@MST,3687226,KOTH,koth_cascade_rc1a
+3,Unknown,The Hardworking Hornets,3687216,KOTH,koth_cascade_rc1a
+4,Ohio Leif Village,Dreamybull's Kitchen,3687213,KOTH,koth_cascade_rc1a
+5,FroggieLand,somebody help,3687210,KOTH,koth_cascade_rc1a
+6,Worse Comp Format,@MST,3687201,KOTH,koth_cascade_rc1a
+7,Ohio Leif Village,Dreamybull's Kitchen,3687193,KOTH,koth_cascade_rc1a
+8,FroggieLand,somebody help,3687173,KOTH,koth_cascade_rc1a
+9,The Duddy Dudes,The Hardworking Hornets,3687168,KOTH,koth_cascade_rc1a
+10,Unknown,Worse Comp Format,3687163,KOTH,koth_cascade_rc1a
+11,Ohio Leif Village,Dreamybull's Kitchen,3687157,KOTH,koth_cascade_rc1a
+12,The Duddy Dudes,The Hardworking Hornets,3687140,KOTH,koth_cascade_rc1a
+13,FroggieLand,somebody help,3687131,KOTH,koth_cascade_rc1a
+14,Ohio Leif Village,Dreamybull's Kitchen,3687130,KOTH,koth_cascade_rc1a
+15,Unknown,Worse Comp Format,3687125,KOTH,koth_cascade_rc1a
+16,The Duddy Dudes,The Hardworking Hornets,3686517,KOTH,koth_cascade_rc1a
+17,Dreamybull's Kitchen,Unknown,3686510,KOTH,koth_cascade_rc1a
+18,Dreamybull's Kitchen,Unknown,3686500,KOTH,koth_cascade_rc1a
+19,The Duddy Dudes,The Hardworking Hornets,3686498,KOTH,koth_cascade_rc1a
+20,FroggieLand,Ohio Leif Village,3686497,KOTH,koth_cascade_rc1a
+21,Unknown,somebody help,3686491,KOTH,koth_cascade_rc1a
+22,FroggieLand,Ohio Leif Village,3686472,KOTH,koth_cascade_rc1a
+23,Unknown,somebody help,3686466,KOTH,koth_cascade_rc1a
+24,The Duddy Dudes,The Hardworking Hornets,3686461,KOTH,koth_cascade_rc1a
+25,Dreamybull's Kitchen,Unknown,3686460,KOTH,koth_cascade_rc1a
+26,FroggieLand,Dreamybull's Kitchen,3686447,KOTH,koth_cascade_rc1a
+27,FroggieLand,Dreamybull's Kitchen,3686442,KOTH,koth_cascade_rc1a
+28,Unknown,somebody help,3686439,KOTH,koth_cascade_rc1a
+29,Ohio Leif Village,The Hardworking Hornets,3686429,KOTH,koth_cascade_rc1a
+30,FroggieLand,Dreamybull's Kitchen,3686405,KOTH,koth_cascade_rc1a
+31,Unknown,somebody help,3686401,KOTH,koth_cascade_rc1a
+32,Ohio Leif Village,The Hardworking Hornets,3686392,KOTH,koth_cascade_rc1a
+33,Dreamybull's Kitchen,Ohio Leif Village,3679387,CP,cp_steel
+34,Dreamybull's Kitchen,Ohio Leif Village,3679386,CP,cp_steel
+35,Worse Comp Format,The Hardworking Hornets,3679381,CP,cp_steel
+36,Run It Back,@MST,3679377,CP,cp_steel
+37,Dreamybull's Kitchen,Ohio Leif Village,3679372,CP,cp_steel
+38,The Duddy Dudes,somebody help,3679359,CP,cp_steel
+39,Worse Comp Format,The Hardworking Hornets,3679358,CP,cp_steel
+40,Ohio Leif Village,Dreamybull's Kitchen,3679334,CP,cp_steel
+41,Impostors,FroggieLand,3679333,CP,cp_steel
+42,@MST,Run It Back,3679328,CP,cp_steel
+43,somebody help,The Duddy Dudes,3679320,CP,cp_steel
+44,Impostors,FroggieLand,3679312,CP,cp_steel
+45,The Hardworking Hornets,Worse Comp Format,3679304,CP,cp_steel
+46,FroggieLand,Impostors,3679300,CP,cp_steel
+47,The Duddy Dudes,somebody help,3679292,CP,cp_steel
+48,Dreamybull's Kitchen,Ohio Leif Village,3679291,CP,cp_steel
+49,Run It Back,@MST,3679282,CP,cp_steel
+50,Dreamybull's Kitchen,Run It Back,3679267,CP,cp_steel
+51,somebody help,@MST,3679262,CP,cp_steel
+52,Impostors,Unknown,3679260,CP,cp_steel
+53,Ohio Leif Village,The Duddy Dudes,3679259,CP,cp_steel
+54,The Hardworking Hornets,FroggieLand,3679256,CP,cp_steel
+55,Unknown,Worse Comp Format,3679253,CP,cp_steel
+56,Dreamybull's Kitchen,Run It Back,3679250,CP,cp_steel
+57,The Duddy Dudes,Ohio Leif Village,3679243,CP,cp_steel
+58,Run It Back,Dreamybull's Kitchen,3679240,CP,cp_steel
+59,Worse Comp Format,Unknown,3679237,CP,cp_steel
+60,Unknown,Impostors,3679222,CP,cp_steel
+61,@MST,somebody help,3679221,CP,cp_steel
+62,Ohio Leif Village,The Duddy Dudes,3679220,CP,cp_steel
+63,FroggieLand,The Hardworking Hornets,3679212,CP,cp_steel
+64,Unknown,Worse Comp Format,3679209,CP,cp_steel
+65,somebody help,@MST,3679202,CP,cp_steel
+66,Run It Back,Dreamybull's Kitchen,3679197,CP,cp_steel
+67,The Duddy Dudes,Ohio Leif Village,3679194,CP,cp_steel
+68,Impostors,Unknown,3679189,CP,cp_steel
+69,The Hardworking Hornets,FroggieLand,3679185,CP,cp_steel
+70,Worse Comp Format,@MST,3678716,CP,cp_steel
+71,Worse Comp Format,Unknown,3678715,CP,cp_steel
+72,Run It Back,Ohio Leif Village,3678705,CP,cp_steel
+73,@MST,Worse Comp Format,3678702,CP,cp_steel
+74,somebody help,FroggieLand,3678699,CP,cp_steel
+75,Unknown,The Hardworking Hornets,3678686,CP,cp_steel
+76,somebody help,FroggieLand,3678682,CP,cp_steel
+77,Dreamybull's Kitchen,The Duddy Dudes,3678681,CP,cp_steel
+78,Dreamybull's Kitchen,The Duddy Dudes,3678672,CP,cp_steel
+79,Ohio Leif Village,Run It Back,3678669,CP,cp_steel
+80,Worse Comp Format,@MST,3678668,CP,cp_steel
+81,The Hardworking Hornets,Unknown,3678660,CP,cp_steel
+82,Dreamybull's Kitchen,The Duddy Dudes,3678655,CP,cp_steel
+83,@MST,Worse Comp Format,3678640,CP,cp_steel
+84,FroggieLand,somebody help,3678635,CP,cp_steel
+85,Run It Back,Ohio Leif Village,3678633,CP,cp_steel
+86,@MST,Unknown,3678632,CP,cp_steel
+87,The Duddy Dudes,Dreamybull's Kitchen,3678630,CP,cp_steel
+88,Unknown,The Hardworking Hornets,3678624,CP,cp_steel
+89,Ohio Leif Village,The Duddy Dudes,3678616,CP,cp_steel
+90,The Hardworking Hornets,Dreamybull's Kitchen,3678608,CP,cp_steel
+91,somebody help,FroggieLand,3678601,CP,cp_steel
+92,The Hardworking Hornets,Dreamybull's Kitchen,3678596,CP,cp_steel
+93,Worse Comp Format,Unknown,3678591,CP,cp_steel
+94,@MST,Unknown,3678588,CP,cp_steel
+95,Ohio Leif Village,The Duddy Dudes,3678575,CP,cp_steel
+96,Dreamybull's Kitchen,The Hardworking Hornets,3678571,CP,cp_steel
+97,Unknown,@MST,3678566,CP,cp_steel
+98,Unknown,Worse Comp Format,3678553,CP,cp_steel
+99,FroggieLand,somebody help,3678548,CP,cp_steel
+100,@MST,Unknown,3678546,CP,cp_steel
+101,The Duddy Dudes,Ohio Leif Village,3678545,CP,cp_steel
+102,The Hardworking Hornets,Dreamybull's Kitchen,3678541,CP,cp_steel
+103,Dreamybull's Kitchen,Unknown,3678010,CP,cp_steel
+104,Ohio Leif Village,Unknown,3678008,CP,cp_steel
+105,@MST,Dreamybull's Kitchen,3677979,CP,cp_steel
+106,Impostors,Unknown,3677973,CP,cp_steel
+107,Ohio Leif Village,Unknown,3677963,CP,cp_steel
+108,The Duddy Dudes,The Hardworking Hornets,3677961,CP,cp_steel
+109,Dreamybull's Kitchen,@MST,3677952,CP,cp_steel
+110,Unknown,Impostors,3677947,CP,cp_steel
+111,The Hardworking Hornets,The Duddy Dudes,3677934,CP,cp_steel
+112,Unknown,Ohio Leif Village,3677929,CP,cp_steel
+113,@MST,Dreamybull's Kitchen,3677925,CP,cp_steel
+114,Impostors,Unknown,3677920,CP,cp_steel
+115,Dreamybull's Kitchen,Unknown,3677911,CP,cp_steel
+116,Unknown,@MST,3677906,CP,cp_steel
+117,Unknown,@MST,3677900,CP,cp_steel
+118,Unknown,The Hardworking Hornets,3677891,CP,cp_steel
+119,Unknown,Dreamybull's Kitchen,3677888,CP,cp_steel
+120,Run It Back,Impostors,3677883,CP,cp_steel
+121,@MST,Unknown,3677878,CP,cp_steel
+122,Dreamybull's Kitchen,Unknown,3677875,CP,cp_steel
+123,Unknown,@MST,3677864,CP,cp_steel
+124,Impostors,Run It Back,3677861,CP,cp_steel
+125,The Hardworking Hornets,Unknown,3677854,CP,cp_steel
+126,Unknown,Dreamybull's Kitchen,3677853,CP,cp_steel
+127,@MST,Unknown,3677851,CP,cp_steel
+128,somebody help,Run It Back,3675122,KOTH,koth_lakeside_r2
+129,@MST,Unknown,3675111,KOTH,koth_lakeside_r2
+130,@MST,Unknown,3675076,KOTH,koth_lakeside_r2
+131,somebody help,Run It Back,3675074,KOTH,koth_lakeside_r2
+132,Ohio Leif Village,The Hardworking Hornets,3675061,KOTH,koth_lakeside_r2
+133,Dreamybull's Kitchen,FroggieLand,3675056,KOTH,koth_lakeside_r2
+134,Dreamybull's Kitchen,FroggieLand,3675032,KOTH,koth_lakeside_r2
+135,@MST,Unknown,3675014,KOTH,koth_lakeside_r2
+136,somebody help,Run It Back,3675008,KOTH,koth_lakeside_r2
+137,Ohio Leif Village,The Hardworking Hornets,3675001,KOTH,koth_lakeside_r2
+138,Dreamybull's Kitchen,FroggieLand,3675000,KOTH,koth_lakeside_r2
+139,Worse Comp Format,The Duddy Dudes,3674995,KOTH,koth_lakeside_r2
+140,Worse Comp Format,The Duddy Dudes,3674986,KOTH,koth_lakeside_r2
+141,FroggieLand,The Hardworking Hornets,3674963,KOTH,koth_lakeside_r2
+142,somebody help,@MST,3674962,KOTH,koth_lakeside_r2
+143,Ohio Leif Village,The Duddy Dudes,3674952,KOTH,koth_lakeside_r2
+144,Dreamybull's Kitchen,Run It Back,3674951,KOTH,koth_lakeside_r2
+145,Ohio Leif Village,The Duddy Dudes,3674923,KOTH,koth_lakeside_r2
+146,FroggieLand,The Hardworking Hornets,3674921,KOTH,koth_lakeside_r2
+147,somebody help,@MST,3674915,KOTH,koth_lakeside_r2
+148,Dreamybull's Kitchen,Run It Back,3674910,KOTH,koth_lakeside_r2
+149,Dreamybull's Kitchen,The Hardworking Hornets,3674498,KOTH,koth_lakeside_r2
+150,Ohio Leif Village,Dreamybull's Kitchen,3674496,KOTH,koth_lakeside_r2
+151,Unknown,@MST,3674485,KOTH,koth_lakeside_r2
+152,Unknown,Worse Comp Format,3674482,KOTH,koth_lakeside_r2
+153,Ohio Leif Village,Dreamybull's Kitchen,3674474,KOTH,koth_lakeside_r2
+154,Unknown,@MST,3674472,KOTH,koth_lakeside_r2
+155,FroggieLand,somebody help,3674469,KOTH,koth_lakeside_r2
+156,FroggieLand,somebody help,3674444,KOTH,koth_lakeside_r2
+157,Unknown,The Hardworking Hornets,3674442,KOTH,koth_lakeside_r2
+158,Run It Back,The Duddy Dudes,3674438,KOTH,koth_lakeside_r2
+159,Unknown,Worse Comp Format,3674421,KOTH,koth_lakeside_r2
+160,Unknown,@MST,3674419,KOTH,koth_lakeside_r2
+161,Ohio Leif Village,Dreamybull's Kitchen,3674414,KOTH,koth_lakeside_r2
+162,Unknown,The Hardworking Hornets,3674408,KOTH,koth_lakeside_r2
+163,FroggieLand,somebody help,3674407,KOTH,koth_lakeside_r2
+164,Run It Back,The Duddy Dudes,3674405,KOTH,koth_lakeside_r2
+165,Worse Comp Format,Unknown,3674393,KOTH,koth_lakeside_r2
+166,FroggieLand,somebody help,3674377,KOTH,koth_lakeside_r2
+167,The Duddy Dudes,Ohio Leif Village,3674372,KOTH,koth_lakeside_r2
+168,Worse Comp Format,Unknown,3674363,KOTH,koth_lakeside_r2
+169,Dreamybull's Kitchen,The Hardworking Hornets,3674358,KOTH,koth_lakeside_r2
+170,Unknown,Impostors,3674355,KOTH,koth_lakeside_r2
+171,Run It Back,@MST,3674354,KOTH,koth_lakeside_r2
+172,FroggieLand,somebody help,3674347,KOTH,koth_lakeside_r2
+173,Run It Back,@MST,3674336,KOTH,koth_lakeside_r2
+174,The Duddy Dudes,Ohio Leif Village,3674335,KOTH,koth_lakeside_r2
+175,Worse Comp Format,Unknown,3674334,KOTH,koth_lakeside_r2
+176,Dreamybull's Kitchen,The Hardworking Hornets,3674330,KOTH,koth_lakeside_r2
+177,Unknown,Ohio Leif Village,3673820,KOTH,koth_lakeside_r2
+178,Dreamybull's Kitchen,somebody help,3673812,KOTH,koth_lakeside_r2
+179,Unknown,Ohio Leif Village,3673806,KOTH,koth_lakeside_r2
+180,Dreamybull's Kitchen,somebody help,3673782,KOTH,koth_lakeside_r2
+181,Unknown,Ohio Leif Village,3673780,KOTH,koth_lakeside_r2
+182,The Duddy Dudes,The Hardworking Hornets,3673779,KOTH,koth_lakeside_r2
+183,The Hardworking Hornets,Dreamybull's Kitchen,3673775,KOTH,koth_lakeside_r2
+184,The Duddy Dudes,somebody help,3673755,KOTH,koth_lakeside_r2
+185,The Hardworking Hornets,Dreamybull's Kitchen,3673740,KOTH,koth_lakeside_r2
+186,The Duddy Dudes,somebody help,3673734,KOTH,koth_lakeside_r2
+187,The Duddy Dudes,somebody help,3673718,KOTH,koth_lakeside_r2
+188,The Hardworking Hornets,Dreamybull's Kitchen,3673715,KOTH,koth_lakeside_r2
+189,FroggieLand,somebody help,3671156,PL,pl_upward_f12
+190,Dreamybull's Kitchen,@MST,3671153,PL,pl_upward_f12
+191,FroggieLand,somebody help,3671147,PL,pl_upward_f12
+192,The Hardworking Hornets,The Duddy Dudes,3671142,PL,pl_upward_f12
+193,Worse Comp Format,Ohio Leif Village,3671140,PL,pl_upward_f12
+194,Dreamybull's Kitchen,@MST,3671111,PL,pl_upward_f12
+195,Impostors,Run It Back,3671101,PL,pl_upward_f12
+196,Ohio Leif Village,Worse Comp Format,3671088,PL,pl_upward_f12
+197,Impostors,Run It Back,3671084,PL,pl_upward_f12
+198,somebody help,FroggieLand,3671081,PL,pl_upward_f12
+199,The Duddy Dudes,The Hardworking Hornets,3671072,PL,pl_upward_f12
+200,Run It Back,Impostors,3671059,PL,pl_upward_f12
+201,@MST,Dreamybull's Kitchen,3671056,PL,pl_upward_f12
+202,Worse Comp Format,Unknown,3671045,PL,pl_upward_f12
+203,The Hardworking Hornets,FroggieLand,3671041,PL,pl_upward_f12
+204,Ohio Leif Village,The Duddy Dudes,3671034,PL,pl_upward_f12
+205,Run It Back,Dreamybull's Kitchen,3671016,PL,pl_upward_f12
+206,Unknown,Worse Comp Format,3671009,PL,pl_upward_f12
+207,FroggieLand,The Hardworking Hornets,3671000,PL,pl_upward_f12
+208,The Duddy Dudes,Ohio Leif Village,3670999,PL,pl_upward_f12
+209,Unknown,Impostors,3670997,PL,pl_upward_f12
+210,@MST,somebody help,3670996,PL,pl_upward_f12
+211,Dreamybull's Kitchen,Run It Back,3670990,PL,pl_upward_f12
+212,Worse Comp Format,Unknown,3670979,PL,pl_upward_f12
+213,The Hardworking Hornets,FroggieLand,3670972,PL,pl_upward_f12
+214,somebody help,@MST,3670963,PL,pl_upward_f12
+215,Impostors,Unknown,3670962,PL,pl_upward_f12
+216,Run It Back,Dreamybull's Kitchen,3670961,PL,pl_upward_f12
+217,Ohio Leif Village,somebody help,3670497,PL,pl_upward_f11
+218,Unknown,Worse Comp Format,3670491,PL,pl_upward_f12
+219,@MST,Unknown,3670484,PL,pl_upward_f12
+220,Unknown,The Hardworking Hornets,3670473,PL,pl_upward_f12
+221,The Duddy Dudes,Run It Back,3670469,PL,pl_upward_f11
+222,@MST,Unknown,3670464,PL,pl_upward_f12
+223,somebody help,Ohio Leif Village,3670456,PL,pl_upward_f11
+224,Worse Comp Format,Unknown,3670453,PL,pl_upward_f12
+225,Unknown,The Hardworking Hornets,3670451,PL,pl_upward_f12
+226,Unknown,@MST,3670429,PL,pl_upward_f12
+227,Ohio Leif Village,somebody help,3670428,PL,pl_upward_f11
+228,The Hardworking Hornets,Unknown,3670427,PL,pl_upward_f12
+229,Run It Back,The Duddy Dudes,3670426,PL,pl_upward_f11
+230,Ohio Leif Village,somebody help,3670411,PL,pl_upward_f11
+231,The Hardworking Hornets,Dreamybull's Kitchen,3670400,PL,pl_upward_f12
+232,The Hardworking Hornets,Dreamybull's Kitchen,3670398,PL,pl_upward_f12
+233,@MST,Run It Back,3670392,PL,pl_upward_f12
+234,Unknown,somebody help,3670384,PL,pl_upward_f10
+235,The Duddy Dudes,Ohio Leif Village,3670380,PL,pl_upward_f11
+236,Run It Back,@MST,3670354,PL,pl_upward_f12
+237,The Hardworking Hornets,Dreamybull's Kitchen,3670353,PL,pl_upward_f12
+238,somebody help,Unknown,3670352,PL,pl_upward_f10
+239,Ohio Leif Village,The Duddy Dudes,3670348,PL,pl_upward_f11
+240,@MST,Run It Back,3670335,PL,pl_upward_f12
+241,Run It Back,somebody help,3669884,PL,pl_upward_f10
+242,Run It Back,somebody help,3669879,PL,pl_upward_f10
+243,Ohio Leif Village,Dreamybull's Kitchen,3669867,PL,pl_upward_f10
+244,Ohio Leif Village,Dreamybull's Kitchen,3669856,PL,pl_upward_f10
+245,Run It Back,somebody help,3669855,PL,pl_upward_f10
+246,The Duddy Dudes,@MST,3669842,PL,pl_upward_f11
+247,somebody help,Run It Back,3669829,PL,pl_upward_f10
+248,Dreamybull's Kitchen,Ohio Leif Village,3669818,PL,pl_upward_f10
+249,@MST,The Duddy Dudes,3669812,PL,pl_upward_f11
+250,Ohio Leif Village,Unknown,3669805,PL,pl_upward_f12
+251,Dreamybull's Kitchen,Unknown,3669804,PL,pl_upward_f12
+252,Dreamybull's Kitchen,Unknown,3669792,PL,pl_upward_f12
+253,@MST,Unknown,3669791,PL,pl_upward_f12
+254,Unknown,Dreamybull's Kitchen,3669770,PL,pl_upward_f12
+255,Ohio Leif Village,Unknown,3669765,PL,pl_upward_f12
+256,Unknown,@MST,3669758,PL,pl_upward_f12
+257,Dreamybull's Kitchen,Unknown,3669741,PL,pl_upward_f12
+258,FroggieLand,Ohio Leif Village,3666931,KOTH,koth_ashville_final1
+259,Run It Back,The Hardworking Hornets,3666919,KOTH,koth_ashville_final1
+260,Impostors,Worse Comp Format,3666913,KOTH,koth_ashville_final1
+261,FroggieLand,Ohio Leif Village,3666908,KOTH,koth_ashville_final1
+262,somebody help,@MST,3666897,KOTH,koth_ashville_final1
+263,Dreamybull's Kitchen,The Duddy Dudes,3666890,KOTH,koth_ashville_final
+264,Dreamybull's Kitchen,The Duddy Dudes,3666874,KOTH,koth_ashville_final
+265,Impostors,Worse Comp Format,3666866,KOTH,koth_ashville_final1
+266,FroggieLand,Ohio Leif Village,3666860,KOTH,koth_ashville_final1
+267,somebody help,@MST,3666855,KOTH,koth_ashville_final1
+268,Run It Back,The Hardworking Hornets,3666848,KOTH,koth_ashville_final1
+269,Dreamybull's Kitchen,The Duddy Dudes,3666845,KOTH,koth_ashville_final
+270,Run It Back,Dreamybull's Kitchen,3666823,KOTH,koth_ashville_final1
+271,Unknown,Worse Comp Format,3666813,KOTH,koth_ashville_final1
+272,Run It Back,Dreamybull's Kitchen,3666810,KOTH,koth_ashville_final1
+273,Impostors,@MST,3666803,KOTH,koth_ashville_final1
+274,FroggieLand,The Hardworking Hornets,3666796,KOTH,koth_ashville_final1
+275,Ohio Leif Village,The Duddy Dudes,3666794,KOTH,koth_ashville_final
+276,Unknown,Worse Comp Format,3666771,KOTH,koth_ashville_final1
+277,Ohio Leif Village,The Duddy Dudes,3666756,KOTH,koth_ashville_final
+278,FroggieLand,The Hardworking Hornets,3666746,KOTH,koth_ashville_final1
+279,Impostors,@MST,3666745,KOTH,koth_ashville_final1
+280,Run It Back,Dreamybull's Kitchen,3666744,KOTH,koth_ashville_final1
+281,FroggieLand,somebody help,3666268,KOTH,koth_ashville_final1
+282,Ohio Leif Village,Dreamybull's Kitchen,3666264,KOTH,koth_ashville_final1
+283,Ohio Leif Village,Dreamybull's Kitchen,3666257,KOTH,koth_ashville_final1
+284,@MST,Unknown,3666254,KOTH,koth_ashville_final1
+285,FroggieLand,somebody help,3666230,KOTH,koth_ashville_final1
+286,Ohio Leif Village,Dreamybull's Kitchen,3666223,KOTH,koth_ashville_final1
+287,The Duddy Dudes,Run It Back,3666222,KOTH,koth_ashville_final1
+288,The Hardworking Hornets,Unknown,3666215,KOTH,koth_ashville_final1
+289,@MST,Unknown,3666189,KOTH,koth_ashville_final1
+290,The Hardworking Hornets,Unknown,3666188,KOTH,koth_ashville_final1
+291,Ohio Leif Village,Dreamybull's Kitchen,3666180,KOTH,koth_ashville_final1
+292,FroggieLand,somebody help,3666179,KOTH,koth_ashville_final1
+293,The Duddy Dudes,Run It Back,3666178,KOTH,koth_ashville_final1
+294,The Hardworking Hornets,Dreamybull's Kitchen,3666174,KOTH,koth_ashville_final1
+295,FroggieLand,somebody help,3666163,KOTH,koth_ashville_final1
+296,The Hardworking Hornets,Dreamybull's Kitchen,3666160,KOTH,koth_ashville_final1
+297,Unknown,Worse Comp Format,3666155,KOTH,koth_ashville_final1
+298,@MST,Unknown,3666152,KOTH,koth_ashville_final1
+299,The Duddy Dudes,Ohio Leif Village,3666147,KOTH,koth_ashville_final1
+300,Unknown,Worse Comp Format,3666129,KOTH,koth_ashville_final1
+301,@MST,Unknown,3666121,KOTH,koth_ashville_final1
+302,The Hardworking Hornets,Dreamybull's Kitchen,3666119,KOTH,koth_ashville_final1
+303,FroggieLand,somebody help,3666118,KOTH,koth_ashville_final1
+304,The Duddy Dudes,Ohio Leif Village,3666114,KOTH,koth_ashville_final1
+305,Worse Comp Format,Unknown,3665599,KOTH,koth_ashville_final1
+306,Impostors,Unknown,3665587,KOTH,koth_ashville_final1
+307,Dreamybull's Kitchen,@MST,3665578,KOTH,koth_ashville_final1
+308,Impostors,Unknown,3665572,KOTH,koth_ashville_final1
+309,Dreamybull's Kitchen,@MST,3665570,KOTH,koth_ashville_final1
+310,The Duddy Dudes,The Hardworking Hornets,3665563,KOTH,koth_ashville_final
+311,Unknown,somebody help,3665561,KOTH,koth_ashville_final1
+312,Worse Comp Format,Unknown,3665548,KOTH,koth_ashville_final1
+313,Dreamybull's Kitchen,@MST,3665543,KOTH,koth_ashville_final1
+314,Impostors,Unknown,3665539,KOTH,koth_ashville_final1
+315,Unknown,somebody help,3665537,KOTH,koth_ashville_final1
+316,The Duddy Dudes,The Hardworking Hornets,3665536,KOTH,koth_ashville_final
+317,Unknown,Dreamybull's Kitchen,3665525,KOTH,koth_ashville_final1
+318,Impostors,Unknown,3665523,KOTH,koth_ashville_final1
+319,Unknown,Dreamybull's Kitchen,3665521,KOTH,koth_ashville_final1
+320,Worse Comp Format,@MST,3665520,KOTH,koth_ashville_final1
+321,Ohio Leif Village,The Hardworking Hornets,3665515,KOTH,koth_ashville_final1
+322,Unknown,Dreamybull's Kitchen,3665499,KOTH,koth_ashville_final1
+323,Impostors,Unknown,3665495,KOTH,koth_ashville_final1
+324,The Duddy Dudes,somebody help,3665492,KOTH,koth_ashville_final1
+325,Worse Comp Format,@MST,3665489,KOTH,koth_ashville_final1
+326,Ohio Leif Village,The Hardworking Hornets,3665486,KOTH,koth_ashville_final1
+327,Impostors,Unknown,3665469,KOTH,koth_ashville_final1
+328,The Duddy Dudes,somebody help,3665467,KOTH,koth_ashville_final1
+329,Worse Comp Format,@MST,3665465,KOTH,koth_ashville_final1
+330,Ohio Leif Village,The Hardworking Hornets,3665461,KOTH,koth_ashville_final1
+331,The Duddy Dudes,somebody help,3665455,KOTH,koth_ashville_final1
+332,@MST,Worse Comp Format,3662782,PL,pl_swiftwater_final1
+333,FroggieLand,The Duddy Dudes,3662777,PL,pl_swiftwater_final1
+334,Dreamybull's Kitchen,somebody help,3662759,PL,pl_swiftwater_final1
+335,FroggieLand,The Duddy Dudes,3662757,PL,pl_swiftwater_final1
+336,Impostors,The Hardworking Hornets,3662748,PL,pl_swiftwater_final1
+337,Run It Back,Ohio Leif Village,3662745,PL,pl_swiftwater_final1
+338,Worse Comp Format,@MST,3662721,PL,pl_swiftwater_final1
+339,The Hardworking Hornets,Impostors,3662705,PL,pl_swiftwater_final1
+340,The Duddy Dudes,FroggieLand,3662694,PL,pl_swiftwater_final1
+341,Ohio Leif Village,Run It Back,3662685,PL,pl_swiftwater_final1
+342,somebody help,Dreamybull's Kitchen,3662684,PL,pl_swiftwater_final1
+343,@MST,Worse Comp Format,3662675,PL,pl_swiftwater_final1
+344,Dreamybull's Kitchen,Run It Back,3662656,PL,pl_swiftwater_final1
+345,Dreamybull's Kitchen,Run It Back,3662650,PL,pl_swiftwater_final1
+346,FroggieLand,The Hardworking Hornets,3662640,PL,pl_swiftwater_final1
+347,Ohio Leif Village,The Duddy Dudes,3662628,PL,pl_swiftwater_final1
+348,Worse Comp Format,Unknown,3662625,PL,pl_swiftwater_final1
+349,@MST,somebody help,3662623,PL,pl_swiftwater_final1
+350,Unknown,Impostors,3662614,PL,pl_swiftwater_final1
+351,Run It Back,Dreamybull's Kitchen,3662607,PL,pl_swiftwater_final1
+352,The Duddy Dudes,Ohio Leif Village,3662599,PL,pl_swiftwater_final1
+353,The Hardworking Hornets,FroggieLand,3662590,PL,pl_swiftwater_final1
+354,somebody help,@MST,3662587,PL,pl_swiftwater_final1
+355,Dreamybull's Kitchen,Run It Back,3662582,PL,pl_swiftwater_final1
+356,Impostors,Unknown,3662580,PL,pl_swiftwater_final1
+357,Ohio Leif Village,Dreamybull's Kitchen,3662182,PL,pl_swiftwater_final1
+358,@MST,Unknown,3662180,PL,pl_swiftwater_final1
+359,FroggieLand,somebody help,3662172,PL,pl_swiftwater_final1
+360,@MST,Unknown,3662166,PL,pl_swiftwater_final1
+361,Impostors,Unknown,3662162,PL,pl_swiftwater_final1
+362,The Hardworking Hornets,Worse Comp Format,3662161,PL,pl_swiftwater_final1
+363,Ohio Leif Village,Dreamybull's Kitchen,3662156,PL,pl_swiftwater_final1
+364,FroggieLand,somebody help,3662153,PL,pl_swiftwater_final1
+365,Run It Back,Unknown,3662124,PL,pl_swiftwater_final1
+366,Unknown,The Hardworking Hornets,3662118,PL,pl_swiftwater_final1
+367,Unknown,@MST,3662114,PL,pl_swiftwater_final1
+368,Unknown,Run It Back,3662110,PL,pl_swiftwater_final1
+369,Dreamybull's Kitchen,Ohio Leif Village,3662105,PL,pl_swiftwater_final1
+370,Unknown,Impostors,3662103,PL,pl_swiftwater_final1
+371,somebody help,FroggieLand,3662098,PL,pl_swiftwater_final1
+372,The Hardworking Hornets,Dreamybull's Kitchen,3662083,PL,pl_swiftwater_final1
+373,The Hardworking Hornets,Dreamybull's Kitchen,3662080,PL,pl_swiftwater_final1
+374,@MST,Run It Back,3662068,PL,pl_swiftwater_final1
+375,FroggieLand,somebody help,3662060,PL,pl_swiftwater_final1
+376,Impostors,Unknown,3662050,PL,pl_swiftwater_final1
+377,Ohio Leif Village,Unknown,3662049,PL,pl_swiftwater_final1
+378,Dreamybull's Kitchen,The Hardworking Hornets,3662036,PL,pl_swiftwater_final1
+379,Run It Back,@MST,3662028,PL,pl_swiftwater_final1
+380,Unknown,Impostors,3662026,PL,pl_swiftwater_final1
+381,somebody help,FroggieLand,3662020,PL,pl_swiftwater_final1
+382,Unknown,Ohio Leif Village,3662018,PL,pl_swiftwater_final1
+383,Unknown,Worse Comp Format,3661502,PL,pl_swiftwater_final1
+384,Impostors,Unknown,3661485,PL,pl_swiftwater_final1
+385,@MST,Dreamybull's Kitchen,3661478,PL,pl_swiftwater_final1
+386,@MST,Dreamybull's Kitchen,3661477,PL,pl_swiftwater_final1
+387,somebody help,Run It Back,3661471,PL,pl_swiftwater_final1
+388,The Duddy Dudes,The Hardworking Hornets,3661469,PL,pl_swiftwater_final1
+389,Worse Comp Format,Unknown,3661465,PL,pl_swiftwater_final1
+390,Dreamybull's Kitchen,@MST,3661459,PL,pl_swiftwater_final1
+391,FroggieLand,Ohio Leif Village,3661453,PL,pl_swiftwater_final1
+392,Unknown,Impostors,3661448,PL,pl_swiftwater_final1
+393,Ohio Leif Village,FroggieLand,3661446,PL,pl_swiftwater_final1
+394,Run It Back,somebody help,3661441,PL,pl_swiftwater_final1
+395,The Hardworking Hornets,The Duddy Dudes,3661440,PL,pl_swiftwater_final1
+396,Worse Comp Format,Unknown,3661436,PL,pl_swiftwater_final1
+397,FroggieLand,Dreamybull's Kitchen,3661424,PL,pl_swiftwater_final1
+398,FroggieLand,Dreamybull's Kitchen,3661421,PL,pl_swiftwater_final1
+399,Impostors,Run It Back,3661416,PL,pl_swiftwater_final1
+400,somebody help,The Duddy Dudes,3661406,PL,pl_swiftwater_final1
+401,The Hardworking Hornets,Ohio Leif Village,3661405,PL,pl_swiftwater_final1
+402,Unknown,Worse Comp Format,3661404,PL,pl_swiftwater_final1
+403,Impostors,Run It Back,3661400,PL,pl_swiftwater_final1
+404,The Duddy Dudes,somebody help,3661394,PL,pl_swiftwater_final1
+405,Ohio Leif Village,The Hardworking Hornets,3661391,PL,pl_swiftwater_final1
+406,Dreamybull's Kitchen,FroggieLand,3661389,PL,pl_swiftwater_final1
+407,Worse Comp Format,Unknown,3661376,PL,pl_swiftwater_final1
+408,Run It Back,Impostors,3661371,PL,pl_swiftwater_final1
+409,somebody help,The Duddy Dudes,3661370,PL,pl_swiftwater_final1
+410,The Hardworking Hornets,Ohio Leif Village,3661366,PL,pl_swiftwater_final1
+411,Ohio Leif Village,@MST,3658586,KOTH,koth_product_final
+412,The Duddy Dudes,Run It Back,3658569,KOTH,koth_product_final
+413,The Duddy Dudes,Run It Back,3658541,KOTH,koth_product_final
+414,Dreamybull's Kitchen,Worse Comp Format,3658537,KOTH,koth_product_final
+415,Impostors,somebody help,3658533,KOTH,koth_product_final
+416,Ohio Leif Village,@MST,3658521,KOTH,koth_product_final
+417,The Duddy Dudes,Run It Back,3658498,KOTH,koth_product_final
+418,Impostors,somebody help,3658495,KOTH,koth_product_final
+419,Dreamybull's Kitchen,Worse Comp Format,3658491,KOTH,koth_product_final
+420,Ohio Leif Village,@MST,3658489,KOTH,koth_product_final
+421,Dreamybull's Kitchen,Run It Back,3658460,KOTH,koth_product_final
+422,The Duddy Dudes,Ohio Leif Village,3658459,KOTH,koth_product_final
+423,Impostors,Unknown,3658437,KOTH,koth_product_final
+424,FroggieLand,Worse Comp Format,3658436,KOTH,koth_product_final
+425,Dreamybull's Kitchen,Run It Back,3658428,KOTH,koth_product_final
+426,The Duddy Dudes,Ohio Leif Village,3658421,KOTH,koth_product_final
+427,@MST,somebody help,3658416,KOTH,koth_product_final
+428,FroggieLand,Worse Comp Format,3658390,KOTH,koth_product_final
+429,@MST,somebody help,3658389,KOTH,koth_product_final
+430,The Duddy Dudes,Ohio Leif Village,3658386,KOTH,koth_product_final
+431,Impostors,Unknown,3658384,KOTH,koth_product_final
+432,Dreamybull's Kitchen,Run It Back,3658382,KOTH,koth_product_final
+433,Unknown,Run It Back,3657948,KOTH,koth_product_final
+434,Dreamybull's Kitchen,Ohio Leif Village,3657942,KOTH,koth_product_final
+435,Unknown,@MST,3657938,KOTH,koth_product_final
+436,Unknown,@MST,3657926,KOTH,koth_product_final
+437,Impostors,The Hardworking Hornets,3657921,KOTH,koth_product_final
+438,Unknown,Run It Back,3657903,KOTH,koth_product_final
+439,Dreamybull's Kitchen,Ohio Leif Village,3657900,KOTH,koth_product_final
+440,Worse Comp Format,somebody help,3657891,KOTH,koth_product_final
+441,Impostors,The Hardworking Hornets,3657886,KOTH,koth_product_final
+442,Unknown,@MST,3657871,KOTH,koth_product_final
+443,Unknown,Run It Back,3657869,KOTH,koth_product_final
+444,Dreamybull's Kitchen,Ohio Leif Village,3657866,KOTH,koth_product_final
+445,Worse Comp Format,somebody help,3657864,KOTH,koth_product_final
+446,Impostors,The Hardworking Hornets,3657858,KOTH,koth_product_final
+447,Impostors,Worse Comp Format,3657839,KOTH,koth_product_final
+448,Run It Back,@MST,3657833,KOTH,koth_product_final
+449,Unknown,Dreamybull's Kitchen,3657831,KOTH,koth_product_final
+450,Unknown,Dreamybull's Kitchen,3657830,KOTH,koth_product_final
+451,Unknown,Dreamybull's Kitchen,3657816,KOTH,koth_product_final
+452,Unknown,somebody help,3657814,KOTH,koth_product_final
+453,The Duddy Dudes,Ohio Leif Village,3657813,KOTH,koth_product_final
+454,Run It Back,@MST,3657807,KOTH,koth_product_final
+455,Unknown,Dreamybull's Kitchen,3657792,KOTH,koth_product_final
+456,Unknown,somebody help,3657782,KOTH,koth_product_final
+457,Impostors,Worse Comp Format,3657778,KOTH,koth_product_final
+458,The Duddy Dudes,Ohio Leif Village,3657776,KOTH,koth_product_final
+459,Run It Back,@MST,3657772,KOTH,koth_product_final
+460,Impostors,Unknown,3657234,KOTH,koth_product_final
+461,Ohio Leif Village,FroggieLand,3657229,KOTH,koth_product_final
+462,Dreamybull's Kitchen,@MST,3657220,KOTH,koth_product_final
+463,The Duddy Dudes,The Hardworking Hornets,3657214,KOTH,koth_product_final
+464,Dreamybull's Kitchen,@MST,3657208,KOTH,koth_product_final
+465,Ohio Leif Village,FroggieLand,3657205,KOTH,koth_product_final
+466,Impostors,Unknown,3657191,KOTH,koth_product_final
+467,Dreamybull's Kitchen,@MST,3657180,KOTH,koth_product_final
+468,The Duddy Dudes,The Hardworking Hornets,3657178,KOTH,koth_product_final
+469,Ohio Leif Village,FroggieLand,3657175,KOTH,koth_product_final
+470,Ohio Leif Village,The Hardworking Hornets,3657171,KOTH,koth_product_final
+471,FroggieLand,Dreamybull's Kitchen,3657170,KOTH,koth_product_final
+472,FroggieLand,Dreamybull's Kitchen,3657169,KOTH,koth_product_final
+473,Impostors,Run It Back,3657148,KOTH,koth_product_final
+474,Ohio Leif Village,The Hardworking Hornets,3657147,KOTH,koth_product_final
+475,Unknown,@MST,3657144,KOTH,koth_product_final
+476,FroggieLand,Dreamybull's Kitchen,3657136,KOTH,koth_product_final
+477,Ohio Leif Village,The Hardworking Hornets,3657111,KOTH,koth_product_final
+478,Impostors,Run It Back,3657107,KOTH,koth_product_final
+479,Unknown,@MST,3657101,KOTH,koth_product_final
+480,Ohio Leif Village,The Hardworking Hornets,3657098,KOTH,koth_product_final
+481,Impostors,Dreamybull's Kitchen,3654295,PL,pl_vigil_rc10
+482,Dreamybull's Kitchen,Impostors,3654278,PL,pl_vigil_rc10
+483,Dreamybull's Kitchen,Impostors,3654266,PL,pl_vigil_rc10
+484,FroggieLand,The Hardworking Hornets,3654262,PL,pl_vigil_rc10
+485,The Duddy Dudes,Ohio Leif Village,3654259,PL,pl_vigil_rc10
+486,Run It Back,FroggieLand,3654250,PL,pl_vigil_rc10
+487,Run It Back,FroggieLand,3654247,PL,pl_vigil_rc10
+488,@MST,The Hardworking Hornets,3654235,PL,pl_vigil_rc10
+489,The Duddy Dudes,Ohio Leif Village,3654233,PL,pl_vigil_rc10
+490,@MST,The Hardworking Hornets,3654208,PL,pl_vigil_rc10
+491,Impostors,Dreamybull's Kitchen,3654203,PL,pl_vigil_rc10
+492,FroggieLand,Run It Back,3654196,PL,pl_vigil_rc10
+493,Worse Comp Format,somebody help,3654195,PL,pl_vigil_rc10
+494,Ohio Leif Village,The Duddy Dudes,3654172,PL,pl_vigil_rc10
+495,somebody help,Worse Comp Format,3654153,PL,pl_vigil_rc10
+496,Run It Back,FroggieLand,3654151,PL,pl_vigil_rc10
+497,The Hardworking Hornets,@MST,3654150,PL,pl_vigil_rc10
+498,Dreamybull's Kitchen,Impostors,3654142,PL,pl_vigil_rc10
+499,The Duddy Dudes,Ohio Leif Village,3654130,PL,pl_vigil_rc10
+500,Run It Back,Dreamybull's Kitchen,3654116,PL,pl_vigil_rc10
+501,somebody help,@MST,3654110,PL,pl_vigil_rc10
+502,Dreamybull's Kitchen,Run It Back,3654094,PL,pl_vigil_rc10
+503,FroggieLand,The Hardworking Hornets,3654086,PL,pl_vigil_rc10
+504,Ohio Leif Village,Worse Comp Format,3654084,PL,pl_vigil_rc10
+505,Unknown,Impostors,3654080,PL,pl_vigil_rc10
+506,@MST,somebody help,3654062,PL,pl_vigil_rc10
+507,The Hardworking Hornets,FroggieLand,3654046,PL,pl_vigil_rc10
+508,Run It Back,Dreamybull's Kitchen,3654045,PL,pl_vigil_rc10
+509,Impostors,Unknown,3654039,PL,pl_vigil_rc10
+510,Worse Comp Format,Ohio Leif Village,3654036,PL,pl_vigil_rc10
+511,somebody help,@MST,3654033,PL,pl_vigil_rc10
+512,Dreamybull's Kitchen,Ohio Leif Village,3653567,PL,pl_vigil_rc10
+513,Unknown,Worse Comp Format,3653564,PL,pl_vigil_rc10
+514,The Duddy Dudes,Run It Back,3653559,PL,pl_vigil_rc10
+515,Unknown,@MST,3653553,PL,pl_vigil_rc10
+516,Dreamybull's Kitchen,Ohio Leif Village,3653550,PL,pl_vigil_rc10
+517,Impostors,somebody help,3653548,PL,pl_vigil_rc10
+518,FroggieLand,The Hardworking Hornets,3653547,PL,pl_vigil_rc10
+519,FroggieLand,The Hardworking Hornets,3653545,PL,pl_vigil_rc10
+520,Unknown,@MST,3653534,PL,pl_vigil_rc10
+521,Worse Comp Format,Unknown,3653526,PL,pl_vigil_rc10
+522,Ohio Leif Village,Dreamybull's Kitchen,3653522,PL,pl_vigil_rc10
+523,somebody help,Impostors,3653519,PL,pl_vigil_rc10
+524,Run It Back,The Duddy Dudes,3653518,PL,pl_vigil_rc10
+525,The Hardworking Hornets,FroggieLand,3653513,PL,pl_vigil_rc10
+526,@MST,Unknown,3653509,PL,pl_vigil_rc10
+527,Dreamybull's Kitchen,Ohio Leif Village,3653502,PL,pl_vigil_rc10
+528,Ohio Leif Village,Dreamybull's Kitchen,3653495,PL,pl_vigil_rc10
+529,Unknown,Worse Comp Format,3653487,PL,pl_vigil_rc10
+530,The Duddy Dudes,Run It Back,3653484,PL,pl_vigil_rc10
+531,Unknown,@MST,3653477,PL,pl_vigil_rc10
+532,Impostors,somebody help,3653472,PL,pl_vigil_rc10
+533,The Hardworking Hornets,Ohio Leif Village,3653461,PL,pl_vigil_rc10
+534,Worse Comp Format,Dreamybull's Kitchen,3653453,PL,pl_vigil_rc10
+535,The Hardworking Hornets,Ohio Leif Village,3653449,PL,pl_vigil_rc10
+536,@MST,Run It Back,3653444,PL,pl_vigil_rc10
+537,FroggieLand,somebody help,3653435,PL,pl_vigil_rc10
+538,Unknown,Impostors,3653433,PL,pl_vigil_rc10
+539,Dreamybull's Kitchen,Worse Comp Format,3653426,PL,pl_vigil_rc10
+540,somebody help,Unknown,3653414,PL,pl_vigil_rc10
+541,Ohio Leif Village,The Hardworking Hornets,3653400,PL,pl_vigil_rc10
+542,Impostors,Unknown,3653392,PL,pl_vigil_rc10
+543,Run It Back,@MST,3653391,PL,pl_vigil_rc10
+544,Worse Comp Format,Dreamybull's Kitchen,3653390,PL,pl_vigil_rc10
+545,Ohio Leif Village,FroggieLand,3652839,PL,pl_vigil_rc10
+546,@MST,Dreamybull's Kitchen,3652832,PL,pl_vigil_rc10
+547,Ohio Leif Village,FroggieLand,3652831,PL,pl_vigil_rc10
+548,The Duddy Dudes,The Hardworking Hornets,3652823,PL,pl_vigil_rc10
+549,Unknown,Impostors,3652821,PL,pl_vigil_rc10
+550,Dreamybull's Kitchen,@MST,3652819,PL,pl_vigil_rc10
+551,Run It Back,somebody help,3652812,PL,pl_vigil_rc10
+552,The Duddy Dudes,The Hardworking Hornets,3652800,PL,pl_vigil_rc10
+553,FroggieLand,Ohio Leif Village,3652794,PL,pl_vigil_rc10
+554,Impostors,Unknown,3652783,PL,pl_vigil_rc10
+555,somebody help,Run It Back,3652775,PL,pl_vigil_rc10
+556,@MST,Dreamybull's Kitchen,3652773,PL,pl_vigil_rc10
+557,The Hardworking Hornets,The Duddy Dudes,3652768,PL,pl_vigil_rc10
+558,Ohio Leif Village,FroggieLand,3652765,PL,pl_vigil_rc10
+559,FroggieLand,Dreamybull's Kitchen,3652759,PL,pl_vigil_rc10
+560,FroggieLand,Dreamybull's Kitchen,3652756,PL,pl_vigil_rc10
+561,Run It Back,Impostors,3652755,PL,pl_vigil_rc10
+562,The Duddy Dudes,somebody help,3652744,PL,pl_vigil_rc10
+563,The Hardworking Hornets,Ohio Leif Village,3652743,PL,pl_vigil_rc10
+564,Unknown,@MST,3652737,PL,pl_vigil_rc10
+565,Ohio Leif Village,The Hardworking Hornets,3652725,PL,pl_vigil_rc10
+566,Impostors,Run It Back,3652723,PL,pl_vigil_rc10
+567,Dreamybull's Kitchen,FroggieLand,3652720,PL,pl_vigil_rc10
+568,somebody help,The Duddy Dudes,3652713,PL,pl_vigil_rc10
+569,@MST,Unknown,3652704,PL,pl_vigil_rc10
+570,The Duddy Dudes,somebody help,3652703,PL,pl_vigil_rc10
+571,Run It Back,Impostors,3652697,PL,pl_vigil_rc10
+572,The Hardworking Hornets,Ohio Leif Village,3652693,PL,pl_vigil_rc10
+573,somebody help,The Duddy Dudes,3652690,PL,pl_vigil_rc10
+574,Dreamybull's Kitchen,Ohio Leif Village,3649865,PL,pl_upward_f10
+575,@MST,Impostors,3649855,PL,pl_upward_f11
+576,Unknown,Run It Back,3649830,KOTH,koth_cascade_rc1a
+577,Unknown,Run It Back,3649808,KOTH,koth_cascade_rc1a
+578,Ohio Leif Village,Dreamybull's Kitchen,3649798,KOTH,koth_ashville_final1
+579,Impostors,@MST,3649793,KOTH,koth_product_final
+580,Unknown,Dreamybull's Kitchen,3649780,KOTH,koth_product_final
+581,Run It Back,FroggieLand,3649777,PL,pl_upward_f12
+582,Dreamybull's Kitchen,Unknown,3649763,PL,pl_vigil_rc10
+583,@MST,Unknown,3649762,PL,pl_vigil_rc10
+584,Impostors,Unknown,3649740,KOTH,koth_product_final
+585,Run It Back,FroggieLand,3649736,KOTH,koth_ashville_final
+586,Unknown,Dreamybull's Kitchen,3649734,PL,pl_vigil_rc10
+587,Impostors,Unknown,3649727,PL,pl_vigil_rc10
+588,Run It Back,FroggieLand,3649721,KOTH,koth_ashville_final
+589,Unknown,@MST,3649720,KOTH,koth_product_final
+590,Ohio Leif Village,Run It Back,3649223,KOTH,koth_product_final
+591,FroggieLand,Impostors,3649208,KOTH,koth_product_final
+592,Run It Back,Ohio Leif Village,3649200,PL,pl_upward_f12
+593,FroggieLand,Impostors,3649187,PL,pl_vigil_rc10
+594,Dreamybull's Kitchen,Unknown,3649175,KOTH,koth_product_final
+595,@MST,Run It Back,3649174,KOTH,koth_ashville_final
+596,Ohio Leif Village,Unknown,3649169,KOTH,koth_cascade_rc1a
+597,Impostors,Unknown,3649160,PL,pl_vigil_rc10
+598,@MST,Run It Back,3649159,KOTH,koth_ashville_final
+599,Dreamybull's Kitchen,Unknown,3649148,KOTH,koth_product_final
+600,Run It Back,@MST,3649133,PL,pl_vigil_rc10
+601,Unknown,Dreamybull's Kitchen,3649124,PL,pl_vigil_rc10
+602,Unknown,Ohio Leif Village,3649123,KOTH,koth_lakeside_r2
+603,Unknown,Impostors,3649121,KOTH,koth_product_final
+604,Dreamybull's Kitchen,@MST,3648542,PL,pl_vigil_rc9
+605,Run It Back,Impostors,3648536,PL,pl_vigil_rc10
+606,FroggieLand,Ohio Leif Village,3648532,KOTH,koth_ashville_final1
+607,Ohio Leif Village,FroggieLand,3648510,PL,pl_swiftwater_final1
+608,@MST,Dreamybull's Kitchen,3648501,KOTH,koth_product_final
+609,Impostors,Run It Back,3648500,KOTH,koth_product_final
+610,Dreamybull's Kitchen,Run It Back,3648471,PL,pl_vigil_rc10
+611,FroggieLand,Unknown,3648464,KOTH,koth_ashville_final1
+612,Ohio Leif Village,The Duddy Dudes,3648463,PL,pl_upward_f11
+613,The Duddy Dudes,Ohio Leif Village,3648449,PL,pl_upward_f11
+614,Impostors,Unknown,3648444,KOTH,koth_product_final
+615,Unknown,FroggieLand,3648438,PL,pl_upward_f11
+616,Unknown,Impostors,3648425,PL,pl_vigil_rc10
+617,The Duddy Dudes,Ohio Leif Village,3648422,KOTH,koth_ashville_final
+618,Run It Back,Dreamybull's Kitchen,3648419,KOTH,koth_ashville_final
+619,@MST,Unknown,3645921,PL,pl_vigil_rc10
+620,Dreamybull's Kitchen,Worse Comp Format,3645912,PL,pl_vigil_rc10
+621,Unknown,@MST,3645886,PL,pl_vigil_rc10
+622,Impostors,Unknown,3645873,KOTH,koth_product_final
+623,Dreamybull's Kitchen,Worse Comp Format,3645858,KOTH,koth_product_final
+624,Unknown,Impostors,3645843,PL,pl_vigil_rc10
+625,Unknown,@MST,3645839,KOTH,koth_ashville_final
+626,Dreamybull's Kitchen,Ohio Leif Village,3645816,KOTH,koth_lakeside_final
+627,@MST,Run It Back,3645805,KOTH,koth_ashville_final
+628,Worse Comp Format,Unknown,3645798,PL,pl_vigil_rc10
+629,Ohio Leif Village,Dreamybull's Kitchen,3645790,PL,pl_upward_f10
+630,@MST,Run It Back,3645787,PL,pl_vigil_rc10
+631,Run It Back,@MST,3645765,PL,pl_vigil_rc10
+632,Worse Comp Format,Unknown,3645760,KOTH,koth_lakeside_r2
+633,The Hardworking Hornets,Ohio Leif Village,3645370,PL,pl_vigil_rc10
+634,Dreamybull's Kitchen,@MST,3645366,PL,pl_vigil_rc10
+635,Run It Back,The Duddy Dudes,3645350,KOTH,koth_product_final
+636,Unknown,Impostors,3645337,KOTH,koth_ashville_final1
+637,Dreamybull's Kitchen,@MST,3645325,KOTH,koth_ashville_final
+638,The Hardworking Hornets,Ohio Leif Village,3645320,KOTH,koth_product_final
+639,Run It Back,The Duddy Dudes,3645316,KOTH,koth_cascade_rc1a
+640,Impostors,Unknown,3645310,PL,pl_vigil_rc10
+641,Ohio Leif Village,Dreamybull's Kitchen,3645305,PL,pl_upward_f11
+642,@MST,Unknown,3645281,KOTH,koth_ashville_final1
+643,The Duddy Dudes,Unknown,3645268,PL,pl_vigil_rc10
+644,@MST,Unknown,3645263,KOTH,koth_lakeside_r2
+645,Ohio Leif Village,Dreamybull's Kitchen,3645262,KOTH,koth_ashville_final1
+646,Unknown,Impostors,3645252,KOTH,koth_ashville_final1
+647,The Duddy Dudes,Unknown,3645231,KOTH,koth_lakeside_r2
+648,@MST,Unknown,3645230,KOTH,koth_lakeside_r2
+649,Unknown,Impostors,3645229,PL,pl_vigil_rc10
+650,Unknown,@MST,3644780,PL,pl_vigil_rc10
+651,Run It Back,Unknown,3644766,PL,pl_vigil_rc10
+652,Unknown,Dreamybull's Kitchen,3644758,KOTH,koth_lakeside_r2
+653,Unknown,Run It Back,3644754,PL,pl_vigil_rc10
+654,Unknown,@MST,3644746,KOTH,koth_product_final
+655,Impostors,Unknown,3644732,KOTH,koth_product_final
+656,Unknown,@MST,3644731,KOTH,koth_product_final
+657,Dreamybull's Kitchen,Unknown,3644726,KOTH,koth_ashville_final1
+658,Run It Back,Unknown,3644722,KOTH,koth_product_final
+659,Unknown,Impostors,3644718,PL,pl_vigil_rc10
+660,Dreamybull's Kitchen,Run It Back,3644702,PL,pl_vigil_rc10
+661,The Duddy Dudes,Unknown,3644697,PL,pl_swiftwater_final1
+662,Impostors,Unknown,3644681,KOTH,koth_product_final
+663,Run It Back,Dreamybull's Kitchen,3644678,KOTH,koth_product_final
+664,Unknown,Impostors,3644667,PL,pl_vigil_rc10
+665,Unknown,The Duddy Dudes,3644666,KOTH,koth_product_final
+666,Unknown,FroggieLand,3641746,PL,pl_upward_f11
+667,somebody help,@MST,3641712,PL,pl_vigil_rc10
+668,FroggieLand,Unknown,3641711,KOTH,koth_product_final
+669,somebody help,@MST,3641679,PL,pl_vigil_rc10
+670,Unknown,Dreamybull's Kitchen,3641678,KOTH,koth_product_final
+671,Impostors,Unknown,3641676,PL,pl_vigil_rc10
+672,FroggieLand,Unknown,3641669,KOTH,koth_ashville_final
+673,Impostors,Unknown,3641647,KOTH,koth_ashville_final1
+674,somebody help,@MST,3641636,PL,pl_upward_f10
+675,Unknown,FroggieLand,3641621,PL,pl_vigil_rc10
+676,Unknown,Impostors,3641618,PL,pl_swiftwater_final1
+677,Unknown,Dreamybull's Kitchen,3641615,KOTH,koth_ashville_final1
+678,@MST,somebody help,3641587,KOTH,koth_product_final
+679,FroggieLand,Unknown,3641586,KOTH,koth_ashville_final1
+680,Unknown,Dreamybull's Kitchen,3641583,KOTH,koth_product_final
+681,Impostors,Unknown,3641580,KOTH,koth_product_final
+682,@MST,Unknown,3641159,PL,pl_vigil_rc10
+683,FroggieLand,Impostors,3641153,PL,pl_upward_f11
+684,Dreamybull's Kitchen,Ohio Leif Village,3641147,KOTH,koth_product_final
+685,Dreamybull's Kitchen,Ohio Leif Village,3641125,KOTH,koth_ashville_final
+686,@MST,Unknown,3641108,KOTH,koth_ashville_final
+687,FroggieLand,Impostors,3641107,KOTH,koth_ashville_final1
+688,somebody help,Unknown,3641091,PL,pl_vigil_rc10
+689,Dreamybull's Kitchen,Unknown,3641086,KOTH,koth_product_final
+690,Unknown,FroggieLand,3641083,PL,pl_vigil_rc10
+691,Unknown,Impostors,3641080,PL,pl_vigil_rc10
+692,@MST,Unknown,3641074,PL,pl_vigil_rc10
+693,Dreamybull's Kitchen,Unknown,3641070,KOTH,koth_product_final
+694,Dreamybull's Kitchen,Unknown,3641061,KOTH,koth_product_final
+695,Unknown,Impostors,3641049,KOTH,koth_product_final
+696,@MST,Unknown,3641048,KOTH,koth_product_final
+697,Unknown,Dreamybull's Kitchen,3641045,PL,pl_upward
+698,Unknown,somebody help,3641044,KOTH,koth_product_final
+699,FroggieLand,Unknown,3641043,KOTH,koth_ashville_final
+700,Unknown,@MST,3640490,PL,pl_upward_f11
+701,@MST,Unknown,3640458,KOTH,koth_product_final
+702,Unknown,@MST,3640425,KOTH,koth_ashville_final
+703,@MST,Unknown,3640413,PL,pl_vigil_rc10
