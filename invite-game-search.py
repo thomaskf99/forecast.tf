@@ -73,13 +73,15 @@ if __name__ == "__main__":
 
                         log_info = make_api_request(f"http://logs.tf/api/v1/log/{log['id']}")
 
-
-                        for player in playerset:
-                            # print(log['id'])
-                            if log_info["players"][team_ids.loc[team_ids["Steam64ID"] == player]["SteamID3"].values[:1][0]]["team"] == "Red":
-                                count += 1
-                            else:
-                                count -= 1
+                        try:
+                            for player in playerset:
+                                # print(log['id'])
+                                if log_info["players"][team_ids.loc[team_ids["Steam64ID"] == player]["SteamID3"].values[:1][0]]["team"] == "Red":
+                                    count += 1
+                                else:
+                                    count -= 1
+                        except:
+                            continue
                         
                         if count == minimum_team_identifying_playercount:
                             color = "Red"

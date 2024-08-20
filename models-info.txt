@@ -1,0 +1,5 @@
+Product:    R2 of .884, trained on 90k games
+Ashville:   R2 of .823, trained on 28k games
+Lakeside:   R2 of .848, trained on 18k games
+Cascade:    R2 of .762, trained on  6k games
+Proot:      R2 of .784, trained on 4.3k games

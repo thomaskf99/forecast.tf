@@ -355,14 +355,17 @@ def select_blue_stats(data: dict) -> dict:
     }
     return stats
 
-def average_stats(many_logs: list) -> dict:
+def average_stats(many_logs: list) -> tuple:
     
-    new_dict = {}
+    avg_dict = {}
+
+    sd_dict = {}
 
     num_logs = len(many_logs)
 
     for log in many_logs:
         for key in log.keys():
+            sd_dict[key] = 0
             log[key] *= log["Length"]
         log["Length"] = math.sqrt(log["Length"]) 
         log["Charges"] /= log["Length"]
@@ -371,22 +374,27 @@ def average_stats(many_logs: list) -> dict:
     
     for log in many_logs:
         for key in log.keys():
-            if key in new_dict.keys():
-                new_dict[key] += log[key]
+            if key in avg_dict.keys():
+                avg_dict[key] += log[key]
             else:
-                new_dict[key] = log[key]
+                avg_dict[key] = log[key]
 
-    t = new_dict["Length"]
-    for key in new_dict.keys():
-        new_dict[key] /= t
-    new_dict["Charges"] *= t
-    new_dict["Drops"] *= t
-    new_dict["Length"] *= t
+    t = avg_dict["Length"]
+    for key in avg_dict.keys():
+        avg_dict[key] /= t
+    avg_dict["Charges"] *= t
+    avg_dict["Drops"] *= t
+    avg_dict["Length"] *= t
 
-    new_dict["Charges"] /= num_logs
-    new_dict["Drops"] /= num_logs
+    avg_dict["Charges"] /= num_logs
+    avg_dict["Drops"] /= num_logs
 
-    return new_dict
+    for log in many_logs:
+        for key in log.keys():
+            sd_dict[key] += (log[key] - avg_dict[key]) ** 2
+
+
+    return avg_dict, sd_dict
 
 def combine_blue_and_red_aggregates(blue_average: dict, red_average:dict) -> dict:
     stats = {
